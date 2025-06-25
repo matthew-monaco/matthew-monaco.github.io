@@ -1,8 +1,10 @@
 # Official Site of Matthew Monaco
 
-[About](/About)
+[About](/about)
 
-[List of Works](/List-of-Works)
+[List of Works](/list-of-works)
+
+[Audio and Video](/audio-and-video)
 
 ![Headshot](IMG_9929_0.jpg)
 
