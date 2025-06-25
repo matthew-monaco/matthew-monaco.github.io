@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
 title: Matthew Monaco
 description: Official site of composer Matthew Monaco. Copyright 2025. All rights reserved.
+remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
