@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Audio and Video"
 permalink: /audio-and-video
 ---
