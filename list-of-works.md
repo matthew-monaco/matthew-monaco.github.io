@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "List of Works"
 permalink: /list-of-works
 ---
