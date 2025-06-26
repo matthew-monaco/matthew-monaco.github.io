@@ -9,11 +9,11 @@ permalink: /list-of-works
 
 ### 2022 – Stray, for 20 musicians. 23’. 
 
-  #### Premiered by l'Orchestre des lauréats du Conservatoire (CNSMDP), Jean Deroyer.
+  Premiered by l'Orchestre des lauréats du Conservatoire (CNSMDP), Jean Deroyer.
 
 ### 2019 – And to think that night would not exist
 
-  #### Orchestra. 15’. Recorded by the NEC Philharmonia, David Loebel.
+  Orchestra. 15’. Recorded by the NEC Philharmonia, David Loebel.
 
 ## Ensemble (conducted)
 
