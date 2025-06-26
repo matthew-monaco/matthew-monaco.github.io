@@ -4,7 +4,11 @@ title: "List of Works"
 permalink: /list-of-works
 ---
 
+***
+
 [Home](/) | [About](/about)  | [Audio and Video](/audio-and-video)
+
+***
 
 ## Large ensemble and orchestra
 
