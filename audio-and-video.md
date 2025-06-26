@@ -13,7 +13,7 @@ permalink: /audio-and-video
 
 ## [Watch performance of *Scaling* with Ensemble intercontemporain](https://www.youtube.com/watch?v=t6OVz_XPd8w&list=RDt6OVz_XPd8w&start_radio=1&ab_channel=MatthewMonaco)
 
-## [Listen to trio with Nathan Corder and Mat Muntz](https://cmmtrio.bandcamp.com/album/live-in-berkeley)
+## [Listen to trio with Nathan Corder (electronics) and Mat Muntz (double bass)](https://cmmtrio.bandcamp.com/album/live-in-berkeley)
 
 [Home](/)
 
