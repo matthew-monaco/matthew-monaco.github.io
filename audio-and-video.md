@@ -4,6 +4,12 @@ title: "Audio and Video"
 permalink: /audio-and-video
 ---
 
+***
+
+[Home](/) | [About](/about)  |  [List of Works](/list-of-works)
+
+***
+
 # Links to my music
 
 ## Audio
