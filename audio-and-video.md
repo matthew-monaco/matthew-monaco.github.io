@@ -21,3 +21,9 @@ permalink: /audio-and-video
 ## Trio with Nathan Corder and Mat Muntz
 
 ### https://cmmtrio.bandcamp.com/album/live-in-berkeley
+
+[Home](/)
+
+[About](/about)
+
+[List of Works](/list-of-works)
