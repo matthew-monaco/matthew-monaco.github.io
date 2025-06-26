@@ -21,9 +21,7 @@ permalink: /list-of-works
 
 ### Thread (2025)
 
-&nbsp; &nbsp; &nbsp; 6 musicians (fl./cl./pno./vln./vla./vc.). 15’.
-
-&nbsp; &nbsp; &nbsp; Premiered by Ensemble Linea, Jean-Philippe Wurtz, at the Festival aux Chandelles on May 30th, 2025. Commissioned by the Royaumont Foundation.
+&nbsp; &nbsp; &nbsp; 6 musicians (fl./cl./pno./vln./vla./vc.). 15’. Premiered by Ensemble Linea, Jean-Philippe Wurtz, at the Festival aux Chandelles on May 30th, 2025. Commissioned by the Royaumont Foundation.
 
 ### Split (2023)
 
