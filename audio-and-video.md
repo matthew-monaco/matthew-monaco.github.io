@@ -9,15 +9,11 @@ permalink: /audio-and-video
 ## [Listen on Spotify](https://soundcloud.com/matthewtmonaco)
 
 
-## Video of "Mesh"
+## [Watch performance of *Mesh* with Ensemble Court-circuit](https://www.youtube.com/watch?v=RuL0ushx5a0&list=RDRuL0ushx5a0&start_radio=1&ab_channel=Royaumont)
 
-### Link here
+## [Watch performance of *Scaling* with Ensemble intercontemporain](https://www.youtube.com/watch?v=t6OVz_XPd8w&list=RDt6OVz_XPd8w&start_radio=1&ab_channel=MatthewMonaco)
 
-## Video of "Scaling"
-
-### Link here
-
-## [Trio with Nathan Corder and Mat Muntz](https://cmmtrio.bandcamp.com/album/live-in-berkeley)
+## [Listen to trio with Nathan Corder and Mat Muntz](https://cmmtrio.bandcamp.com/album/live-in-berkeley)
 
 [Home](/)
 
