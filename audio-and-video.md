@@ -20,7 +20,7 @@ permalink: /audio-and-video
 
 # Collaborations
 
-## Trio with Nathan Corder (electronics) and Mat Muntz (double bass)
+## Trio improvisations with Nathan Corder (electronics) and Mat Muntz (double bass)
 
 ### [Listen/buy on BandCamp](https://cmmtrio.bandcamp.com/album/live-in-berkeley)
 
