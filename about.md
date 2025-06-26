@@ -4,6 +4,12 @@ title: "About"
 permalink: /about
 ---
 
+***
+
+[Home](/)  |  [List of Works](/list-of-works)  |  [Audio and Video](/audio-and-video)
+
+***
+
 Matthew Monaco (born 1997 in Teaneck, New Jersey) was immersed in jazz music from an early age, beginning his musical training at the piano, improvising in this familiar style. Further studies in jazz were ruptured by his encounter with the work of J.S. Bach, leading to an instant fascination with notated, classical music. Maintaining jazz and classical as essential aspects of his musical identity, Matthew began his training and career as a composer of acoustic and electroacoustic music at the New England Conservatory in Boston in the class of Stratis Minakakis. From 2018 to 2020, Matthew organized a monthly concert series for contemporary music, programming premieres by NEC composers, often performing his own music and that of his peers.
 
 After obtaining his Bachelor's degree in 2020, Matthew moved to Paris and studied with Stefano Gervasoni for two years at the Conservatoire National Supérieur de Musique et de Danse de Paris (CNSMDP). These encounters led to collaborations with Ensemble Intercontemporain, Ensemble Itinéraire, Ensemble Court-circuit, Ensemble Linea, the Callithumpian Consort, the Del Sol Quartet, the Brouwer Trio, Orchestre des lauréats du Conservatoire (CNSMDP), and others. Matthew’s music has been performed by conductors such as Hugh Wolff, Jean Deroyer, Jean-Philippe Wurtz, Stephen Drury, David Loebel, and Léo Margue.
@@ -19,9 +25,3 @@ Through his travels and his desire to meet the composers who inspire him, Matthe
 Matthew lives in Paris as a recipient of the George Ladd Prix de Paris.
 
 ***
-
-[Home](/)
-
-[List of Works](/list-of-works)
-
-[Audio and Video](/audio-and-video)
