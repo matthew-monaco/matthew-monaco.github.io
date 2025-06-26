@@ -1,4 +1,4 @@
-# Official Site of Matthew Monaco
+# Official Site of Matthew Monaco, Composer
 
 [About](/about)
 
@@ -7,9 +7,3 @@
 [Audio and Video](/audio-and-video)
 
 ![Headshot](IMG_9929_0.jpg)
-
-Bio Here
-
-List of works
-
-Links to audio/video
