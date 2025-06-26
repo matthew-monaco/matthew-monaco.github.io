@@ -19,19 +19,19 @@ permalink: /list-of-works
 
 ### Thread (2025)
 
-  6 musicians. 16’. Premiered by Ensemble Linea, Jean-Philippe Wurtz.
+&nbsp; &nbsp; &nbsp; 6 musicians. 16’. Premiered by Ensemble Linea, Jean-Philippe Wurtz.
 
 ### Split (2023)
 
-  6 musicians. 12’. Premiered by Ensemble l’Itinéraire, David Milnes.
+&nbsp; &nbsp; &nbsp; 6 musicians. 12’. Premiered by Ensemble l’Itinéraire, David Milnes.
 
 ### Mesh (2023)
 
-  7 musicians. 10’. Premiered by Ensemble Court-circuit, Jean Deroyer.
+&nbsp; &nbsp; &nbsp; 7 musicians. 10’. Premiered by Ensemble Court-circuit, Jean Deroyer.
 
 ### Spirals, Orbits, and Circular Paths (2021)
 
-  12 musicians. 10’. Premiered by Ensemble intercontemporain, Leo Margue.
+&nbsp; &nbsp; &nbsp; 12 musicians. 10’. Premiered by Ensemble intercontemporain, Leo Margue.
 
 ### Scaling (2020)
 
