@@ -13,7 +13,7 @@ permalink: /list-of-works
 
 ### And to think that night would not exist (2019)
 
-  Orchestra. 15’. Recorded by the NEC Philharmonia, David Loebel.
+&ensp; Orchestra. 15’. Recorded by the NEC Philharmonia, David Loebel.
 
 ## Ensemble (conducted)
 
