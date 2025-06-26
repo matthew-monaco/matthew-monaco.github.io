@@ -1,5 +1,3 @@
-# Official Site of Matthew Monaco, Composer
-
 [About](/about)
 
 [List of Works](/list-of-works)
