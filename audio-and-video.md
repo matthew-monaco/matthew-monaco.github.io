@@ -33,9 +33,3 @@ permalink: /audio-and-video
 ### [Listen on Spotify](https://open.spotify.com/album/4iauZxL3PfG5TKyKZJAsPs?si=DTq-50U7TKGEM1J9oOs-fg)
 
 ***
-
-[Home](/)
-
-[About](/about)
-
-[List of Works](/list-of-works)
