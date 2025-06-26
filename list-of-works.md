@@ -7,93 +7,93 @@ permalink: /list-of-works
 
 ## Large ensemble and orchestra
 
-### 2022 – Stray
+### Stray (2022)
   
   20 musicians. 23’. Premiered by l'Orchestre des lauréats du Conservatoire (CNSMDP), Jean Deroyer.
 
-### 2019 – And to think that night would not exist
+### And to think that night would not exist (2019)
 
   Orchestra. 15’. Recorded by the NEC Philharmonia, David Loebel.
 
 ## Ensemble (conducted)
 
-### 2025 – Thread
+### Thread (2025)
 
   6 musicians. 16’. Premiered by Ensemble Linea, Jean-Philippe Wurtz.
 
-### 2023 – Split
+### Split (2023)
 
   6 musicians. 12’. Premiered by Ensemble l’Itinéraire, David Milnes.
 
-### 2023 – Mesh
+### Mesh (2023)
 
   7 musicians. 10’. Premiered by Ensemble Court-circuit, Jean Deroyer.
 
-### 2021 – Spirals, Orbits, and Circular Paths
+### Spirals, Orbits, and Circular Paths (2021)
 
   12 musicians. 10’. Premiered by Ensemble intercontemporain, Leo Margue.
 
-### 2020 – Scaling
+### Scaling (2020)
 
   11 musicians. 13’. Premiered by Ensemble intercontemporain, Leo Margue.
 
-### 2020 – Ebb/Flow
+### Ebb/Flow (2020)
 
   13 musicians. 24’.
 
-### 2020 – Flux
+### Flux (2019-20)
 
  7 musicians. 23’. Premiered by Alinéa Ensemble, Tyler Bouque (soliste), Tristan Rais-Sherman (chef).
 
 ## Chamber
 
-### 2024 – Fits and Starts
+### Fits and Starts (2024)
 
   String quartet. 10'. Premiered by the Del Sol Quartet.
 
-### 2019 – Quartet
+### Quartet (2019)
 
   4 musicians. 8'. Premiered by the Callithumpian Consort.
 
-### 2019 – Piano Trio
+### Piano Trio (2019)
 
   Piano trio. 10'.  Premiered by the Brouwer Trio.
 
-### 2019 – Duo
+### Duo (2019)
 
   Flute and violoncello. 15’. Premiered by members of Ensemble Linea.
 
 ## Solo
 
-### 2022 – Tessellate
+### Tessellate (2022)
 
   Alto saxophone. 11’. Premiered by Iñaki Bermudez.
 
-### 2019 – Prelude
+### Prelude (2019)
 
   Piano. 4’. Premiered by David Yu.
 
 ## Solo with electronics
 
-### 2024 – Blur
+### Blur (2024)
 
   Contrabass clarinet and electronics. 8’. Premiered by Alain Billard.
 
-### 2023 – A ritual, maybe
+### A ritual, maybe (2023)
 
   Double bass and electronics. 8’. Premiered by Richard Worn.
 
-### 2022 – Tessellated
+### Tessellated (2022)
 
   Alto saxophone and electronics. 14’. Premiered by Iñaki Bermudez.
 
 ## Coming soon
 
-### 2025 – New work
+### New work (2025)
 
   Accordion. For Théo Ould.
 
-### 2026 – New work
+### New work (2026)
 
   Modern harpsichord. For Ninon Hannecart-Ségal.
 
