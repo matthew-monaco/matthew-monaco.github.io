@@ -29,7 +29,7 @@ permalink: /list-of-works
 
 ### Mesh (2023)
 
-&nbsp; &nbsp; &nbsp; 7 musicians. 10’. Premiered by Ensemble Court-circuit, Jean Deroyer. Premiered at 
+&nbsp; &nbsp; &nbsp; 7 musicians (flute, oboe, bass clarinet, trombone, violin, viola, violoncello). 10’. Premiered by Ensemble Court-circuit, Jean Deroyer. Premiered at 
 
 ### Spirals, Orbits, and Circular Paths (2021)
 
