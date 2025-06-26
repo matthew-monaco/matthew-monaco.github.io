@@ -15,6 +15,8 @@ permalink: /list-of-works
 
 &nbsp; &nbsp; &nbsp; Orchestra. 15’. Recorded by the NEC Philharmonia, David Loebel, in Boston, Massachusetts.
 
+***
+
 ## Ensemble (conducted)
 
 ### Thread (2025)
@@ -45,6 +47,8 @@ permalink: /list-of-works
 
 &nbsp; &nbsp; &nbsp; 7 musicians. 23’. Premiered by the Alinéa Ensemble, Tyler Bouque (soloist), and Tristan Rais-Sherman (conductor) in Boston, Massachusetts.
 
+***
+
 ## Chamber
 
 ### Fits and Starts (2024)
@@ -63,6 +67,8 @@ permalink: /list-of-works
 
 &nbsp; &nbsp; &nbsp; Flute and violoncello. 15’. Premiered by members of Ensemble Linea in Auvillar, France as part of the Etchings Festival.
 
+***
+
 ## Solo
 
 ### Tessellate (2022)
@@ -72,6 +78,8 @@ permalink: /list-of-works
 ### Prelude (2019)
 
 &nbsp; &nbsp; &nbsp; Piano. 4’. Premiered by David Yu in Boston, Massachusetts.
+
+***
 
 ## Solo with electronics
 
@@ -86,6 +94,8 @@ permalink: /list-of-works
 ### Tessellated (2022)
 
 &nbsp; &nbsp; &nbsp; Alto saxophone and electronics. 14’. Premiered by Iñaki Bermudez in Paris, France.
+
+***
 
 ## Coming soon
 
