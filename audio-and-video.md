@@ -6,14 +6,20 @@ permalink: /audio-and-video
 
 # Links to my music
 
-## [Listen on SoundCloud](https://soundcloud.com/matthewtmonaco)
+## Audio
 
-## [Watch performance of *Mesh* with Ensemble Court-circuit](https://www.youtube.com/watch?v=RuL0ushx5a0&list=RDRuL0ushx5a0&start_radio=1&ab_channel=Royaumont)
+### [Listen on SoundCloud](https://soundcloud.com/matthewtmonaco)
 
-## [Watch performance of *Scaling* with Ensemble intercontemporain](https://www.youtube.com/watch?v=t6OVz_XPd8w&list=RDt6OVz_XPd8w&start_radio=1&ab_channel=MatthewMonaco)
+## Videos
 
-## Listen to trio with Nathan Corder (electronics) and Mat Muntz (double bass)
+### [Watch performance of *Mesh* with Ensemble Court-circuit](https://www.youtube.com/watch?v=RuL0ushx5a0&list=RDRuL0ushx5a0&start_radio=1&ab_channel=Royaumont)
+
+### [Watch performance of *Scaling* with Ensemble intercontemporain](https://www.youtube.com/watch?v=t6OVz_XPd8w&list=RDt6OVz_XPd8w&start_radio=1&ab_channel=MatthewMonaco)
+
+## Trio with Nathan Corder (electronics) and Mat Muntz (double bass)
+
 ### [Listen/buy on BandCamp](https://cmmtrio.bandcamp.com/album/live-in-berkeley)
+
 ### [Listen on Spotify](https://cmmtrio.bandcamp.com/album/live-in-berkeley)
 
 [Home](/)
