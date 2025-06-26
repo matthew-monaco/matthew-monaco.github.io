@@ -3,7 +3,6 @@ layout: default
 title: "List of Works"
 permalink: /list-of-works
 ---
-# List of Works
 
 ## Large ensemble and orchestra
 
