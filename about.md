@@ -3,7 +3,6 @@ layout: default
 title: "About"
 permalink: /about
 ---
-# About me
 
 Matthew Monaco (born 1997 in Teaneck, New Jersey) was immersed in jazz music from an early age, beginning his musical training at the piano, improvising in this familiar style. Further studies in jazz were ruptured by his encounter with the work of J.S. Bach, leading to an instant fascination with notated, classical music. Maintaining jazz and classical as essential aspects of his musical identity, Matthew began his training and career as a composer of acoustic and electroacoustic music at the New England Conservatory in Boston in the class of Stratis Minakakis. From 2018 to 2020, Matthew organized a monthly concert series for contemporary music, programming premieres by NEC composers, often performing his own music and that of his peers.
 
