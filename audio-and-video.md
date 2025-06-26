@@ -8,7 +8,7 @@ permalink: /audio-and-video
 
 ## Listen on Spotify
 
-### Link here
+### [Link](https://soundcloud.com/matthewtmonaco)
 
 ## Video of "Mesh"
 
@@ -20,7 +20,7 @@ permalink: /audio-and-video
 
 ## Trio with Nathan Corder and Mat Muntz
 
-### https://cmmtrio.bandcamp.com/album/live-in-berkeley
+### [Link](https://cmmtrio.bandcamp.com/album/live-in-berkeley)
 
 [Home](/)
 
