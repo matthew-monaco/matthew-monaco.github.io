@@ -73,7 +73,7 @@ permalink: /list-of-works
 
 ### Tessellate (2022)
 
-&nbsp; &nbsp; &nbsp; Alto saxophone. 11’. Premiered by Iñaki Bermudez in Paris, France.
+&nbsp; &nbsp; &nbsp; Alto saxophone. 11’. Recorded by Iñaki Bermudez in Paris, France.
 
 ### Prelude (2019)
 
