@@ -25,3 +25,5 @@ Through his travels and his desire to meet the composers who inspire him, Matthe
 Matthew lives in Paris as a recipient of the George Ladd Prix de Paris.
 
 ***
+
+ <style>p { color: blue; }</style>
