@@ -26,8 +26,5 @@ Matthew lives in Paris as a recipient of the George Ladd Prix de Paris.
 
 ***
 
-[normal link](https://www.google.com/)
+ <a href="/about" style="color: black">About</a> | <a href="/list-of-works" style="color: black">List of Works</a> | <a href="/audio-and-video" style="color: black">Audio and Video</a> | <a href="/writings" style="color: black">Writings</a> 
 
-<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
-
-<a href="/list-of-works" style="color: black">List of Works</a>
