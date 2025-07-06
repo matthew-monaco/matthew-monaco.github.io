@@ -65,3 +65,5 @@ Notes :
 Avril 2025.
 
 **Camille Lienhard, La dialectique du cadre et de l’écoute : entretien avec Matthew Monaco, in Les Carnets du Festival aux Chandelles, vol. II, edited by Hélène Papadopoulos, Sainte-Marie-aux-Mines: Val d’Argent Classique, 2025. ISBN 978-2-9593724-1-4.**
+
+[Back](/writings)
