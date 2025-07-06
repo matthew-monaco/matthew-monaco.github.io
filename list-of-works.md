@@ -12,9 +12,8 @@ permalink: /list-of-works
 
 #### *Stray* (2022)
   
-####### 23'. 20 musicians. 
-
-####### &nbsp; &nbsp; Premiered by l'Orchestre des lauréats du Conservatoire (CNSMDP), Jean Deroyer in Paris, France.
+&nbsp; &nbsp; &nbsp; 23'. 20 musicians. 
+&nbsp; &nbsp; &nbsp; Premiered by l'Orchestre des lauréats du Conservatoire (CNSMDP), Jean Deroyer in Paris, France.
 
 #### *And to think that night would not exist* (2019)
 
