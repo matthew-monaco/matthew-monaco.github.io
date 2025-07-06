@@ -26,4 +26,4 @@ Matthew lives in Paris as a recipient of the George Ladd Prix de Paris.
 
 ***
 
- <style>p { color: blue; }</style>
+ <span style='color: red;'>test</span>
