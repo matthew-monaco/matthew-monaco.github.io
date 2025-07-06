@@ -10,7 +10,7 @@ permalink: /interview-with-camille-lienhard
 
 ***
 
-LA DIALECTIQUE DU CADRE ET DE L’ÉCOUTE
+**LA DIALECTIQUE DU CADRE ET DE L’ÉCOUTE**
 
 Entretien avec Matthew Monaco
 
