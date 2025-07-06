@@ -4,8 +4,6 @@ title: "Interview with Camille Lienhard"
 permalink: /interview-with-camille-lienhard
 ---
 
-***
-
  <a href="/writings" style="color: black">Back</a> 
 
 ***
