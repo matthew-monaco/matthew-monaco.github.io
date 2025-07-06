@@ -6,7 +6,7 @@ permalink: /list-of-works
 
 ***
 
-[Home](/) | [About](/about)  | [Audio and Video](/audio-and-video)
+[Home](/) | [About](/about)  | [Audio and Video](/audio-and-video) | [Writings](/writings)
 
 ***
 
