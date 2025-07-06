@@ -11,7 +11,9 @@ permalink: /interview-with-camille-lienhard
 ***
 
 LA DIALECTIQUE DU CADRE ET DE L’ÉCOUTE
+
 Entretien avec Matthew Monaco
+
 Propos recueillis par Camille Lienhard
 
 Dans sa musique, Matthew Monaco pense l’écoute à plusieurs niveaux. Une échelle centrale porte des matériaux élémentaires aux traits distinctifs et mémorables. Au-dessus, un plan structurel supérieur trame ces derniers en une tissage organique complexe qu’évoque ici le titre même de *Thread* (2025)*. En-deçà, un degré de détermination appauvri ouvre à la prolifération de l’indéfini : la simple bascule dans l’informel. Dans la coupe des œuvres aussi bien que dans le mode opératoire de la composition, cette topologie fondamentale se retrouve sous la forme d’une tension entre construction et intuition que recoupe le partage esthétique de l’auteur avec l’univers du free jazz. Ce qui dynamise ces axes, c’est la vision de cadres perceptifs mobiles, approchables de ce que la phénoménologie d’Edmund Husserl nomme parenthèses. Monaco en joue ici au gré des disposition texturales, motiviques, sonores ou formelles : isolant plus ou moins tel ou tel matériau, celles-ci dessinent ou suscitent des processus perceptifs. La musique évolue alors en composant les conditions de son écoute.
