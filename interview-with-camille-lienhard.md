@@ -64,4 +64,8 @@ Notes :
 
 Avril 2025.
 
+***
+
  <a href="/writings" style="color: black">Back</a> 
+
+ ***
