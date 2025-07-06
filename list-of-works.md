@@ -4,7 +4,7 @@ title: "List of Works"
 permalink: /list-of-works
 ---
 
- <a href="/" style="color: black">Home</a> | <a href="/about" style="color: black">About</a> | <a href="/list-of-works" style="color: black">List of Works</a> | <a href="/audio-and-video" style="color: black">Audio and Video</a> | <a href="/writings" style="color: black">Writings</a> 
+<a href="/" style="color: black">**Home**</a> | <a href="/about" style="color: black">**About**</a> | <a href="/list-of-works" style="color: black">**List of Works**</a> | <a href="/audio-and-video" style="color: black">**Audio and Video**</a> | <a href="/writings" style="color: black">**Writings**</a>
 
 ***
 
@@ -112,4 +112,4 @@ permalink: /list-of-works
 
 ***
 
- <a href="/" style="color: black">Home</a> | <a href="/about" style="color: black">About</a> | <a href="/list-of-works" style="color: black">List of Works</a> | <a href="/audio-and-video" style="color: black">Audio and Video</a> | <a href="/writings" style="color: black">Writings</a> 
+<a href="/" style="color: black">**Home**</a> | <a href="/about" style="color: black">**About**</a> | <a href="/list-of-works" style="color: black">**List of Works**</a> | <a href="/audio-and-video" style="color: black">**Audio and Video**</a> | <a href="/writings" style="color: black">**Writings**</a>
