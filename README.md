@@ -1,6 +1,6 @@
 ***
 
-[About](/about)  |  [List of Works](/list-of-works)  |  [Audio and Video](/audio-and-video)
+[About](/about)  |  [List of Works](/list-of-works)  |  [Audio and Video](/audio-and-video) | [Writings](/writings)
 
 ***
 
