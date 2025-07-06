@@ -6,7 +6,7 @@ permalink: /about
 
 ***
 
- <span style='color: black;'>[Home](/) | [List of Works](/list-of-works) | [Audio and Video](/audio-and-video) | [Writings](/writings)</span>
+ <span style='color: black;'>[Home](/)</span> | [List of Works](/list-of-works) | [Audio and Video](/audio-and-video) | [Writings](/writings)
 
 ***
 
