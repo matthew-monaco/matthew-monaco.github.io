@@ -18,7 +18,7 @@ Dans sa musique, Matthew Monaco pense l’écoute à plusieurs niveaux. Une éch
 
 ***
 
-Le mot thread, couramment utilisé dans le lexique numérique, désigne un fil, de discussion, d’actualité ou d’instructions. Pouvez-vous nous éclairer sur la signification de ce titre ?
+**Le mot thread, couramment utilisé dans le lexique numérique, désigne un fil, de discussion, d’actualité ou d’instructions. Pouvez-vous nous éclairer sur la signification de ce titre ?**
 
 J’ai toujours été attiré par des titres plus ou moins polysémiques. Thread peut désigner un objet, le fil, ou l’action d’enfiler. Dans cette pièce, c’est le sens dynamique du mot qui m’importe. L’enfilage progressif – l’idée que les matériaux s’agencent peu à peu – traduit ce que j’espère rendre sensible a l’écoute. Les éléments d’abord disjoints acquièrent progressivement des relations, selon la logique propre à chaque fil. Il ne s’agissait pas de juxtaposer des lignes pour produire une synthèse conceptuelle, mais de laisser une forme organique émerger du matériau lui-même, à partir de ses tensions internes plutôt que d’un plan prédéfini.
 
