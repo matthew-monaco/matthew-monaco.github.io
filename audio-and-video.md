@@ -6,7 +6,7 @@ permalink: /audio-and-video
 
 ***
 
-[Home](/) | [About](/about)  |  [List of Works](/list-of-works)
+[Home](/) | [About](/about)  |  [List of Works](/list-of-works) | [Writings](/writings)
 
 ***
 
