@@ -6,7 +6,7 @@ permalink: /about
 
 ***
 
- [Home](/) | [List of Works](/list-of-works) | [Audio and Video](/audio-and-video) | [Writings](/writings)
+ <span style='color: black;'>[Home](/) | [List of Works](/list-of-works) | [Audio and Video](/audio-and-video) | [Writings](/writings)</span>
 
 ***
 
@@ -25,5 +25,3 @@ Through his travels and his desire to meet the composers who inspire him, Matthe
 Matthew lives in Paris as a recipient of the George Ladd Prix de Paris.
 
 ***
-
- <span style='color: red;'>test</span>
