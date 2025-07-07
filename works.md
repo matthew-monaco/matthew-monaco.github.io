@@ -26,27 +26,27 @@ permalink: /works
 
 #### <a style="color: green"> Thread </a> (2025)
 
-&nbsp; &nbsp; &nbsp; 15'. Flute, clarinet, piano, violin, viola, and violoncello.  
+&nbsp; &nbsp; &nbsp; Flute, clarinet, piano, violin, viola, and violoncello <a style="color: green"> • </a> 15' <a style="color: green"> • </a> 2025   
 &nbsp; &nbsp; &nbsp; Premiered by Ensemble Linea, Jean-Philippe Wurtz, at the Festival aux Chandelles on May 30th, 2025. Commissioned by the Royaumont Foundation.
 
 #### <a style="color: green"> Split </a> (2023)
 
-&nbsp; &nbsp; &nbsp; 12'. Flute, clarinet, piano, violin, viola, and violoncello.  
+&nbsp; &nbsp; &nbsp; Flute, clarinet, piano, violin, viola, and violoncello <a style="color: green"> • </a> 12' <a style="color: green"> • </a> 2023    
 &nbsp; &nbsp; &nbsp; Premiered by Ensemble l’Itinéraire, David Milnes, in Berkeley, California.
 
 #### <a style="color: green"> Mesh </a> (2023)
 
-&nbsp; &nbsp; &nbsp; 10'. Flute, oboe, bass clarinet, trombone, violin, viola, and violoncello.  
+&nbsp; &nbsp; &nbsp; Flute, oboe, bass clarinet, trombone, violin, viola, and violoncello <a style="color: green"> • </a> 10' <a style="color: green"> • </a> 2023  
 &nbsp; &nbsp; &nbsp; Premiered by Ensemble Court-circuit, Jean Deroyer. Premiered at the Royaumont Abbey as part of Voix Nouvelles.
 
 #### <a style="color: green"> Spirals, Orbits, and Circular Paths </a> (2021)
 
-&nbsp; &nbsp; &nbsp; 10'. Contrabass clarinet, 2 percussionists, harp, piano, accordion, 2 violins, 2 violas, violoncello, and double bass.  
-&nbsp; &nbsp; &nbsp; Premiered by Ensemble intercontemporain, Leo Margue,  in Paris, France.
+&nbsp; &nbsp; &nbsp; Contrabass clarinet, 2 percussionists, harp, piano, accordion, 2 violins, 2 violas, violoncello, and double bass <a style="color: green"> • </a> 10' <a style="color: green"> • </a> 2021  
+&nbsp; &nbsp; &nbsp; Premiered by Ensemble intercontemporain, Leo Margue, in Paris, France.
 
 #### <a style="color: green"> Scaling </a> (2020)
 
-&nbsp; &nbsp; &nbsp; 13'. Flute, bass clarinet, alto saxophone, French horn, trombone, percussion, 2 violins, viola, violoncello, and double bass.  
+&nbsp; &nbsp; &nbsp; Flute, bass clarinet, alto saxophone, French horn, trombone, percussion, 2 violins, viola, violoncello, and double bass <a style="color: green"> • </a> 13' <a style="color: green"> • </a> 2020    
 &nbsp; &nbsp; &nbsp; Premiered by Ensemble intercontemporain, Leo Margue, in Paris, France.
 
 #### <a style="color: green"> Ebb/Flow </a> (2020)
