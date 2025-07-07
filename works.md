@@ -86,12 +86,12 @@ permalink: /works
 
 ## Solo
 
-#### <a style="color: green"> Tessellate </a> (2021)
+#### <a style="color: green"> Tessellate </a>
 
 &nbsp; &nbsp; &nbsp; Alto saxophone <a style="color: green"> • </a> 11' <a style="color: green"> • </a> 2021  
 &nbsp; &nbsp; &nbsp; Recorded by Iñaki Bermudez in Paris, France.
 
-#### <a style="color: green"> Prelude </a> (2019)
+#### <a style="color: green"> Prelude </a>
 
 &nbsp; &nbsp; &nbsp; Piano <a style="color: green"> • </a> 4' <a style="color: green"> • </a> 2019  
 &nbsp; &nbsp; &nbsp; Premiered by David Yu in Boston, Massachusetts.
@@ -100,19 +100,19 @@ permalink: /works
 
 ## Solo with electronics
 
-#### <a style="color: green"> Blur </a> (2024)
+#### <a style="color: green"> Blur </a>
 
-&nbsp; &nbsp; &nbsp; 8'. Contrabass clarinet and electronics.  
+&nbsp; &nbsp; &nbsp; Contrabass clarinet and electronics <a style="color: green"> • </a> 8' <a style="color: green"> • </a> 2024   
 &nbsp; &nbsp; &nbsp; Premiered by Alain Billard as part of the ManiFeste festival at Ircam on June 22, 2024.
 
-#### <a style="color: green"> A ritual, maybe </a> (2023)
+#### <a style="color: green"> A ritual, maybe </a>
 
-&nbsp; &nbsp; &nbsp; 8'. Double bass and electronics.  
+&nbsp; &nbsp; &nbsp; Double bass and electronics <a style="color: green"> • </a> 8' <a style="color: green"> • </a> 2023   
 &nbsp; &nbsp; &nbsp; Premiered by Richard Worn in Berkeley, California.
 
-#### <a style="color: green"> Tessellated </a> (2022)
+#### <a style="color: green"> Tessellated </a>
 
-&nbsp; &nbsp; &nbsp; 14'. Alto saxophone and electronics.  
+&nbsp; &nbsp; &nbsp; Alto saxophone and electronics <a style="color: green"> • </a> 14' <a style="color: green"> • </a> 2022     
 &nbsp; &nbsp; &nbsp; Premiered by Iñaki Bermudez in Paris, France.
 
 ***
@@ -121,12 +121,12 @@ permalink: /works
 
 #### <a style="color: green"> New Work </a> (2025)
 
-&nbsp; &nbsp; &nbsp; Accordion.  
+&nbsp; &nbsp; &nbsp; Accordion <a style="color: green"> • </a> 7' <a style="color: green"> • </a> 2025  
 &nbsp; &nbsp; &nbsp; For Théo Ould.
 
 #### <a style="color: green"> New Work </a> (2026)
 
-&nbsp; &nbsp; &nbsp; Modern harpsichord.  
+&nbsp; &nbsp; &nbsp; Modern Harpsichord <a style="color: green"> • </a> 5' <a style="color: green"> • </a> 2026   
 &nbsp; &nbsp; &nbsp; For Ninon Hannecart-Ségal.
 
 ***
