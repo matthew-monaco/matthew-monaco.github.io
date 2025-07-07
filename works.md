@@ -51,11 +51,11 @@ permalink: /works
 
 #### <a style="color: green"> Ebb/Flow </a> (2020)
 
-&nbsp; &nbsp; &nbsp; 24'. 8 trombones, percussion, 4 double basses.
+&nbsp; &nbsp; &nbsp; 8 trombones, percussion, 4 double basses <a style="color: green"> • </a> 24' <a style="color: green"> • </a> 2020
 
 #### <a style="color: green"> Flux </a> (2019-2020)
 
-&nbsp; &nbsp; &nbsp; 23'. Flute, clarinet, percussion, piano, violin, violoncello, double bass, and baritone solo.  
+&nbsp; &nbsp; &nbsp; Flute, clarinet, percussion, piano, violin, violoncello, double bass, and baritone solo <a style="color: green"> • </a> 23' <a style="color: green"> • </a> 2019-2020  
 &nbsp; &nbsp; &nbsp; Premiered by the Alinéa Ensemble, Tyler Bouque (soloist), and Tristan Rais-Sherman (conductor) in Boston, Massachusetts.
 
 ***
@@ -64,22 +64,22 @@ permalink: /works
 
 #### <a style="color: green"> Fits and Starts </a> (2024)
 
-&nbsp; &nbsp; &nbsp; 10'. String quartet.  
+&nbsp; &nbsp; &nbsp; String quartet <a style="color: green"> • </a> 10' <a style="color: green"> • </a> 2024  
 &nbsp; &nbsp; &nbsp; Premiered by the Del Sol Quartet in Berkeley, California.
 
 #### <a style="color: green"> Quartet </a> (2019)
 
-&nbsp; &nbsp; &nbsp; 8'. Clarinet, violin, viola, and double bass.  
+&nbsp; &nbsp; &nbsp; Clarinet, violin, viola, and double bass <a style="color: green"> • </a> 8' <a style="color: green"> • </a> 2019   
 &nbsp; &nbsp; &nbsp; Premiered by the Callithumpian Consort in Boston, Massachusetts.
 
 #### <a style="color: green"> Piano Trio </a> (2019)
 
-&nbsp; &nbsp; &nbsp; 10'. Violin, violoncello, and piano.  
+&nbsp; &nbsp; &nbsp; Violin, violoncello, and piano <a style="color: green"> • </a> 10' <a style="color: green"> • </a> 2019  
 &nbsp; &nbsp; &nbsp; Premiered by the Brouwer Trio in Valencia, Spain as part of the VIPA Festival.
 
 #### <a style="color: green"> Duo </a> (2019)
 
-&nbsp; &nbsp; &nbsp; 15'. Flute and violoncello.  
+&nbsp; &nbsp; &nbsp; Flute and violoncello <a style="color: green"> • </a> 15' <a style="color: green"> • </a> 2019  
 &nbsp; &nbsp; &nbsp; Premiered by members of Ensemble Linea in Auvillar, France as part of the Etchings Festival.
 
 ***
