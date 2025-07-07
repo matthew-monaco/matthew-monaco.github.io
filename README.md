@@ -2,6 +2,6 @@
 
 ***
 
-I am a Paris-based composer and pianist, originally from New Jersey. Feel free to contact me at matthewtmonaco<a style="color: green">[at]</a>gmail<a style="color: green">[dot]</a>com.
+I am a Paris-based composer and pianist, originally from New Jersey. Feel free to contact me at <a style="color: green">matthew.t.monaco</a>[at]<a style="color: green">gmail</a>[dot]<a style="color: green">com</a>.
 
 ![Headshot](IMG_9929_0.jpg)
