@@ -22,7 +22,7 @@ permalink: /works
 
 ***
 
-## Ensemble (conducted)
+## Ensemble
 
 #### <a style="color: green"> Thread </a>
 
