@@ -8,12 +8,12 @@ permalink: /writings
 
 ***
 
-## By me
+#### By me
 
  <a href="https://www.conservatoiredeparis.fr/sites/default/files/Recherche-Editions/TEP_MONACO_2021.pdf" style="color: black">Towards phenomenological models of contemporary music (in French)</a> 
 
 ***
 
-## About me
+#### About me
 
  <a href="/interview-with-camille-lienhard" style="color: black">The Dialectic of Framing and Listening: Interview with Camille Lienhard (in French)</a> 
