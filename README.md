@@ -1,8 +1,6 @@
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="/" style="color: black">**Home**</a>&nbsp; &nbsp; &nbsp; &nbsp; <a href="/about" style="color: black">**About**</a>&nbsp; &nbsp; &nbsp; &nbsp; <a href="/works" style="color: black">**Works**</a>&nbsp; &nbsp; &nbsp; &nbsp; <a href="/listen" style="color: black">**Listen**</a>&nbsp; &nbsp; &nbsp; &nbsp; <a href="/writings" style="color: black">**Writings**</a>&nbsp; &nbsp; &nbsp; &nbsp; 
 
-<span style="padding:10px;background-color:#f0f0f0"> 
-[About](/about)
-</span>
+<span style="padding:10px;background-color:#f0f0f0"> [About](/about)</span>
 
 ***
 
