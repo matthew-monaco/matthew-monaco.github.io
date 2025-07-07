@@ -10,12 +10,12 @@ permalink: /works
 
 ## Large ensemble and orchestra
 
-#### *Stray* <a style="color: green"> (2022) </a>
+#### <a style="color: green"> *Stray* </a> (2022)
   
 &nbsp; &nbsp; &nbsp; 23'. 20 musicians.  
 &nbsp; &nbsp; &nbsp; Premiered by l'Orchestre des lauréats du Conservatoire (CNSMDP), Jean Deroyer in Paris, France.
 
-#### *And to think that night would not exist* (2019)
+#### <a style="color: green"> *And to think that night would not exist* </a> (2019)
 
 &nbsp; &nbsp; &nbsp; 15'. Orchestra.  
 &nbsp; &nbsp; &nbsp; Recorded by the NEC Philharmonia, David Loebel, in Boston, Massachusetts.
