@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Audio and Video"
-permalink: /audio-and-video
+title: "Listen"
+permalink: /listen
 ---
 
-<a href="/" style="color: black">**Home**</a> | <a href="/about" style="color: black">**About**</a> | <a href="/list-of-works" style="color: black">**List of Works**</a> | <a href="/audio-and-video" style="color: black">**Audio and Video**</a> | <a href="/writings" style="color: black">**Writings**</a>
+<a href="/" style="color: black">**Home**</a> | <a href="/about" style="color: black">**About**</a> | <a href="/works" style="color: black">**Works**</a> | <a href="/listen" style="color: black">**Listen**</a> | <a href="/writings" style="color: black">**Writings**</a>
 
 ***
 
