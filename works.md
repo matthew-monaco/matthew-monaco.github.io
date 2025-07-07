@@ -119,12 +119,12 @@ permalink: /works
 
 ## Coming soon
 
-#### <a style="color: green"> New Work </a> (2025)
+#### <a style="color: green"> New Work </a>
 
 &nbsp; &nbsp; &nbsp; Accordion <a style="color: green"> • </a> 7' <a style="color: green"> • </a> 2025  
 &nbsp; &nbsp; &nbsp; For Théo Ould.
 
-#### <a style="color: green"> New Work </a> (2026)
+#### <a style="color: green"> New Work </a>
 
 &nbsp; &nbsp; &nbsp; Modern Harpsichord <a style="color: green"> • </a> 5' <a style="color: green"> • </a> 2026   
 &nbsp; &nbsp; &nbsp; For Ninon Hannecart-Ségal.
