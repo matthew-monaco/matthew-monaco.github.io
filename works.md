@@ -18,7 +18,7 @@ permalink: /works
 #### <a style="color: green"> And to think that night would not exist </a>
 
 &nbsp; &nbsp; &nbsp; Orchestra <a style="color: green"> • </a> 15' <a style="color: green"> • </a> 2019   
-&nbsp; &nbsp; &nbsp; Recorded by the NEC Philharmonia, David Loebel <a style="color: green"> • </a> Boston, Massachusetts
+&nbsp; &nbsp; &nbsp; Premiere: NEC Philharmonia, David Loebel <a style="color: green"> • </a> Boston, Massachusetts
 
 ***
 
@@ -89,7 +89,7 @@ permalink: /works
 #### <a style="color: green"> Tessellate </a>
 
 &nbsp; &nbsp; &nbsp; Alto saxophone <a style="color: green"> • </a> 11' <a style="color: green"> • </a> 2021  
-&nbsp; &nbsp; &nbsp; Recorded by Iñaki Bermudez <a style="color: green"> • </a> Paris, France
+&nbsp; &nbsp; &nbsp; Premiere: Iñaki Bermudez <a style="color: green"> • </a> Paris, France
 
 #### <a style="color: green"> Prelude </a>
 
