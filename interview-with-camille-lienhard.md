@@ -62,8 +62,7 @@ Oui, cette influence devient de plus en plus importante dans mon travail. Même 
 
 Je crois qu’il faut d’abord se défaire de l’idée que la musique que nous écrivons n’aurait plus de pertinence. L’art, quelle que soit sa forme, joue toujours un rôle social, fût-il modeste. Ce n’est pas parce qu’on n’exerce pas la même influence que Beethoven ou Bach que l’on doit douter du sens de notre geste. Le monde a changé, les enjeux aussi, et il faut penser en conséquence. Cela dit, je ne crois pas que le renouvellement viendra d’un bouleversement institutionnel immédiat, il passera d’abord par une transformation des manières de composer et penser l’écoute. Le *free jazz*, pour moi, est une ressource précieuse en ce sens : il propose une autre logique formelle, une autre énergie de jeu, une autre manière d’articuler structure et spontanéité. Mais ce n’est évidemment qu’un exemple. Ce dont la musique contemporaine a besoin, c’est d’un vrai pluralisme d’influences, qui passe par des alternatives au triptyque Grisey-Lachenmann-Ferneyhough, lequel reste encore trop souvent, et quels que soient mérites historiques, la matrice de nombreuses œuvres. D’autres voix, issues d’autres cultures, traditions ou réseaux doivent désormais se faire entendre. Cela commence à exister, mais il faut que cela s’amplifie. Le concert classique, avec ses instruments et ses codes, peut encore accueillir ces transformations, s’il devient un lieu d’invention, pas simplement de préservation. La question, ce n’est pas seulement celle des formes esthétiques, mais de la manière dont on propose de la musique et dont on engage son écoute.
 
-Notes :
-
+Notes :  
 *Création mondiale française, commissionnée par la Fondation Royaumont, avec le soutien de Christine Jolivet Erlih.
 
 Avril 2025.
