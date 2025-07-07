@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Works"
+title: " ‎ "
 permalink: /works
 ---
 
