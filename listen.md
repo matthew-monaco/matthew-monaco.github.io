@@ -10,11 +10,11 @@ permalink: /listen
 
 ## Compositions
 
-#### Audio
+#### <a style="color: green">Audio</a>
 
 &nbsp; &nbsp; &nbsp;  <a href="https://soundcloud.com/matthewtmonaco" style="color: black">***Listen*** on SoundCloud</a> 
 
-#### Videos
+#### <a style="color: green">Videos</a>
 
 &nbsp; &nbsp; &nbsp;  <a href="https://www.youtube.com/watch?v=RuL0ushx5a0&list=RDRuL0ushx5a0&start_radio=1&ab_channel=Royaumont" style="color: black">***Watch*** performance of *Mesh* with Ensemble Court-circuit</a> 
 
@@ -24,7 +24,7 @@ permalink: /listen
 
 ## Collaborations
 
-#### Trio improvisations with Nathan Corder (electronics) and Mat Muntz (bass)
+#### <a style="color: green">Trio improvisations with Nathan Corder (electronics) and Mat Muntz (bass)</a>
 
 &nbsp; &nbsp; &nbsp;  <a href="https://cmmtrio.bandcamp.com/album/live-in-berkeley" style="color: black">***Listen/buy*** on BandCamp</a> 
 
