@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Interview with Camille Lienhard"
+title: " ‎ "
 permalink: /interview-with-camille-lienhard
 ---
 
