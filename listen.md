@@ -8,8 +8,6 @@ permalink: /listen
 
 ***
 
-# Links to my music
-
 ## Compositions
 
 #### Audio
