@@ -12,7 +12,7 @@ permalink: /listen
 
 #### Audio
 
-&nbsp; &nbsp; &nbsp;  <a href="https://soundcloud.com/matthewtmonaco" style="color: black">***Listen*** on <a style="color: green">SoundCloud</a></a> 
+&nbsp; &nbsp; &nbsp;  <a href="https://soundcloud.com/matthewtmonaco" style="color: black">***Listen*** on SoundCloud</a> 
 
 #### Videos
 
