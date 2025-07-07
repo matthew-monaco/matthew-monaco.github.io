@@ -27,7 +27,7 @@ permalink: /works
 #### <a style="color: green"> Thread </a>
 
 &nbsp; &nbsp; &nbsp; Flute, clarinet, piano, violin, viola, and violoncello <a style="color: green"> • </a> 15' <a style="color: green"> • </a> 2025   
-&nbsp; &nbsp; &nbsp; Premiere: **Ensemble Linea**, Jean-Philippe Wurtz <a style="color: green"> • </a>  Festival aux Chandelles in Sainte-Marie-aux-Mines, France <a style="color: green"> • </a> Commissioned by the Royaumont Foundation
+&nbsp; &nbsp; &nbsp; Premiere: **Ensemble Linea**, Jean-Philippe Wurtz <a style="color: green"> • </a>  Festival aux Chandelles in Sainte-Marie-aux-Mines, France <a style="color: green"> • </a> Commissioned by the Royaumont Foundation with the support of Christine Jolivet Erlih
 
 #### <a style="color: green"> Split </a>
 
