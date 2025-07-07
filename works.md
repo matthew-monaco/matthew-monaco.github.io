@@ -10,7 +10,7 @@ permalink: /works
 
 ## Large ensemble and orchestra
 
-#### *Stray* (2022)
+#### *Stray* <a style="color: green"> (2022) </a>
   
 &nbsp; &nbsp; &nbsp; 23'. 20 musicians.  
 &nbsp; &nbsp; &nbsp; Premiered by l'Orchestre des lauréats du Conservatoire (CNSMDP), Jean Deroyer in Paris, France.
