@@ -12,7 +12,7 @@ permalink: /works
 
 #### <a style="color: green"> Stray </a>
   
-&nbsp; &nbsp; &nbsp; 2022 <a style="color: green"> • </a> 23' <a style="color: green"> • </a> 20 musicians.  
+&nbsp; &nbsp; &nbsp; 20 musicians <a style="color: green"> • </a> 23' <a style="color: green"> • </a> 2022
 &nbsp; &nbsp; &nbsp; Premiered by l'Orchestre des lauréats du Conservatoire (CNSMDP), Jean Deroyer in Paris, France.
 
 #### <a style="color: green"> And to think that night would not exist </a> (2019)
