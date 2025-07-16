@@ -6,8 +6,10 @@ I am a Paris-based composer and pianist, originally from New Jersey. Feel free t
 
 ![Headshot](IMG_9929_0.jpg)
 
-<img src="instagram.png" alt="Alt Text" style="width:8%; height:auto;"> <img src="soundcloud.png" alt="Alt Text" style="width:8%; height:auto;"> <img src="youtube.png" alt="Alt Text" style="width:8%; height:auto;"> <img src="spotify.png" alt="Alt Text" style="width:8%; height:auto;">
-
-[![instagram](instagram.png)](https://www.instagram.com/matthew.t.monaco)
-
 [<img src="./instagram.png" width="30" />](https://www.instagram.com/matthew.t.monaco)
+
+[<img src="./soundcloud.png" width="30" />](https://soundcloud.com/matthewtmonaco)
+
+[<img src="./youtube.png" width="30" />](https://www.youtube.com/@matthewmonaco3374)
+
+[<img src="./spotify.png" width="30" />](https://open.spotify.com/artist/7c6dcoAhkkQznw76SGbMDu)
