@@ -12,16 +12,12 @@ permalink: /works
 
 #### <a style="color: green"> Stray </a>
 
-
-<font size="2">20 MUSICIANS</font>
-
-
-&nbsp; &nbsp; &nbsp; 20 MUSICIANS <a style="color: green"> • </a> 23' <a style="color: green"> • </a> 2022  
+&nbsp; &nbsp; &nbsp; <font size="2">20 MUSICIANS</font> <a style="color: green"> • </a> 23' <a style="color: green"> • </a> 2022  
 &nbsp; &nbsp; &nbsp; Premiere: **l'Orchestre des lauréats du Conservatoire** (CNSMDP), Jean Deroyer <a style="color: green"> • </a> Paris, France
 
 #### <a style="color: green"> And to think that night would not exist </a>
 
-&nbsp; &nbsp; &nbsp; ORCHESTRA <a style="color: green"> • </a> 15' <a style="color: green"> • </a> 2019   
+&nbsp; &nbsp; &nbsp; <font size="2">ORCHESTRA</font> <a style="color: green"> • </a> 15' <a style="color: green"> • </a> 2019   
 &nbsp; &nbsp; &nbsp; Premiere: **NEC Philharmonia**, David Loebel <a style="color: green"> • </a> Boston, Massachusetts
 
 ***
