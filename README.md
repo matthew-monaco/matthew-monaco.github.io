@@ -7,3 +7,6 @@ I am a Paris-based composer and pianist, originally from New Jersey. Feel free t
 ![Headshot](IMG_9929_0.jpg)
 
 <img src="instagram.png" alt="Alt Text" style="width:8%; height:auto;"> <img src="soundcloud.png" alt="Alt Text" style="width:8%; height:auto;"> <img src="youtube.png" alt="Alt Text" style="width:8%; height:auto;"> <img src="spotify.png" alt="Alt Text" style="width:8%; height:auto;">
+
+[![instagram](<img src="instagram.png" alt="Alt Text" style="width:8%; height:auto;">)](https://www.instagram.com/matthew.t.monaco)
+
