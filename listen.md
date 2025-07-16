@@ -31,3 +31,5 @@ permalink: /listen
 &nbsp; &nbsp; &nbsp;  <a href="https://open.spotify.com/album/4iauZxL3PfG5TKyKZJAsPs?si=DTq-50U7TKGEM1J9oOs-fg" style="color: black">***Listen*** on Spotify</a> 
 
 ***
+
+[<img src="./instagram.png" width="30" />](https://www.instagram.com/matthew.t.monaco)  [<img src="./soundcloud.png" width="30" />](https://soundcloud.com/matthewtmonaco)  [<img src="./youtube.png" width="30" />](https://www.youtube.com/@matthewmonaco3374)  [<img src="./spotify.png" width="30" />](https://open.spotify.com/artist/7c6dcoAhkkQznw76SGbMDu)
