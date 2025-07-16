@@ -11,9 +11,7 @@ permalink: /works
 ## Large ensemble and orchestra
 
 <p style="padding-left: 2em; text-indent: -2em;">
-  (a) in relation to an exempt payment service provider 
-  mentioned in subsection (1)(a), means any of the following 
-  payment services:
+  (a) test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test (1)(a),  test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test:
 </p>
 
 #### <a style="color: green"> Stray </a>
