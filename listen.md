@@ -14,9 +14,7 @@ permalink: /listen
 
 &nbsp; &nbsp; &nbsp;  <a href="https://soundcloud.com/matthewtmonaco" style="color: black">***Listen*** on SoundCloud</a> 
 
-<a href="https://soundcloud.com/matthewtmonaco" style="color: black"><font size="2">**LISTEN**</font> on SoundCloud</a> 
-
-<font size="2">**LISTEN**</font>
+&nbsp; &nbsp; &nbsp;  <a href="https://soundcloud.com/matthewtmonaco" style="color: black"><font size="2">LISTEN</font> on SoundCloud</a> 
 
 #### <a style="color: green">Videos</a>
 
