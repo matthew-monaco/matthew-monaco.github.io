@@ -10,8 +10,6 @@ permalink: /works
 
 ## Large ensemble and orchestra
 
->test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test
-
 #### <a style="color: green"> Stray </a>
 
 &nbsp; &nbsp; &nbsp; <font size="2">20 MUSICIANS</font> <a style="color: green"> • </a> 23' <a style="color: green"> • </a> 2022  
