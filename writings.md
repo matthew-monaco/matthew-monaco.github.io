@@ -16,7 +16,7 @@ permalink: /writings
 
 #### <a style="color: green">About me</a>
 
-[<img src="./read.png" width="15" />](/interview-with-camille-lienhard) <a href="/interview-with-camille-lienhard" style="color: black">The Dialectic of Framing and Listening: Interview with Camille Lienhard (2025, in <font size="2">FRENCH</font>)</a> 
+[<img src="./read.png" width="15" />](/interview-with-camille-lienhard) <a href="/interview-with-camille-lienhard" style="color: black">The Dialectic of Framing and Listening: Interview with C. Lienhard (2025, in <font size="2">FRENCH</font>)</a> 
 
 ***
 
