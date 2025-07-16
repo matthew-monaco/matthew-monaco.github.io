@@ -12,9 +12,7 @@ permalink: /listen
 
 #### <a style="color: green">Audio</a>
 
-[<img src="./link.png" width="20" />](https://soundcloud.com/matthewtmonaco)
-
-&nbsp; &nbsp; &nbsp;  <a href="https://soundcloud.com/matthewtmonaco" style="color: black"><font size="2">LISTEN</font> on SoundCloud</a> 
+[<img src="./link.png" width="15" />](https://soundcloud.com/matthewtmonaco) &nbsp; &nbsp; &nbsp;  <a href="https://soundcloud.com/matthewtmonaco" style="color: black"><font size="2">LISTEN</font> on SoundCloud</a> 
 
 #### <a style="color: green">Videos</a>
 
