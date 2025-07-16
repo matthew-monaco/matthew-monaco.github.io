@@ -22,7 +22,11 @@ permalink: /listen
 
 ***
 
-## Collaborations
+## Improvisations and Collaborations
+
+#### <a style="color: green">Solo</a>
+
+[<img src="./watch.png" width="15" />](https://www.youtube.com/watch?v=8I3eImyJudY&ab_channel=MatthewMonaco) <a href="https://www.youtube.com/watch?v=8I3eImyJudY&ab_channel=MatthewMonaco" style="color: black"><font size="2">WATCH</font> solo piano improvisation</a> 
 
 #### <a style="color: green">Trio improvisations with Nathan Corder (electronics) and Mat Muntz (bass)</a>
 
