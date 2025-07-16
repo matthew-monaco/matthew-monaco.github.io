@@ -10,9 +10,7 @@ permalink: /works
 
 ## Large ensemble and orchestra
 
-<blockquote>
-    <p>test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test </p>
-</blockquote>
+< test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test >
 
 #### <a style="color: green"> Stray </a>
 
