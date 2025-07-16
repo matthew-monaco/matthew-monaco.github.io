@@ -10,11 +10,9 @@ permalink: /works
 
 ## Large ensemble and orchestra
 
-A., B., & C., D. (2020, August 1). Name of the paper. Name of the 
-paper Name of the paper Name of the paper <br> 
+test test test test test test test test test test test test test test test test test test test test test test test test test <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;Name of the  paper. Journal of ABC. Retrieved from 
-https://doi.org/1.1.2.2.2./deew/37.4.433
+&nbsp; test test test test test test test test test test test test test test test test test test test test test test test test test test test test
 
 #### <a style="color: green"> Stray </a>
 
