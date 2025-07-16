@@ -10,4 +10,4 @@ I am a Paris-based composer and pianist, originally from New Jersey. Feel free t
 
 [![instagram](instagram.png)](https://www.instagram.com/matthew.t.monaco)
 
-[<img src="./instagram.png" width="30" />](./link/to/https://www.instagram.com/matthew.t.monaco)
+[<img src="./instagram.png" width="30" />](https://www.instagram.com/matthew.t.monaco)
