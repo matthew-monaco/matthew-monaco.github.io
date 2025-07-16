@@ -27,7 +27,7 @@ permalink: /works
 #### <a style="color: green"> Thread </a>
 
 &nbsp; &nbsp; &nbsp; <font size="2">FLUTE, CLARINET, PIANO, VIOLIN, VIOLA, and VIOLONCELLO</font> <a style="color: green"> • </a> 15' <a style="color: green"> • </a> 2025   
-&nbsp; &nbsp; &nbsp; <font size="2">Premiere:</font> **Ensemble Linea**, Jean-Philippe Wurtz <a style="color: green"> • </a>  Festival aux Chandelles in Sainte-Marie-aux-Mines, France <a style="color: green"> • </a> Commissioned by the Royaumont Foundation with the support of Christine Jolivet Erlih
+&nbsp; &nbsp; &nbsp; <font size="2">Premiere:</font> **Ensemble Linea**, Jean-Philippe Wurtz <a style="color: green"> • </a>  *Festival aux Chandelles* in Sainte-Marie-aux-Mines, France <a style="color: green"> • </a> Commissioned by the Royaumont Foundation with the support of Christine Jolivet Erlih
 
 #### <a style="color: green"> Split </a>
 
@@ -37,7 +37,7 @@ permalink: /works
 #### <a style="color: green"> Mesh </a>
 
 &nbsp; &nbsp; &nbsp; <font size="2">FLUTE, OBOE, BASS CLARINET, TROMBONE, VIOLIN, VIOLA, and VIOLONCELLO</font> <a style="color: green"> • </a> 10' <a style="color: green"> • </a> 2023  
-&nbsp; &nbsp; &nbsp; <font size="2">Premiere:</font> **Ensemble Court-circuit**, Jean Deroyer. <a style="color: green"> • </a> Voix Nouvelles, at the Royaumont Abbey in Asnières-sur-Oise, France
+&nbsp; &nbsp; &nbsp; <font size="2">Premiere:</font> **Ensemble Court-circuit**, Jean Deroyer. <a style="color: green"> • </a> *Voix Nouvelles* at the Royaumont Abbey in Asnières-sur-Oise, France
 
 #### <a style="color: green"> Spirals, Orbits, and Circular Paths </a>
 
@@ -75,12 +75,12 @@ permalink: /works
 #### <a style="color: green"> Piano Trio </a>
 
 &nbsp; &nbsp; &nbsp; <font size="2">VIOLIN, VIOLONCELLO, and PIANO</font> <a style="color: green"> • </a> 10' <a style="color: green"> • </a> 2019  
-&nbsp; &nbsp; &nbsp; <font size="2">Premiere:</font> **Brouwer Trio** <a style="color: green"> • </a> VIPA Festival in Valencia, Spain
+&nbsp; &nbsp; &nbsp; <font size="2">Premiere:</font> **Brouwer Trio** <a style="color: green"> • </a> *VIPA Festival* in Valencia, Spain
 
 #### <a style="color: green"> Duo </a>
 
 &nbsp; &nbsp; &nbsp; <font size="2">FLUTE and VIOLONCELLO</font> <a style="color: green"> • </a> 15' <a style="color: green"> • </a> 2019  
-&nbsp; &nbsp; &nbsp; <font size="2">Premiere:</font> members of **Ensemble Linea** <a style="color: green"> • </a> Etchings Festival in Auvillar, France
+&nbsp; &nbsp; &nbsp; <font size="2">Premiere:</font> members of **Ensemble Linea** <a style="color: green"> • </a> *Etchings Festival* in Auvillar, France
 
 ***
 
@@ -103,7 +103,7 @@ permalink: /works
 #### <a style="color: green"> Blur </a>
 
 &nbsp; &nbsp; &nbsp; <font size="2">CONTRABASS CLARINET and ELECTRONICS</font> <a style="color: green"> • </a> 8' <a style="color: green"> • </a> 2024   
-&nbsp; &nbsp; &nbsp; <font size="2">Premiere:</font> **Alain Billard** <a style="color: green"> • </a> ManiFeste festival at Ircam in Paris, France
+&nbsp; &nbsp; &nbsp; <font size="2">Premiere:</font> **Alain Billard** <a style="color: green"> • </a> *ManiFeste festival* at Ircam in Paris, France
 
 #### <a style="color: green"> A ritual, maybe </a>
 
