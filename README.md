@@ -8,4 +8,4 @@ I am a Paris-based composer and pianist, originally from New Jersey. Feel free t
 
 ![instagram](instagram.png) | ![soundcloud](soundcloud.png) | ![youtube](youtube.png) | ![spotify](spotify.png)
 
-<img src="instagram.png" alt="Alt Text" style="width:50%; height:auto;">
+<img src="instagram.png" alt="Alt Text" style="width:10%; height:auto;">
