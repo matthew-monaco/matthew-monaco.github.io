@@ -12,6 +12,8 @@ permalink: /writings
 
  <a href="https://www.conservatoiredeparis.fr/sites/default/files/Recherche-Editions/TEP_MONACO_2021.pdf" style="color: black">Towards phenomenological models of contemporary music (in French)</a> 
 
+ <a href="https://www.conservatoiredeparis.fr/sites/default/files/Recherche-Editions/TEP_MONACO_2021.pdf" style="color: black">Towards phenomenological models of contemporary music (in <font size="2">FRENCH</font>)</a>
+
 ***
 
 #### <a style="color: green">About me</a>
