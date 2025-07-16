@@ -10,6 +10,12 @@ permalink: /works
 
 ## Large ensemble and orchestra
 
+<p style="padding-left: 2em; text-indent: -2em;">
+  (a) in relation to an exempt payment service provider 
+  mentioned in subsection (1)(a), means any of the following 
+  payment services:
+</p>
+
 #### <a style="color: green"> Stray </a>
 
 &nbsp; &nbsp; &nbsp; <font size="2">20 MUSICIANS</font> <a style="color: green"> • </a> 23' <a style="color: green"> • </a> 2022  
