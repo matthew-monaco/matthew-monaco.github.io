@@ -10,10 +10,10 @@ permalink: /works
 
 ## Large ensemble and orchestra
 
-#### <a style="color: green"> Stray </a>
+### <a style="color: green"> Stray </a>
   
-&nbsp; &nbsp; &nbsp; 20 MUSICIANS <a style="color: green"> • </a> 23' <a style="color: green"> • </a> 2022  
-&nbsp; &nbsp; &nbsp; Premiere: **l'Orchestre des lauréats du Conservatoire** (CNSMDP), Jean Deroyer <a style="color: green"> • </a> Paris, France
+##### &nbsp; &nbsp; &nbsp; 20 MUSICIANS <a style="color: green"> • </a> 23' <a style="color: green"> • </a> 2022  
+#### &nbsp; &nbsp; &nbsp; Premiere: **l'Orchestre des lauréats du Conservatoire** (CNSMDP), Jean Deroyer <a style="color: green"> • </a> Paris, France
 
 #### <a style="color: green"> And to think that night would not exist </a>
 
