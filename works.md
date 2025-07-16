@@ -13,14 +13,7 @@ permalink: /works
 #### <a style="color: green"> Stray </a>
 
 
-<font size="3">
-This paragraph text will render at font size 3. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-</font>
-
-
-<font size="1">
-This paragraph text will render at font size 3. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-</font>
+<font size="2">20 MUSICIANS</font>
 
 
 &nbsp; &nbsp; &nbsp; 20 MUSICIANS <a style="color: green"> • </a> 23' <a style="color: green"> • </a> 2022  
