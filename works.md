@@ -56,7 +56,7 @@ permalink: /works
 #### <a style="color: green"> Flux </a>
 
 &nbsp; &nbsp; &nbsp; <font size="2">FLUTE, CLARINET, PERCUSSION, PIANO, VIOLIN, VIOLONCELLO, DOUBLE BASS, and BARITONE SOLO</font> <a style="color: green"> • </a> 23' <a style="color: green"> • </a> 2019-2020  
-&nbsp; &nbsp; &nbsp; <font size="2">Premiere:</font> **Alinéa**, **Tyler Bouque** (soloist), and Tristan Rais-Sherman (conductor) <a style="color: green"> • </a> Boston, Massachusetts
+&nbsp; &nbsp; &nbsp; <font size="2">Premiere:</font> **Alinéa, Tyler Bouque** (soloist), and Tristan Rais-Sherman (conductor) <a style="color: green"> • </a> Boston, Massachusetts
 
 ***
 
