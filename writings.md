@@ -18,6 +18,8 @@ permalink: /writings
 
  <a href="/interview-with-camille-lienhard" style="color: black">The Dialectic of Framing and Listening: Interview with Camille Lienhard (in French)</a> 
 
+ <a href="/interview-with-camille-lienhard" style="color: black">The Dialectic of Framing and Listening: Interview with Camille Lienhard (in <font size="2">FRENCH</font>)</a> 
+
 ***
 
 [<img src="./instagram.png" width="30" />](https://www.instagram.com/matthew.t.monaco)  [<img src="./soundcloud.png" width="30" />](https://soundcloud.com/matthewtmonaco)  [<img src="./youtube.png" width="30" />](https://www.youtube.com/@matthewtmonaco)  [<img src="./spotify.png" width="30" />](https://open.spotify.com/artist/7c6dcoAhkkQznw76SGbMDu)
