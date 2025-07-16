@@ -32,3 +32,7 @@ permalink: /about
 
 <a href="/" style="color: black">**Home**</a> <a style="color: green"> • </a> <a href="/about" style="color: green">**About**</a> <a style="color: green"> • </a> <a href="/works" style="color: black">**Works**</a> <a style="color: green"> • </a> <a href="/listen" style="color: black">**Listen**</a> <a style="color: green"> • </a> <a href="/writings" style="color: black">**Writings**</a>
 
+***
+
+[<img src="./instagram.png" width="30" />](https://www.instagram.com/matthew.t.monaco)  [<img src="./soundcloud.png" width="30" />](https://soundcloud.com/matthewtmonaco)  [<img src="./youtube.png" width="30" />](https://www.youtube.com/@matthewmonaco3374)  [<img src="./spotify.png" width="30" />](https://open.spotify.com/artist/7c6dcoAhkkQznw76SGbMDu)
+
