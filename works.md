@@ -51,7 +51,7 @@ permalink: /works
 
 #### <a style="color: green"> Ebb/Flow </a>
 
-&nbsp; &nbsp; &nbsp; <font size="2">8 TROMBNOES, PERCUSSION, and 4 DOUBLE BASSES</font> <a style="color: green"> • </a> 24' <a style="color: green"> • </a> 2020
+&nbsp; &nbsp; &nbsp; <font size="2">8 TROMBONES, PERCUSSION, and 4 DOUBLE BASSES</font> <a style="color: green"> • </a> 24' <a style="color: green"> • </a> 2020
 
 #### <a style="color: green"> Flux </a>
 
