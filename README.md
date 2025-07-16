@@ -10,3 +10,7 @@ I am a Paris-based composer and pianist, originally from New Jersey. Feel free t
 
 
 <div style="text-align: center">test test test</div>  
+
+<p align="center">
+test 2 test 2 test 2
+</p>
