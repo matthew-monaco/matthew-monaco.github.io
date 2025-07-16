@@ -6,4 +6,4 @@ I am a Paris-based composer and pianist, originally from New Jersey. Feel free t
 
 ![Headshot](IMG_9929_0.jpg)
 
-![Soundcloud](soundcloud.png)
+![instagram](instagram.png) | ![soundcloud](soundcloud.png) | ![youtube](youtube.png) | ![spotify](spotify.png)
