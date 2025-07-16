@@ -12,15 +12,13 @@ permalink: /listen
 
 #### <a style="color: green">Audio</a>
 
-&nbsp; &nbsp; &nbsp;  <a href="https://soundcloud.com/matthewtmonaco" style="color: black">***Listen*** on SoundCloud</a> 
-
 &nbsp; &nbsp; &nbsp;  <a href="https://soundcloud.com/matthewtmonaco" style="color: black"><font size="2">LISTEN</font> on SoundCloud</a> 
 
 #### <a style="color: green">Videos</a>
 
-&nbsp; &nbsp; &nbsp;  <a href="https://www.youtube.com/watch?v=RuL0ushx5a0&list=RDRuL0ushx5a0&start_radio=1&ab_channel=Royaumont" style="color: black">***Watch*** performance of *Mesh* with Ensemble Court-circuit</a> 
+&nbsp; &nbsp; &nbsp;  <a href="https://www.youtube.com/watch?v=RuL0ushx5a0&list=RDRuL0ushx5a0&start_radio=1&ab_channel=Royaumont" style="color: black"><font size="2">WATCH</font> performance of *Mesh* with Ensemble Court-circuit</a> 
 
-&nbsp; &nbsp; &nbsp;  <a href="https://www.youtube.com/watch?v=t6OVz_XPd8w&list=RDt6OVz_XPd8w&start_radio=1&ab_channel=MatthewMonaco" style="color: black">***Watch*** performance of *Scaling* with Ensemble intercontemporain</a> 
+&nbsp; &nbsp; &nbsp;  <a href="https://www.youtube.com/watch?v=t6OVz_XPd8w&list=RDt6OVz_XPd8w&start_radio=1&ab_channel=MatthewMonaco" style="color: black"><font size="2">WATCH</font> performance of *Scaling* with Ensemble intercontemporain</a> 
 
 ***
 
@@ -28,9 +26,9 @@ permalink: /listen
 
 #### <a style="color: green">Trio improvisations with Nathan Corder (electronics) and Mat Muntz (bass)</a>
 
-&nbsp; &nbsp; &nbsp;  <a href="https://cmmtrio.bandcamp.com/album/live-in-berkeley" style="color: black">***Listen/buy*** on BandCamp</a> 
+&nbsp; &nbsp; &nbsp;  <a href="https://cmmtrio.bandcamp.com/album/live-in-berkeley" style="color: black"><font size="2">LISTEN/BUY</font> on BandCamp</a> 
 
-&nbsp; &nbsp; &nbsp;  <a href="https://open.spotify.com/album/4iauZxL3PfG5TKyKZJAsPs?si=DTq-50U7TKGEM1J9oOs-fg" style="color: black">***Listen*** on Spotify</a> 
+&nbsp; &nbsp; &nbsp;  <a href="https://open.spotify.com/album/4iauZxL3PfG5TKyKZJAsPs?si=DTq-50U7TKGEM1J9oOs-fg" style="color: black"><font size="2">LISTEN</font> on Spotify</a> 
 
 ***
 
