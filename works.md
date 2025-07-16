@@ -127,7 +127,7 @@ permalink: /works
 #### <a style="color: green"> New Work </a>
 
 &nbsp; &nbsp; &nbsp; <font size="2">MODERN HARPSICHORD</font> <a style="color: green"> • </a> 5' <a style="color: green"> • </a> 2026   
-&nbsp; &nbsp; &nbsp; font size="2">For</font> **Ninon Hannecart-Ségal**
+&nbsp; &nbsp; &nbsp; <font size="2">For</font> **Ninon Hannecart-Ségal**
 
 ***
 
