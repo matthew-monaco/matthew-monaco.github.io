@@ -6,6 +6,4 @@ I am a Paris-based composer and pianist, originally from New Jersey. Feel free t
 
 ![Headshot](IMG_9929_0.jpg)
 
-![instagram](instagram.png) | ![soundcloud](soundcloud.png) | ![youtube](youtube.png) | ![spotify](spotify.png)
-
-<img src="instagram.png" alt="Alt Text" style="width:10%; height:auto;">
+<img src="instagram.png" alt="Alt Text" style="width:8%; height:auto;"> <img src="soundcloud.png" alt="Alt Text" style="width:8%; height:auto;"> <img src="youtube.png" alt="Alt Text" style="width:8%; height:auto;"> <img src="spotify.png" alt="Alt Text" style="width:8%; height:auto;">
