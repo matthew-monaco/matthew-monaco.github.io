@@ -11,7 +11,7 @@ permalink: /works
 ## Large ensemble and orchestra
 
 <p style="padding-left: 2em; text-indent: -2em;">
-  (a) in relation to an exempt payment service provider mentioned in subsectionto an exempt payment service provider mentioned in subsecto an exempt payment service provider mentioned in subsec (1)(a), means any of the following payment services:
+  in relation to an exempt payment service provider mentioned in subsectionto an exempt payment service provider mentioned in subsecto an exempt payment service provider mentioned in subsecasas asd asd asd sad asd ksdiv djajn means any of the following payment services:
 </p>
 
 
