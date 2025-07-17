@@ -12,11 +12,11 @@ permalink: /works
 
 
 {{< biblio-ref >}}
-Greely, Fred, Mary Jones, and Greg Attiks. *There's a Bat in My Barn: Struggles with the New Hampshire Brown Bat*. Wildlife Press, 2012.
+Greely, Fred, Mary Jones, and Greg Attiks. *There's a Bat in My Barn: test test test test test test test test test test test test Struggles with the New Hampshire Brown Bat*. Wildlife Press, 2012.
 {{< /biblio-ref >}}
 
 
-<p class="p2"> Greely, Fred, Mary Jones, and Greg Attiks. *There's a Bat in My Barn: Struggles with the New Hampshire Brown Bat*. Wildlife Press, 2012.</p>
+<p class="p2"> Greely, Fred, Mary Jones, and Greg Attiks. *There's a Bat in My Barn: test test test test test test test test test test test test test test test test test test test test test test Struggles with the New Hampshire Brown Bat*. Wildlife Press, 2012.</p>
 
 #### <a style="color: green"> Stray </a>
 
