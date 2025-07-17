@@ -18,6 +18,15 @@ Greely, Fred, Mary Jones, and Greg Attiks. *There's a Bat in My Barn: test test 
 
 <p class="p2"> Greely, Fred, Mary Jones, and Greg Attiks. *There's a Bat in My Barn: test test test test test test test test test test test test test test test test test test test test test test Struggles with the New Hampshire Brown Bat*. Wildlife Press, 2012.</p>
 
+{{- $p := .Page -}}
+{{- range (split .Inner "\n") -}}
+  {{- if gt (len .) 0 }}
+  <p class="p2">
+    {{ . | $p.RenderString }}
+  </p>
+  {{- end }}
+{{- end -}}
+
 #### <a style="color: green"> Stray </a>
 
 &nbsp; &nbsp; &nbsp; <font size="2">20 MUSICIANS</font> <a style="color: green"> • </a> 23' <a style="color: green"> • </a> 2022  
