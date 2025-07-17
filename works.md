@@ -38,7 +38,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">FLUTE, CLARINET, PIANO, VIOLIN, VIOLA, and VIOLONCELLO</font> <a style="color: green"> • </a> 15' <a style="color: green"> • </a> 2025   
 </p>
 <p style="padding-left: 2em; text-indent: -2em;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble Linea</strong>, Jean-Philippe Wurtz <a style="color: green"> • </a>  <strong>Festival aux Chandelles</strong> in Sainte-Marie-aux-Mines <img src="./france.png" width="13" /> <a style="color: green"> • </a> Commissioned by the Royaumont Foundation with the support of Christine Jolivet Erlih
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble Linea</strong>, Jean-Philippe Wurtz <a style="color: green"> • </a>  <strong>Festival aux Chandelles</strong> <a style="color: green"> • </a> Sainte-Marie-aux-Mines <img src="./france.png" width="13" /> <a style="color: green"> • </a> Commissioned by the Royaumont Foundation with the support of Christine Jolivet Erlih
 </p>
 
 #### <a style="color: green"> Split </a>
@@ -56,7 +56,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">FLUTE, OBOE, BASS CLARINET, TROMBONE, VIOLIN, VIOLA, and VIOLONCELLO</font> <a style="color: green"> • </a> 10' <a style="color: green"> • </a> 2023  
 </p>
 <p style="padding-left: 2em; text-indent: -2em;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble Court-circuit</strong>, Jean Deroyer. <a style="color: green"> • </a> <strong>Voix Nouvelles</strong> at the Royaumont Abbey in Asnières-sur-Oise <img src="./france.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble Court-circuit</strong>, Jean Deroyer <a style="color: green"> • </a> <strong>Voix Nouvelles</strong> at the Royaumont Abbey <a style="color: green"> • </a> Asnières-sur-Oise <img src="./france.png" width="13" />
 </p>
 
 #### <a style="color: green"> Spirals, Orbits, and Circular Paths </a>
@@ -65,7 +65,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">CONTRABASS CLARINET, 2 PERCUSSIONISTS, HARP, PIANO, ACCORDION, 2 VIOLINS, 2 VIOLAS, VIOLONCELLO, and DOUBLE BASS</font> <a style="color: green"> • </a> 10' <a style="color: green"> • </a> 2021  
 </p>
 <p style="padding-left: 2em; text-indent: -2em;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble intercontemporain</strong>, Léo Margue, <a style="color: green"> • </a> Paris <img src="./france.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble intercontemporain</strong>, Léo Margue <a style="color: green"> • </a> Paris <img src="./france.png" width="13" />
 </p>
 
 #### <a style="color: green"> Scaling </a>
@@ -74,7 +74,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">FLUTE, BASS CLARINET, ALTO SAXOPHONE, FRENCH HORN, TROMBONE, PERCUSSION, 2 VIOLINS, VIOLA, VIOLONCELLO, and DOUBLE BASS</font> <a style="color: green"> • </a> 13' <a style="color: green"> • </a> 2020    
 </p>
 <p style="padding-left: 2em; text-indent: -2em;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble intercontemporain</strong>, Léo Margue, <a style="color: green"> • </a> Paris <img src="./france.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble intercontemporain</strong>, Léo Margue <a style="color: green"> • </a> Paris <img src="./france.png" width="13" />
 </p>
 
 #### <a style="color: green"> Ebb/Flow </a>
@@ -120,7 +120,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">VIOLIN, VIOLONCELLO, and PIANO</font> <a style="color: green"> • </a> 10' <a style="color: green"> • </a> 2019  
 </p>
 <p style="padding-left: 2em; text-indent: -2em;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Brouwer Trio</strong> <a style="color: green"> • </a> <strong>VIPA Festival</strong> in Valencia <img src="./spain.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Brouwer Trio</strong> <a style="color: green"> • </a> <strong>VIPA Festival</strong> <a style="color: green"> • </a> Valencia <img src="./spain.png" width="13" />
 </p>
 
 #### <a style="color: green"> Duo </a>
@@ -129,7 +129,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">FLUTE and VIOLONCELLO</font> <a style="color: green"> • </a> 15' <a style="color: green"> • </a> 2019  
 </p>
 <p style="padding-left: 2em; text-indent: -2em;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> members of <strong>Ensemble Linea</strong> <a style="color: green"> • </a> <strong>Etchings Festival</strong> in Auvillar <img src="./france.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> members of <strong>Ensemble Linea</strong> <a style="color: green"> • </a> <strong>Etchings Festival</strong> <a style="color: green"> • </a> Auvillar <img src="./france.png" width="13" />
 </p>
 
 ***
@@ -164,7 +164,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">CONTRABASS CLARINET and ELECTRONICS</font> <a style="color: green"> • </a> 8' <a style="color: green"> • </a> 2024   
 </p>
 <p style="padding-left: 2em; text-indent: -2em;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Alain Billard</strong> <a style="color: green"> • </a> <strong>ManiFeste festival</strong> at Ircam in Paris <img src="./france.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Alain Billard</strong> <a style="color: green"> • </a> <strong>ManiFeste festival</strong> at Ircam <a style="color: green"> • </a> Paris <img src="./france.png" width="13" />
 </p>
 
 #### <a style="color: green"> A ritual, maybe </a>
