@@ -20,7 +20,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">FLUTE, BASS CLARINET, ALTO SAXOPHONE, FRENCH HORN, TROMBONE, PERCUSSION, 2 VIOLINS, VIOLA, VIOLONCELLO, and DOUBLE BASS</font> <a style="color: green"> • </a> 13' <a style="color: green"> • </a> 2020 
 </p>
 <p style="padding-left: 3em; text-indent: -3em;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <b>Ensemble Linea</b>, Jean-Philippe Wurtz <a style="color: green"> • </a>  <i>Festival aux Chandelles</i> in Sainte-Marie-aux-Mines <img src="./france.png" width="13" /> <a style="color: green"> • </a> Commissioned by the Royaumont Foundation with the support of Christine Jolivet Erlih
+&nbsp; &nbsp; <font size="2">Premiere:</font> **Ensemble Linea**, Jean-Philippe Wurtz <a style="color: green"> • </a>  *Festival aux Chandelles* in Sainte-Marie-aux-Mines <img src="./france.png" width="13" /> <a style="color: green"> • </a> Commissioned by the Royaumont Foundation with the support of Christine Jolivet Erlih
 </p>
 
 #### <a style="color: green"> Stray </a>
