@@ -10,38 +10,11 @@ permalink: /works
 
 ## Large ensemble and orchestra
 
-<p class="h-1"><span class="h-h">(a)</span>in relation to an exempt payment service provider mentioned in subsection (1)(a), means any of the following payment services:</p>
-<p class="h-2"><span class="h-h">(i)</span>an account issuance service that is not solely incidental to the conduct of any deposit‑taking business or banking business;</p>
-
-
-_(a) _{:.h-h}in relation to an exempt payment service provider mentioned in subsection (1)(a), means any of the following payment services:
-{: .h-1 }
-
-_(i) _{:.h-h}an account issuance service that is not solely incidental to the conduct of any deposit‑taking business or banking business;
-{: .h-2 }
-
 
 <p style="padding-left: 2em; text-indent: -2em;">
   in relation to an exempt payment service provider mentioned in subsectionto an exempt payment service provider mentioned in subsecto an exempt payment service provider mentioned in subsecasas asd asd asd sad asd ksdiv djajn means any of the following payment services:
 </p>
 
-
-
-{{<biblio-ref>}}
-Greely, Fred, Mary Jones, and Greg Attiks. *There's a Bat in My Barn: test test test test test test test test test test test test Struggles with the New Hampshire Brown Bat*. Wildlife Press, 2012.
-{{</biblio-ref>}}
-
-
-<p class="p2"> Greely, Fred, Mary Jones, and Greg Attiks. *There's a Bat in My Barn: test test test test test test test test test test test test test test test test test test test test test test Struggles with the New Hampshire Brown Bat*. Wildlife Press, 2012.</p>
-
-
-
-{{<biblio-ref>}}
-Hugo, Victor. *The Hunchback of Notre-DameThe Hunchback of Notre-DameThe Hunchback of Notre-DameThe Hunchback of Notre-DameThe Hunchback of Notre-DameThe Hunchback of Notre-DameThe Hunchback of Notre-DameThe Hunchback of Notre-Dame*. Unknown publisher, 1831.
-
-
-Hugo, Victor. *Quatre-vingt-treizeQuatre-vingt-treizeQuatre-vingt-treizeQuatre-vingt-treizeQuatre-vingt-treizeQuatre-vingt-treizeQuatre-vingt-treizeQuatre-vingt-treizeQuatre-vingt-treize*. Unknown publisher, 1874.
-{{</biblio-ref>}}
 
 #### <a style="color: green"> Stray </a>
 
