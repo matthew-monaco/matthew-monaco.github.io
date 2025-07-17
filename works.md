@@ -10,6 +10,13 @@ permalink: /works
 
 ## Large ensemble and orchestra
 
+_(a) _{:.h-h}in relation to an exempt payment service provider mentioned in subsection (1)(a), means any of the following payment services:
+{: .h-1 }
+
+_(i) _{:.h-h}an account issuance service that is not solely incidental to the conduct of any deposit‑taking business or banking business;
+{: .h-2 }
+
+
 <p style="padding-left: 2em; text-indent: -2em;">
   in relation to an exempt payment service provider mentioned in subsectionto an exempt payment service provider mentioned in subsecto an exempt payment service provider mentioned in subsecasas asd asd asd sad asd ksdiv djajn means any of the following payment services:
 </p>
