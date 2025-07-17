@@ -10,6 +10,10 @@ permalink: /works
 
 ## Large ensemble and orchestra
 
+<p class="h-1"><span class="h-h">(a)</span>in relation to an exempt payment service provider mentioned in subsection (1)(a), means any of the following payment services:</p>
+<p class="h-2"><span class="h-h">(i)</span>an account issuance service that is not solely incidental to the conduct of any deposit‑taking business or banking business;</p>
+
+
 _(a) _{:.h-h}in relation to an exempt payment service provider mentioned in subsection (1)(a), means any of the following payment services:
 {: .h-1 }
 
