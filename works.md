@@ -27,6 +27,13 @@ Greely, Fred, Mary Jones, and Greg Attiks. *There's a Bat in My Barn: test test 
   {{- end }}
 {{- end -}}
 
+{{< biblio-ref >}}
+Hugo, Victor. *The Hunchback of Notre-Dame*. Unknown publisher, 1831.
+Hugo, Victor. *Les Misérables*. Unknown publisher, 1862.
+Hugo, Victor. *Les Travailleurs de la Mer*. Unknown publisher, 1866.
+Hugo, Victor. *Quatre-vingt-treize*. Unknown publisher, 1874.
+{{< /biblio-ref >}}
+
 #### <a style="color: green"> Stray </a>
 
 &nbsp; &nbsp; &nbsp; <font size="2">20 MUSICIANS</font> <a style="color: green"> • </a> 23' <a style="color: green"> • </a> 2022  
