@@ -10,6 +10,11 @@ permalink: /works
 
 ## Large ensemble and orchestra
 
+<p style="padding-left: 2em; text-indent: -2em;">
+  (a) in relation to an exempt payment service provider mentioned in subsectionto an exempt payment service provider mentioned in subsecto an exempt payment service provider mentioned in subsec (1)(a), means any of the following payment services:
+</p>
+
+
 
 {{<biblio-ref>}}
 Greely, Fred, Mary Jones, and Greg Attiks. *There's a Bat in My Barn: test test test test test test test test test test test test Struggles with the New Hampshire Brown Bat*. Wildlife Press, 2012.
@@ -22,12 +27,6 @@ Greely, Fred, Mary Jones, and Greg Attiks. *There's a Bat in My Barn: test test 
 
 {{<biblio-ref>}}
 Hugo, Victor. *The Hunchback of Notre-DameThe Hunchback of Notre-DameThe Hunchback of Notre-DameThe Hunchback of Notre-DameThe Hunchback of Notre-DameThe Hunchback of Notre-DameThe Hunchback of Notre-DameThe Hunchback of Notre-Dame*. Unknown publisher, 1831.
-
-
-Hugo, Victor. *Les MisérablesLes MisérablesLes MisérablesLes MisérablesLes MisérablesLes MisérablesLes MisérablesLes MisérablesLes MisérablesLes MisérablesLes MisérablesLes Misérables*. Unknown publisher, 1862.
-
-
-Hugo, Victor. *Les Travailleurs de la MerLes Travailleurs de la MerLes Travailleurs de la MerLes Travailleurs de la MerLes Travailleurs de la MerLes Travailleurs de la MerLes Travailleurs de la MerLes Travailleurs de la MerLes Travailleurs de la MerLes Travailleurs de la Mer*. Unknown publisher, 1866.
 
 
 Hugo, Victor. *Quatre-vingt-treizeQuatre-vingt-treizeQuatre-vingt-treizeQuatre-vingt-treizeQuatre-vingt-treizeQuatre-vingt-treizeQuatre-vingt-treizeQuatre-vingt-treizeQuatre-vingt-treize*. Unknown publisher, 1874.
