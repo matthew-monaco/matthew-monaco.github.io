@@ -1,5 +1,6 @@
 ---
 layout: default
+/layouts/shortcodes/biblio-ref.html
 title: " ‎ "
 permalink: /works
 ---
