@@ -10,6 +10,11 @@ permalink: /works
 
 ## Large ensemble and orchestra
 
+
+{{< biblio-ref >}}
+Greely, Fred, Mary Jones, and Greg Attiks. *There's a Bat in My Barn: Struggles with the New Hampshire Brown Bat*. Wildlife Press, 2012.
+{{< /biblio-ref >}}
+
 #### <a style="color: green"> Stray </a>
 
 &nbsp; &nbsp; &nbsp; <font size="2">20 MUSICIANS</font> <a style="color: green"> • </a> 23' <a style="color: green"> • </a> 2022  
