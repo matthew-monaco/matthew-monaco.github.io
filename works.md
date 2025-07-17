@@ -15,11 +15,12 @@ permalink: /works
 &nbsp; &nbsp; &nbsp; in relation to an exempt payment service provider mentioned in subsectionto an exempt payment service provider mentioned in subsecto an exempt payment service provider mentioned in subsecasas asd asd asd sad asd ksdiv djajn means any of the following payment services:
 </p>
 
-<p style="padding-left: 4em; text-indent: -4em;">
-<font size="2">FLUTE, BASS CLARINET, ALTO SAXOPHONE, FRENCH HORN, TROMBONE, PERCUSSION, 2 VIOLINS, VIOLA, VIOLONCELLO, and DOUBLE BASS</font> <a style="color: green"> • </a> 13' <a style="color: green"> • </a> 2020 
+#### <a style="color: green"> Thread </a>
+<p style="padding-left: 3em; text-indent: -3em;">
+&nbsp; &nbsp; <font size="2">FLUTE, BASS CLARINET, ALTO SAXOPHONE, FRENCH HORN, TROMBONE, PERCUSSION, 2 VIOLINS, VIOLA, VIOLONCELLO, and DOUBLE BASS</font> <a style="color: green"> • </a> 13' <a style="color: green"> • </a> 2020 
 </p>
-<p style="padding-left: 4em; text-indent: -4em;">
-<font size="2">Premiere:</font> <b>Ensemble Linea</b>, Jean-Philippe Wurtz <a style="color: green"> • </a>  <i>Festival aux Chandelles</i> in Sainte-Marie-aux-Mines <img src="./france.png" width="13" /> <a style="color: green"> • </a> Commissioned by the Royaumont Foundation with the support of Christine Jolivet Erlih
+<p style="padding-left: 3em; text-indent: -3em;">
+&nbsp; &nbsp; <font size="2">Premiere:</font> <b>Ensemble Linea</b>, Jean-Philippe Wurtz <a style="color: green"> • </a>  <i>Festival aux Chandelles</i> in Sainte-Marie-aux-Mines <img src="./france.png" width="13" /> <a style="color: green"> • </a> Commissioned by the Royaumont Foundation with the support of Christine Jolivet Erlih
 </p>
 
 #### <a style="color: green"> Stray </a>
