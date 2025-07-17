@@ -10,6 +10,7 @@ permalink: /works
 
 ## Large ensemble and orchestra
 
+/layouts/shortcodes/biblio-ref.html
 
 {{< biblio-ref >}}
 Greely, Fred, Mary Jones, and Greg Attiks. *There's a Bat in My Barn: test test test test test test test test test test test test Struggles with the New Hampshire Brown Bat*. Wildlife Press, 2012.
