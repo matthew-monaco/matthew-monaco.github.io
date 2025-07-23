@@ -32,6 +32,7 @@ permalink: /about
 
 <details>
 <summary><a style="color: green"><strong>Education</strong></a></summary>
+<br>
 <p style="padding-left: 1em; text-indent: -1em;">
 <strong>Ph.D. Candidate in Composition</strong> (degree in progress, graduation date: May 2027)
 </p>
@@ -56,6 +57,7 @@ permalink: /about
 
 <details>
 <summary><a style="color: green"><strong>Selected Awards and Achievements</strong></a></summary>
+<br>
 <p style="padding-left: 1em; text-indent: -1em;">
 <strong>2025</strong> George Ladd Prix de Paris <font size="2">(Berkeley, USA)</font>     
 </p>
@@ -101,6 +103,7 @@ permalink: /about
 
 <details>
 <summary><a style="color: green"><strong>Work Experience</strong></a></summary>
+<br>
 <p style="padding-left: 1em; text-indent: -1em;">
 <strong>8/2023 - Present</strong> Graduate Student Instructor at UC Berkeley <font size="2">(Berkeley, USA)</font>  
 </p>
