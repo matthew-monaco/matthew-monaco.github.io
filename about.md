@@ -31,9 +31,21 @@ permalink: /about
 ***
 
 <details>
-<summary>Heading</summary>
+<summary>Education</summary>
 <ul>
-<li> markdown list 1</li>
+<li> Ph.D. Candidate in Composition 1</li>
+<ul>
+<li> nested list 1</li>
+<li> nested list 2</li>
+</ul>
+<li> markdown list 2</li>
+</ul>
+</details>
+
+<details>
+<summary>Selected Musical Achievements/Awards</summary>
+<ul>
+<li> 2025 George Ladd Prix de Paris</li>
 <ul>
 <li> nested list 1</li>
 <li> nested list 2</li>
