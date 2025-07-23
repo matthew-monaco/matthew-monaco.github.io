@@ -129,6 +129,10 @@ permalink: /about
 
 ***
 
+<img src="./tahoe-standing.jpg" width="150" />
+
+***
+
 <a href="/" style="color: black">**Home**</a> <a style="color: green"> • </a> <a href="/about" style="color: green">**About**</a> <a style="color: green"> • </a> <a href="/works" style="color: black">**Works**</a> <a style="color: green"> • </a> <a href="/listen" style="color: black">**Listen**</a> <a style="color: green"> • </a> <a href="/writings" style="color: black">**Writings**</a>
 
 ***
