@@ -99,6 +99,32 @@ permalink: /about
 
 ***
 
+<details>
+<summary><a style="color: green"><strong>Work Experience</strong></a></summary>
+<p style="padding-left: 1em; text-indent: -1em;">
+<strong>Aug. 2023 - Present</strong> Graduate Student Instructor at UC Berkeley (Berkeley, USA)  
+</p>
+<p style="padding-left: 1em; text-indent: -1em;">
+<strong>Sep. 2018 - May 2020</strong> Tuesday Night New Music Concert Series Curator (Boston, USA)    
+</p>
+<p style="padding-left: 1em; text-indent: -1em;">
+<strong>Sep. 2018 - Mar. 2020</strong> New England Conservatory Preparatory School Substitute Instructor (Boston, USA)    
+</p>
+<p style="padding-left: 1em; text-indent: -1em;">
+<strong>Jan. 2018 - May. 2020</strong> Music Theory TA/Tutor (NEC) (Boston, USA)    
+</p>
+<p style="padding-left: 1em; text-indent: -1em;">
+<strong>Apr. 2018 - May. 2018</strong> NEC School of Continuing Education Substitute Instructor (Boston, USA)    
+</p>
+<p style="padding-left: 1em; text-indent: -1em;">
+<strong>Apr. 2017 - Present</strong> Music Engraving (Freelance)  
+</p>
+<p style="padding-left: 1em; text-indent: -1em;">
+<strong>Sep. 2015 - May 2016</strong> New York Philharmonic Education Department Intern (New York, USA)
+</p>
+</details>
+
+
 <a href="/" style="color: black">**Home**</a> <a style="color: green"> • </a> <a href="/about" style="color: green">**About**</a> <a style="color: green"> • </a> <a href="/works" style="color: black">**Works**</a> <a style="color: green"> • </a> <a href="/listen" style="color: black">**Listen**</a> <a style="color: green"> • </a> <a href="/writings" style="color: black">**Writings**</a>
 
 ***
