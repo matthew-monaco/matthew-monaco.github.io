@@ -57,43 +57,43 @@ permalink: /about
 <details>
 <summary><a style="color: green"><strong>Selected Awards and Achievements</strong></a></summary>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>2025</strong> George Ladd Prix de Paris (Berkeley, USA)    
+<strong>2025</strong> George Ladd Prix de Paris <font size="2">(Berkeley, USA)</font>     
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>2025</strong> Roselyn Schneider Eisner Prize in Music (Berkeley, USA)    
+<strong>2025</strong> Roselyn Schneider Eisner Prize in Music <font size="2">(Berkeley, USA)</font>     
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>2024</strong> Invited Composer, ManiFeste 2024 (Paris, France)  
+<strong>2024</strong> Invited Composer, ManiFeste 2024 <font size="2">(Paris, France)</font>   
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>2023</strong> Composition Fellow, Workshop with Ensemble l'Itinéraire (Berkeley, USA)  
+<strong>2023</strong> Composition Fellow, Workshop with Ensemble l'Itinéraire <font size="2">(Berkeley, USA)</font>   
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>2023</strong> Invited Composer, Académie Voix Nouvelles (Asnières-sur-Oise, France)  
+<strong>2023</strong> Invited Composer, Académie Voix Nouvelles <font size="2">(Asnières-sur-Oise, France)</font>   
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>2021</strong> (November) Composition Workshop with Ensemble intercontemporain (Paris, France)  
+<strong>2021</strong> (November) Composition Workshop with Ensemble intercontemporain <font size="2">(Paris, France)</font>   
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>2021</strong> (January) Composition Workshop with Ensemble intercontemporain (Paris, France)  
+<strong>2021</strong> (January) Composition Workshop with Ensemble intercontemporain <font size="2">(Paris, France)</font>   
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>2019-2020</strong> Alinéa Composer-in-Residence (Boston, USA)  
+<strong>2019-2020</strong> Alinéa Composer-in-Residence <font size="2">(Boston, USA)</font>   
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>2019</strong> Callithumpian Consort Call for Scores Winner (Boston, USA)  
+<strong>2019</strong> Callithumpian Consort Call for Scores Winner <font size="2">(Boston, USA)</font>   
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>2019</strong> Composition Fellow, Etchings Festival (Auvillar, France)  
+<strong>2019</strong> Composition Fellow, Etchings Festival <font size="2">(Auvillar, France)</font>   
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>2019</strong> Composition Fellow, VIPA Festival (Valencia, Spain)  
+<strong>2019</strong> Composition Fellow, VIPA Festival <font size="2">(Valencia, Spain)</font>   
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>2018</strong> NEC Honors Ensemble Winner (Boston, USA)  
+<strong>2018</strong> NEC Honors Ensemble Winner <font size="2">(Boston, USA)</font>   
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>2017</strong> Boston Philharmonic Youth Orchestra Young Composers Institute Winner (Boston, USA)  
+<strong>2017</strong> Boston Philharmonic Youth Orchestra Young Composers Institute Winner <font size="2">(Boston, USA)</font>   
 </p>
 </details>
 
@@ -102,25 +102,25 @@ permalink: /about
 <details>
 <summary><a style="color: green"><strong>Work Experience</strong></a></summary>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>8/2023 - Present</strong> Graduate Student Instructor at UC Berkeley (Berkeley, USA)  
+<strong>8/2023 - Present</strong> Graduate Student Instructor at UC Berkeley <font size="2">(Berkeley, USA)</font>  
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>9/2018 - 5/2020</strong> Tuesday Night New Music Concert Series Curator (Boston, USA)    
+<strong>9/2018 - 5/2020</strong> Tuesday Night New Music Concert Series Curator <font size="2">(Boston, USA)</font>     
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>9/2018 - 3/2020</strong> New England Conservatory Preparatory School Substitute Instructor (Boston, USA)    
+<strong>9/2018 - 3/2020</strong> New England Conservatory Preparatory School Substitute Instructor <font size="2">(Boston, USA)</font>     
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>1/2018 - 5/2020</strong> NEC Music Theory TA/Tutor (Boston, USA)    
+<strong>1/2018 - 5/2020</strong> NEC Music Theory TA/Tutor <font size="2">(Boston, USA)</font>     
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>4/2018 - 5/2018</strong> NEC School of Continuing Education Substitute Instructor (Boston, USA)    
+<strong>4/2018 - 5/2018</strong> NEC School of Continuing Education Substitute Instructor <font size="2">(Boston, USA)</font>     
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
 <strong>4/2017 - Present</strong> Music Engraving (Freelance)  
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>9/2015 - 5/2016</strong> New York Philharmonic Education Department Intern (New York, USA)
+<strong>9/2015 - 5/2016</strong> New York Philharmonic Education Department Intern <font size="2">(New York, USA)</font> 
 </p>
 </details>
 
