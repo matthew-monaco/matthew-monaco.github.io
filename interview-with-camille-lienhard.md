@@ -8,7 +8,7 @@ permalink: /interview-with-camille-lienhard
 
 ***
 
-<div style="text-align: justify"><strong>Camille Lienhard, <em>La dialectique du cadre et de l’écoute : entretien avec Matthew Monaco</em>, in <em>Les Carnets du Festival aux Chandelles</em>, vol. II, edited by Hélène Papadopoulos, Sainte-Marie-aux-Mines: Val d’Argent Classique, 2025. ISBN 978-2-9593724-1-4.</strong></div> 
+<font size="2"><div style="text-align: justify"><strong>Camille Lienhard, <em>La dialectique du cadre et de l’écoute : entretien avec Matthew Monaco</em>, in <em>Les Carnets du Festival aux Chandelles</em>, vol. II, edited by Hélène Papadopoulos, Sainte-Marie-aux-Mines: Val d’Argent Classique, 2025. ISBN 978-2-9593724-1-4.</strong></div></font> 
 
 ***
 
@@ -102,6 +102,8 @@ permalink: /interview-with-camille-lienhard
 
 <font size="2">NOTES :</font>
 <div style="text-align: justify"><font size="2">†Création mondiale française, commissionnée par la Fondation Royaumont, avec le soutien de Christine Jolivet Erlih.</font></div>  
+
+<br>
 
 <font size="2">AVRIL 2025</font>
 
