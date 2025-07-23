@@ -108,19 +108,19 @@ permalink: /about
 <strong>8/2023 - Present</strong> Graduate Student Instructor at UC Berkeley <font size="2">(Berkeley, USA)</font>  
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>9/2018 - 5/2020</strong> Tuesday Night New Music Concert Series Curator <font size="2">(Boston, USA)</font>     
+<strong>4/2017 - Present</strong> Music Engraving (Freelance)  
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>9/2018 - 3/2020</strong> New England Conservatory Preparatory School Substitute Instructor <font size="2">(Boston, USA)</font>     
+<strong>9/2018 - 5/2020</strong> Tuesday Night New Music Concert Series Curator <font size="2">(Boston, USA)</font>     
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
 <strong>1/2018 - 5/2020</strong> NEC Music Theory TA/Tutor <font size="2">(Boston, USA)</font>     
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>4/2018 - 5/2018</strong> NEC School of Continuing Education Substitute Instructor <font size="2">(Boston, USA)</font>     
+<strong>9/2018 - 3/2020</strong> New England Conservatory Preparatory School Substitute Instructor <font size="2">(Boston, USA)</font>     
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>4/2017 - Present</strong> Music Engraving (Freelance)  
+<strong>4/2018 - 5/2018</strong> NEC School of Continuing Education Substitute Instructor <font size="2">(Boston, USA)</font>     
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
 <strong>9/2015 - 5/2016</strong> New York Philharmonic Education Department Intern <font size="2">(New York, USA)</font> 
