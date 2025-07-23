@@ -30,6 +30,8 @@ permalink: /about
 
 ***
 
+<div style="text-align: center"> your-text-here </div>
+
 <details>
 <summary><a style="color: green"><strong>Education</strong></a></summary>
 <strong>Ph.D. Candidate in Composition</strong> (degree in progress, graduation date: May 2027)
