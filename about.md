@@ -30,6 +30,21 @@ permalink: /about
 
 ***
 
+<details>
+<summary>Heading</summary>
+<ul>
+<li> markdown list 1</li>
+<ul>
+<li> nested list 1</li>
+<li> nested list 2</li>
+</ul>
+<li> markdown list 2</li>
+</ul>
+</details>
+
+
+***
+
 <a href="/" style="color: black">**Home**</a> <a style="color: green"> • </a> <a href="/about" style="color: green">**About**</a> <a style="color: green"> • </a> <a href="/works" style="color: black">**Works**</a> <a style="color: green"> • </a> <a href="/listen" style="color: black">**Listen**</a> <a style="color: green"> • </a> <a href="/writings" style="color: black">**Writings**</a>
 
 ***
