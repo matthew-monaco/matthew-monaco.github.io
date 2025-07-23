@@ -38,7 +38,7 @@ permalink: /listen
 
 ![Tahoe1](tahoe-water.jpg) ![Tahoe2](tahoe-walking.jpg) ![Tahoe3](tahoe-tree.jpg)
 
-<img src="./tahoe-water.jpg" width="30" />
+<img src="./tahoe-water.jpg" width="500" />
 
 ***
 
