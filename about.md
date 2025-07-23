@@ -31,8 +31,8 @@ permalink: /about
 ***
 
 <details>
-<summary>Education</summary>
-<strong>Ph.D. Candidate in Composition</strong> (Degree in progress, expected graduation date: May 2027)
+<summary><a style="color: green">Education</a></summary>
+<strong>Ph.D. Candidate in Composition</strong> (degree in progress, graduation date: May 2027)
 <br>
 &nbsp; &nbsp; <em>University of California, Berkeley</em>
 <br>
@@ -42,13 +42,13 @@ permalink: /about
 <br>
 <strong>Bachelors's Degree in Composition</strong> (2020)
 <br>
-&nbsp; &nbsp; <em>New England Conservatory, Minor in Music Theory</em>
+&nbsp; &nbsp; <em>New England Conservatory</em>, Minor in Music Theory
 </details>
 
 ***
 
 <details>
-<summary>Selected Awards and Achievements</summary>
+<summary><a style="color: green">Selected Awards and Achievements</a></summary>
 2025 George Ladd Prix de Paris  
 <br>
 2025 Roselyn Schneider Eisner Prize in Music  
