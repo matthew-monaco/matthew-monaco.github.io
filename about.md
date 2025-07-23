@@ -34,21 +34,20 @@ permalink: /about
 <summary>Education</summary>
 <ul>
 <li> Ph.D. Candidate in Composition (Degree in progress, expected graduation date: May 2027)</li>
-<ul>
 <li> University of California, Berkeley</li>
 <ul>
 <li> Master's Degree in Composition (2022)</li>
-</ul>
 <li> Conservatoire National Supérieur de Musique et de Danse de Paris</li>
 <ul>
 <li> Bachelors's Degree in Composition (2020)</li>
-</ul>
 <li> New England Conservatory, Minor in Music Theory</li>
 <ul>
 </details>
 
+***
+
 <details>
-<summary>Selected Musical Achievements/Awards</summary>
+<summary>Second Dropdown</summary>
 <ul>
 <li> 2025 George Ladd Prix de Paris</li>
 </ul>
