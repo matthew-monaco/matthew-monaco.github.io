@@ -33,17 +33,17 @@ permalink: /about
 <details>
 <summary>Education</summary>
 <ul>
-Ph.D. Candidate in Composition (Degree in progress, expected graduation date: May 2027)</li>
+<li> Ph.D. Candidate in Composition (Degree in progress, expected graduation date: May 2027)</li>
 <ul>
-University of California, Berkeley</li>
+<li> University of California, Berkeley</li>
 <ul>
-Master's Degree in Composition (2022)</li>
+<li> Master's Degree in Composition (2022)</li>
 <ul>
-Conservatoire National Supérieur de Musique et de Danse de Paris</li>
+<li> Conservatoire National Supérieur de Musique et de Danse de Paris</li>
 <ul>
-Bachelors's Degree in Composition (2020)</li>
+<li> Bachelors's Degree in Composition (2020)</li>
 <ul>
-New England Conservatory, Minor in Music Theory</li>
+<li> New England Conservatory, Minor in Music Theory</li>
 <ul>
 </details>
 
