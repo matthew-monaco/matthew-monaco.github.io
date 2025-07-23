@@ -30,10 +30,8 @@ permalink: /about
 
 ***
 
-<div style="text-align: center"> your-text-here </div>
-
 <details>
-<div style="text-align: center"><summary><a style="color: green"><strong>Education</strong></a></summary></div>
+<summary><div style="text-align: center"><a style="color: green"><strong>Education</strong></a></div></summary>
 <strong>Ph.D. Candidate in Composition</strong> (degree in progress, graduation date: May 2027)
 <br>
 &nbsp; &nbsp; <em>University of California, Berkeley</em>
@@ -50,7 +48,7 @@ permalink: /about
 ***
 
 <details>
-<div style="text-align: center"><summary><a style="color: green"><strong>Selected Awards and Achievements</strong></a></summary></div>
+<summary><div style="text-align: center"><a style="color: green"><strong>Selected Awards and Achievements</strong></a></div></summary>
 <p style="padding-left: 1em; text-indent: -1em;">
 2025 George Ladd Prix de Paris  
 </p>
