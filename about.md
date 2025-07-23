@@ -129,7 +129,7 @@ permalink: /about
 
 ***
 
-<img src="./tahoe-standing.jpg" width="150" />
+![Tahoe](tahoe-standing.jpg)
 
 ***
 
