@@ -59,9 +59,9 @@ permalink: /about
 <br>
 2023 Invited Composer, Académie Voix Nouvelles (Asnières-sur-Oise, France)  
 <br>
-2021 (November) Composition Workshop with Ensemble intercontemporain (Paris, France)  
+2021 (Nov.) Composition Workshop with Ensemble intercontemporain (Paris, France)  
 <br>
-2021 (January) Composition Workshop with Ensemble intercontemporain (Paris, France)  
+2021 (Jan.) Composition Workshop with Ensemble intercontemporain (Paris, France)  
 <br>
 2019-2020, Alinéa Composer-in-Residence (Boston, USA)  
 <br>
