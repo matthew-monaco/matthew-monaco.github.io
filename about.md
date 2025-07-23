@@ -32,17 +32,17 @@ permalink: /about
 
 <details>
 <summary>Education</summary>
-Ph.D. Candidate in Composition (Degree in progress, expected graduation date: May 2027)
+<strong>Ph.D. Candidate in Composition</strong> (Degree in progress, expected graduation date: May 2027)
 <br>
-University of California, Berkeley
+&nbsp; &nbsp; <em>University of California, Berkeley</em>
 <br>
-Master's Degree in Composition (2022)
+<strong>Master's Degree in Composition</strong> (2022)
 <br>
-Conservatoire National Supérieur de Musique et de Danse de Paris
+&nbsp; &nbsp; <em>Conservatoire National Supérieur de Musique et de Danse de Paris</em>
 <br>
-Bachelors's Degree in Composition (2020)
+<strong>Bachelors's Degree in Composition</strong> (2020)
 <br>
-New England Conservatory, Minor in Music Theory
+&nbsp; &nbsp; <em>New England Conservatory, Minor in Music Theory</em>
 </details>
 
 ***
@@ -50,17 +50,29 @@ New England Conservatory, Minor in Music Theory
 <details>
 <summary>Selected Awards and Achievements</summary>
 2025 George Ladd Prix de Paris  
+<br>
 2025 Roselyn Schneider Eisner Prize in Music  
+<br>
 2024 Invited Composer, ManiFeste 2024 (Paris, France)  
+<br>
 2023 Composition Fellow, Workshop with Ensemble l'Itinéraire (Berkeley, USA)  
+<br>
 2023 Invited Composer, Académie Voix Nouvelles (Asnières-sur-Oise, France)  
+<br>
 2021 (November) Composition Workshop with Ensemble intercontemporain (Paris, France)  
+<br>
 2021 (January) Composition Workshop with Ensemble intercontemporain (Paris, France)  
+<br>
 2019-2020, Alinéa Composer-in-Residence (Boston, USA)  
+<br>
 2019 Callithumpian Consort Call for Scores Winner (Boston, USA)  
+<br>
 2019 Composition Fellow, Etchings Festival (Auvillar, France)  
+<br>
 2019 Composition Fellow, VIPA Festival (Valencia, Spain)  
+<br>
 2018 NEC Honors Ensemble Winner (Boston, USA)  
+<br>
 2017 Boston Philharmonic Youth Orchestra Young Composers Institute Winner (Boston, USA)  
 </details>
 
