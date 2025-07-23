@@ -111,7 +111,7 @@ permalink: /about
 <strong>Sep. 2018 - Mar. 2020</strong> New England Conservatory Preparatory School Substitute Instructor (Boston, USA)    
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>Jan. 2018 - May. 2020</strong> Music Theory TA/Tutor (NEC) (Boston, USA)    
+<strong>Jan. 2018 - May. 2020</strong> NEC Music Theory TA/Tutor (Boston, USA)    
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
 <strong>Apr. 2018 - May. 2018</strong> NEC School of Continuing Education Substitute Instructor (Boston, USA)    
