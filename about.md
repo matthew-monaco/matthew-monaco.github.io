@@ -50,43 +50,43 @@ permalink: /about
 <details>
 <summary><a style="color: green"><strong>Selected Awards and Achievements</strong></a></summary>
 <p style="padding-left: 1em; text-indent: -1em;">
-2025 George Ladd Prix de Paris  
+<strong>2025</strong> George Ladd Prix de Paris (Berkeley, USA)    
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-2025 Roselyn Schneider Eisner Prize in Music  
+<strong>2025</strong> Roselyn Schneider Eisner Prize in Music (Berkeley, USA)    
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-2024 Invited Composer, ManiFeste 2024 (Paris, France)  
+<strong>2024</strong> Invited Composer, ManiFeste 2024 (Paris, France)  
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-2023 Composition Fellow, Workshop with Ensemble l'Itinéraire (Berkeley, USA)  
+<strong>2023</strong> Composition Fellow, Workshop with Ensemble l'Itinéraire (Berkeley, USA)  
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-2023 Invited Composer, Académie Voix Nouvelles (Asnières-sur-Oise, France)  
+<strong>2023</strong> Invited Composer, Académie Voix Nouvelles (Asnières-sur-Oise, France)  
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-2021 (November) Composition Workshop with Ensemble intercontemporain (Paris, France)  
+<strong>2021</strong> (November) Composition Workshop with Ensemble intercontemporain (Paris, France)  
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-2021 (January) Composition Workshop with Ensemble intercontemporain (Paris, France)  
+<strong>2021</strong> (January) Composition Workshop with Ensemble intercontemporain (Paris, France)  
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-2019-2020, Alinéa Composer-in-Residence (Boston, USA)  
+<strong>2019-2020</strong> Alinéa Composer-in-Residence (Boston, USA)  
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-2019 Callithumpian Consort Call for Scores Winner (Boston, USA)  
+<strong>2019</strong> Callithumpian Consort Call for Scores Winner (Boston, USA)  
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-2019 Composition Fellow, Etchings Festival (Auvillar, France)  
+<strong>2019</strong> Composition Fellow, Etchings Festival (Auvillar, France)  
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-2019 Composition Fellow, VIPA Festival (Valencia, Spain)  
+<strong>2019</strong> Composition Fellow, VIPA Festival (Valencia, Spain)  
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-2018 NEC Honors Ensemble Winner (Boston, USA)  
+<strong>2018</strong> NEC Honors Ensemble Winner (Boston, USA)  
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-2017 Boston Philharmonic Youth Orchestra Young Composers Institute Winner (Boston, USA)  
+<strong>2017</strong> Boston Philharmonic Youth Orchestra Young Composers Institute Winner (Boston, USA)  
 </p>
 </details>
 
