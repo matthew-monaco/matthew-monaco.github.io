@@ -40,7 +40,7 @@ permalink: /about
 <br>
 &nbsp; &nbsp; <em>Conservatoire National Supérieur de Musique et de Danse de Paris</em>
 <br>
-<strong>Bachelors's Degree in Composition</strong> (2020)
+<strong>Bachelor's Degree in Composition</strong> (2020)
 <br>
 &nbsp; &nbsp; <em>New England Conservatory</em>, Minor in Music Theory
 </details>
