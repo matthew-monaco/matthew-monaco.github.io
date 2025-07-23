@@ -48,12 +48,20 @@ New England Conservatory, Minor in Music Theory
 ***
 
 <details>
-<summary>Second Dropdown</summary>
-<ul>
-<li> 2025 George Ladd Prix de Paris</li>
-</ul>
-<li> markdown list 2</li>
-</ul>
+<summary>Selected Awards and Achievements</summary>
+2025 George Ladd Prix de Paris
+2025 Roselyn Schneider Eisner Prize in Music
+2024 Invited Composer, ManiFeste 2024 (Paris, France)
+2023 Composition Fellow, Workshop with Ensemble l'Itinéraire (Berkeley, USA)
+2023 Invited Composer, Académie Voix Nouvelles (Asnières-sur-Oise, France)
+2021 (November) Composition Workshop with Ensemble intercontemporain (Paris, France)
+2021 (January) Composition Workshop with Ensemble intercontemporain (Paris, France)
+2019-2020, Alinéa Composer-in-Residence (Boston, USA)
+2019 Callithumpian Consort Call for Scores Winner (Boston, USA)
+2019 Composition Fellow, Etchings Festival (Auvillar, France)
+2019 Composition Fellow, VIPA Festival (Valencia, Spain)
+2018 NEC Honors Ensemble Winner (Boston, USA)
+2017 Boston Philharmonic Youth Orchestra Young Composers Institute Winner (Boston, USA)
 </details>
 
 
