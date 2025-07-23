@@ -36,7 +36,7 @@ permalink: /listen
 
 ***
 
-<img src="./tahoe-water.jpg" width="33.3%" /> <img src="./tahoe-walking.jpg" width="33.3%" /> <img src="./tahoe-tree.jpg" width="33.3%" />
+<img src="./tahoe-water.jpg" width="33%" /> <img src="./tahoe-walking.jpg" width="33%" /> <img src="./tahoe-tree.jpg" width="33%" />
 
 ***
 
