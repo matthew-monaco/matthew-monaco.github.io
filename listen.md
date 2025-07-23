@@ -36,6 +36,10 @@ permalink: /listen
 
 ***
 
+![Tahoe1](tahoe-water.jpg) ![Tahoe2](tahoe-walking.jpg) ![Tahoe3](tahoe-tree.jpg)
+
+***
+
 [<img src="./instagram.png" width="30" />](https://www.instagram.com/matthew.t.monaco)  [<img src="./soundcloud.png" width="30" />](https://soundcloud.com/matthewtmonaco)  [<img src="./youtube.png" width="30" />](https://www.youtube.com/@matthewtmonaco)  [<img src="./spotify.png" width="30" />](https://open.spotify.com/artist/7c6dcoAhkkQznw76SGbMDu)  [<img src="./link.png" width="30" />](https://linktr.ee/matthew.t.monaco)
 
 ***
