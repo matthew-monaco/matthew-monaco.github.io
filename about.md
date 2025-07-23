@@ -56,7 +56,7 @@ permalink: /about
 ***
 
 <details>
-<summary><a style="color: green"><strong>S<font size="2">ELECTED</font> A<font size="2">WARDS</font> AND A<font size="2">CHIEVEMENTS</font></strong></a></summary>
+<summary><a style="color: green"><strong>S<font size="2">ELECTED</font> A<font size="2">WARDS AND</font> A<font size="2">CHIEVEMENTS</font></strong></a></summary>
 <br>
 <p style="padding-left: 1em; text-indent: -1em;">
 <strong>2025</strong> George Ladd Prix de Paris <font size="2">(Berkeley, USA)</font>     
