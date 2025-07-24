@@ -111,7 +111,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">CLARINET, VIOLIN, VIOLA, and DOUBLE BASS</font> <a style="color: green"> • </a> 8' <a style="color: green"> • </a> 2019   
 </p>
 <p style="padding-left: 2em; text-indent: -2em;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Callithumpian Consort</strong> <a style="color: green"> • </a> Boston <img src="./usa.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Callithumpian Consort</strong>, Stephen Drury (conductor) <a style="color: green"> • </a> Boston <img src="./usa.png" width="13" />
 </p>
 
 #### <a style="color: green"> Piano Trio </a>
