@@ -14,8 +14,9 @@ permalink: /works
 
 <p style="padding-left: 2em; text-indent: -2em;">
 &nbsp; &nbsp; <font size="2">20 MUSICIANS</font> <a style="color: green"> • </a> 23' <a style="color: green"> • </a> 2022 
-<br>
-<font size="2">Premiere:</font> <strong>l'Orchestre des lauréats du Conservatoire</strong> (CNSMDP), Jean Deroyer <a style="color: green"> • </a> Paris <img src="./france.png" width="13" />
+</p>
+<p style="padding-left: 2em; text-indent: -2em;">
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>l'Orchestre des lauréats du Conservatoire</strong> (CNSMDP), Jean Deroyer <a style="color: green"> • </a> Paris <img src="./france.png" width="13" />
 </p>
  
 #### <a style="color: green"> And to think that night would not exist </a>
