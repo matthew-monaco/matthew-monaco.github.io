@@ -35,8 +35,7 @@ permalink: /works
 
 <p style="padding-left: 2em; text-indent: -2em;">
 &nbsp; &nbsp; <font size="2">FLUTE, CLARINET, PIANO, VIOLIN, VIOLA, and VIOLONCELLO</font> <a style="color: green"> • </a> 15' <a style="color: green"> • </a> 2025   
-</p>
-<p style="padding-left: 2em; text-indent: -2em;">
+<br>
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble Linea</strong>, Jean-Philippe Wurtz <a style="color: green"> • </a>  <strong>Festival aux Chandelles</strong> <a style="color: green"> • </a> Sainte-Marie-aux-Mines <img src="./france.png" width="13" /> <a style="color: green"> • </a> <em>Commissioned by the Royaumont Foundation with the support of Christine Jolivet Erlih</em>
 </p>
 
