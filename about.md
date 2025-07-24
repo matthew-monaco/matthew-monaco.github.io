@@ -120,10 +120,10 @@ permalink: /about
 <font size="2"><strong>Sep. 2018 — Mar. 2020</strong></font> New England Conservatory Preparatory School Substitute Instructor <font size="2">(Boston, USA)</font>     
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<font size="2"><strong>Apr. 2018 — May. 2018</strong></font> NEC School of Continuing Education Substitute Instructor <font size="2">(Boston, USA)</font>     
+<font size="2"><strong>Apr. 2018 — May 2018</strong></font> NEC School of Continuing Education Substitute Instructor <font size="2">(Boston, USA)</font>     
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<font size="2"><strong>Sep. 2015 — May. 2016</strong></font> New York Philharmonic Education Department Intern <font size="2">(New York, USA)</font> 
+<font size="2"><strong>Sep. 2015 — May 2016</strong></font> New York Philharmonic Education Department Intern <font size="2">(New York, USA)</font> 
 </p>
 </details>
 
