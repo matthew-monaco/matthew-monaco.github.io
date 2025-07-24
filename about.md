@@ -34,7 +34,7 @@ permalink: /about
 <summary><a style="color: green"><strong>E<font size="2">DUCATION</font></strong></a></summary>
 <br>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>Ph.D. Candidate in Composition</strong> (degree in progress, graduation date: May 2027)
+<strong>PhD Candidate in Composition</strong> (degree in progress, graduation date: May 2027)
 </p>
 <p style="padding-left: 3em; text-indent: -3em;">
 &nbsp; &nbsp; &nbsp; &nbsp; <em>University of California, Berkeley</em>
