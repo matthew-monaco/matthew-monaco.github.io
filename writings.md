@@ -12,7 +12,7 @@ permalink: /writings
 
 [<img src="./read.png" width="15" />](https://www.conservatoiredeparis.fr/sites/default/files/Recherche-Editions/TEP_MONACO_2021.pdf) <a href="https://www.conservatoiredeparis.fr/sites/default/files/Recherche-Editions/TEP_MONACO_2021.pdf" style="color: black">Towards phenomenological models of contemporary music (2022, in <font size="2">FRENCH</font>)</a>
 
-<img src="./read.png" width="15" /> Coming soon: a transcription-based analytical study of Cecil Taylor's solo improvisations, focusing on identifying and describing his musical grammar. To feature complete transcriptions of 'Olim', 'Spring of Two Blue-J's, and more.
+<img src="./read.png" width="15" /> Coming soon: a transcription-based analytical study of Cecil Taylor's solo improvisations, focusing on identifying and describing his musical grammar. To feature complete transcriptions of <em>Olim</em>, <em>Spring of Two Blue-J's</em>, and more.
 
 ***
 
