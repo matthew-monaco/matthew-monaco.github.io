@@ -105,25 +105,25 @@ permalink: /about
 <summary><a style="color: green"><strong>W<font size="2">ORK</font> E<font size="2">XPERIENCE</font></strong></a></summary>
 <br>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>Aug. 2023 — Present</strong> Graduate Student Instructor at UC Berkeley <font size="2">(Berkeley, USA)</font>  
+<font size="2"><strong>Aug. 2023 — Present</strong></font> Graduate Student Instructor at UC Berkeley <font size="2">(Berkeley, USA)</font>  
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>Apr. 2017 — Present</strong> Music Engraving (Freelance)  
+<font size="2"><strong>Apr. 2017 — Present</strong></font> Music Engraving (Freelance)  
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>Sep. 2018 — May 2020</strong> Tuesday Night New Music Concert Series Curator <font size="2">(Boston, USA)</font>     
+<font size="2"><strong>Sep. 2018 — May 2020</strong></font> Tuesday Night New Music Concert Series Curator <font size="2">(Boston, USA)</font>     
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>Jan. 2018 — May 2020</strong> NEC Music Theory TA/Tutor <font size="2">(Boston, USA)</font>     
+<font size="2"><strong>Jan. 2018 — May 2020</strong></font> NEC Music Theory TA/Tutor <font size="2">(Boston, USA)</font>     
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>Sep. 2018 — Mar. 2020</strong> New England Conservatory Preparatory School Substitute Instructor <font size="2">(Boston, USA)</font>     
+<font size="2"><strong>Sep. 2018 — Mar. 2020</strong></font> New England Conservatory Preparatory School Substitute Instructor <font size="2">(Boston, USA)</font>     
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>Apr. 2018 — May. 2018</strong> NEC School of Continuing Education Substitute Instructor <font size="2">(Boston, USA)</font>     
+<font size="2"><strong>Apr. 2018 — May. 2018</strong></font> NEC School of Continuing Education Substitute Instructor <font size="2">(Boston, USA)</font>     
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<strong>Sep. 2015 — May. 2016</strong> New York Philharmonic Education Department Intern <font size="2">(New York, USA)</font> 
+<font size="2"><strong>Sep. 2015 — May. 2016</strong></font> New York Philharmonic Education Department Intern <font size="2">(New York, USA)</font> 
 </p>
 </details>
 
