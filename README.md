@@ -12,4 +12,4 @@ I am a Paris-based composer and pianist, originally from New Jersey. Feel free t
 
 ***
 
-<font size="2"><a style="color: grey"> Official site of composer Matthew Monaco </a></font>
+<div style="text-align: center"><font size="2"><a style="color: grey"> Official site of composer Matthew Monaco </a></font></div>  
