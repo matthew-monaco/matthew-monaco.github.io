@@ -13,3 +13,5 @@ I am a Paris-based composer and pianist, originally from New Jersey. Feel free t
 ***
 
 <div style="text-align: center"><font size="2"><a style="color: grey"> Official website of composer Matthew Monaco </a></font></div>  
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
