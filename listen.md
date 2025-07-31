@@ -4,7 +4,7 @@ title: " ‎ "
 permalink: /listen
 ---
 
-<a href="/" style="color: black">**Home**</a> <a style="color: green"> • </a> <a href="/about" style="color: black">**About**</a> <a style="color: green"> • </a> <a href="/works" style="color: black">**Works**</a> <a style="color: green"> • </a> <a href="/listen" style="color: green">**Listen**</a> <a style="color: green"> • </a> <a href="/writings" style="color: black">**Writings**</a>
+<a href="/" style="color: black">**Home**</a> <a style="color: green"> • </a> <a href="/about" style="color: black">**About**</a> <a style="color: green"> • </a> <a href="/works" style="color: black">**Works**</a> <a style="color: white"> • </a> <a href="/listen" style="color: green">**Listen**</a> <a style="color: white"> • </a> <a href="/writings" style="color: black">**Writings**</a>
 
 ***
 
