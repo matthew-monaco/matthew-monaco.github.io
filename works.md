@@ -189,7 +189,7 @@ permalink: /works
 
 ## Coming soon
 
-#### <a style="color: green"> New Work </a>
+#### <a style="color: green"> Bloom </a>
 
 <p style="padding-left: 2em; text-indent: -2em;">
 &nbsp; &nbsp; <font size="2">ACCORDION</font> <a style="color: green"> • </a> 7' <a style="color: green"> • </a> 2025  
