@@ -108,9 +108,6 @@ permalink: /about
 <font size="2"><strong>Aug. 2023 — Present</strong></font> Graduate Student Instructor at UC Berkeley <font size="2">(Berkeley, USA)</font>  
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
-<font size="2"><strong>Apr. 2017 — Present</strong></font> Music Engraving (Freelance)  
-</p>
-<p style="padding-left: 1em; text-indent: -1em;">
 <font size="2"><strong>Sep. 2018 — May 2020</strong></font> Tuesday Night New Music Concert Series Curator <font size="2">(Boston, USA)</font>     
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
@@ -121,6 +118,9 @@ permalink: /about
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
 <font size="2"><strong>Apr. 2018 — May 2018</strong></font> NEC School of Continuing Education Substitute Instructor <font size="2">(Boston, USA)</font>     
+</p>
+<p style="padding-left: 1em; text-indent: -1em;">
+<font size="2"><strong>Apr. 2017 — Present</strong></font> Music Engraving (Freelance)  
 </p>
 <p style="padding-left: 1em; text-indent: -1em;">
 <font size="2"><strong>Sep. 2015 — May 2016</strong></font> New York Philharmonic Education Department Intern <font size="2">(New York, USA)</font> 
