@@ -12,7 +12,7 @@ permalink: /works
 <summary><a style="color: green"><strong>By Genre</strong></a></summary>
  
 <strong>Large ensemble and orchestra</strong>
-
+<br>
 <a style="color: green"> Stray </a>
 
 <p style="padding-left: 2em; text-indent: -2em;">
@@ -31,7 +31,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>NEC Philharmonia</strong>, David Loebel <a style="color: green"> • </a> Boston <img src="./usa.png" width="13" />
 </p>
 
-***
+<br>
 
 <strong>Ensemble</strong>
 
@@ -95,7 +95,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Alinéa, Tyler Bouque</strong> (soloist), and Tristan Rais-Sherman (conductor) <a style="color: green"> • </a> Boston <img src="./usa.png" width="13" />
 </p>
 
-***
+<br>
 
 <strong>Chamber</strong>
 
@@ -135,7 +135,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> members of <strong>Ensemble Linea</strong> <a style="color: green"> • </a> <strong>Etchings Festival</strong> <a style="color: green"> • </a> Auvillar <img src="./france.png" width="13" />
 </p>
 
-***
+<br>
 
 <strong>Solo</strong>
 
@@ -157,7 +157,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>David Yu</strong> <a style="color: green"> • </a> Boston <img src="./usa.png" width="13" />
 </p>
 
-***
+<br>
 
 <strong>Solo with electronics</strong>
 
@@ -188,7 +188,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Iñaki Bermudez</strong> <a style="color: green"> • </a> Paris <img src="./france.png" width="13" />
 </p>
 
-***
+<br>
 
 <strong>Coming soon</strong>
 
