@@ -8,6 +8,9 @@ permalink: /works
 
 ***
 
+<details>
+<summary><a style="color: green"><strong>By Genre</strong></a></summary>
+ 
 ## Large ensemble and orchestra
 
 #### <a style="color: green"> Stray </a>
@@ -206,6 +209,8 @@ permalink: /works
 <p style="padding-left: 2em; text-indent: -2em;">
 &nbsp; &nbsp; <font size="2">For</font> <strong>Ninon Hannecart-Ségal</strong>
 </p>
+
+</details>
 
 ***
 
