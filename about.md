@@ -29,7 +29,7 @@ permalink: /about
 <div style="text-align: justify">&nbsp; &nbsp; Matthew lives in Paris as a recipient of the George Ladd Prix de Paris.</div>  
 
 ***
-<a href="/about" style="color: green">**Bio en français**</a> 
+<a href="/about" style="color: green">**Bio en français**</a> <img src="./france.png" width="13" />
 ***
 
 <details>
