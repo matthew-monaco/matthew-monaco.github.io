@@ -30,8 +30,11 @@ permalink: /about
 
 ***
 <br>
-<a href="/bio-en-francais" style="color: green"><strong>Bio en français</strong></a> <img src="./france.png" width="13" />  
+<a href="/bio-en-francais" style="color: green"><strong><font size="2">Bio en français</font></strong></a> <img src="./france.png" width="13" />  
+
 <br>
+<br>
+
 ***
 
 <details>
