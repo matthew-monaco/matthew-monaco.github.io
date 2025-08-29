@@ -190,7 +190,7 @@ permalink: /works
 
 ***
 
-<strong>Coming soon<strong>
+<strong>Coming soon</strong>
 
 <a style="color: green"> Bloom </a>
 
