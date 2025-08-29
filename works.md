@@ -243,7 +243,7 @@ permalink: /works
 </p>
 <p style="padding-left: 2em; text-indent: -2em;">
 &nbsp; &nbsp; <font size="2">For</font> <strong>Ninon Hannecart-Ségal</strong>
-</p
+</p>
 
 <br>
 <strong>2025</strong>
