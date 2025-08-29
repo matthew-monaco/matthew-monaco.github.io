@@ -144,6 +144,15 @@ permalink: /works
 <br>
 <br>
 
+<a style="color: green"> Bloom </a>
+
+<p style="padding-left: 2em; text-indent: -2em;">
+&nbsp; &nbsp; <font size="2">ACCORDION</font> <a style="color: green"> • </a> 7' <a style="color: green"> • </a> 2025  
+</p>
+<p style="padding-left: 2em; text-indent: -2em;">
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Théo Ould</strong> <a style="color: green"> • </a> Berkeley <img src="./usa.png" width="13" />
+</p>
+
 <a style="color: green"> Tessellate </a>
 
 <p style="padding-left: 2em; text-indent: -2em;">
@@ -199,15 +208,6 @@ permalink: /works
 <br>
 <br>
 
-<a style="color: green"> Bloom </a>
-
-<p style="padding-left: 2em; text-indent: -2em;">
-&nbsp; &nbsp; <font size="2">ACCORDION</font> <a style="color: green"> • </a> 7' <a style="color: green"> • </a> 2025  
-</p>
-<p style="padding-left: 2em; text-indent: -2em;">
-&nbsp; &nbsp; <font size="2">For</font> <strong>Théo Ould</strong>
-</p>
-
 <a style="color: green"> New Work </a>
 
 <p style="padding-left: 2em; text-indent: -2em;">
@@ -227,14 +227,6 @@ permalink: /works
 <strong>COMING SOON</strong>
 <br>
 <br>
-<a style="color: green"> Bloom </a>
-
-<p style="padding-left: 2em; text-indent: -2em;">
-&nbsp; &nbsp; <font size="2">ACCORDION</font> <a style="color: green"> • </a> 7' <a style="color: green"> • </a> 2025  
-</p>
-<p style="padding-left: 2em; text-indent: -2em;">
-&nbsp; &nbsp; <font size="2">For</font> <strong>Théo Ould</strong>
-</p>
 
 <a style="color: green"> New Work </a>
 
@@ -249,6 +241,16 @@ permalink: /works
 <strong>2025</strong>
 <br>
 <br>
+
+<a style="color: green"> Bloom </a>
+
+<p style="padding-left: 2em; text-indent: -2em;">
+&nbsp; &nbsp; <font size="2">ACCORDION</font> <a style="color: green"> • </a> 7' <a style="color: green"> • </a> 2025  
+</p>
+<p style="padding-left: 2em; text-indent: -2em;">
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Théo Ould</strong> <a style="color: green"> • </a> Berkeley <img src="./usa.png" width="13" />
+</p>
+
 <a style="color: green"> Thread </a>
 
 <p style="padding-left: 2em; text-indent: -2em;">
