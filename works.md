@@ -11,7 +11,8 @@ permalink: /works
 <details>
 <summary><a style="color: green"><strong>By Genre</strong></a></summary>
 <br>
-<strong>Large ensemble and orchestra</strong>
+<strong>LARGE ENSEMBLE AND ORCHESTRA</strong>
+<br>
 <br>
 <a style="color: green"> Stray </a>
 
@@ -32,7 +33,8 @@ permalink: /works
 </p>
 
 <br>
-<strong>Ensemble</strong>
+<strong>ENSEMBLE</strong>
+<br>
 <br>
 <a style="color: green"> Thread </a>
 
@@ -95,7 +97,8 @@ permalink: /works
 </p>
 
 <br>
-<strong>Chamber</strong>
+<strong>CHAMBER</strong>
+<br>
 <br>
 
 <a style="color: green"> Fits and Starts </a>
@@ -135,7 +138,8 @@ permalink: /works
 </p>
 
 <br>
-<strong>Solo</strong>
+<strong>SOLO</strong>
+<br>
 <br>
 
 <a style="color: green"> Tessellate </a>
@@ -157,7 +161,8 @@ permalink: /works
 </p>
 
 <br>
-<strong>Solo with electronics</strong>
+<strong>SOLO WITH ELECTRONICS</strong>
+<br>
 <br>
 
 <a style="color: green"> Blur </a>
@@ -188,7 +193,8 @@ permalink: /works
 </p>
 
 <br>
-<strong>Coming soon</strong>
+<strong>COMING SOON</strong>
+<br>
 <br>
 
 <a style="color: green"> Bloom </a>
