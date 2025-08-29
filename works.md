@@ -27,7 +27,7 @@ permalink: /works
 <a style="color: green"> And to think that night would not exist </a>
 
 <p style="padding-left: 2em; text-indent: -2em;">
-&nbsp; &nbsp; <font size="2">ORCHESTRA</font> <a style="color: green"> • </a> 15' <a style="color: green"> • </a> 2019   
+&nbsp; &nbsp; <font size="2">ORCHESTRA</font> <a style="color: green"> • </a> 15' <a style="color: green"> • </a> 2018-2019   
 </p>
 <p style="padding-left: 2em; text-indent: -2em;">
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>NEC Philharmonia</strong>, David Loebel <a style="color: green"> • </a> Boston <img src="./usa.png" width="13" />
@@ -92,7 +92,7 @@ permalink: /works
 <a style="color: green"> Flux </a>
 
 <p style="padding-left: 2em; text-indent: -2em;">
-&nbsp; &nbsp; <font size="2">FLUTE, CLARINET, PERCUSSION, PIANO, VIOLIN, VIOLONCELLO, DOUBLE BASS, and BARITONE SOLO</font> <a style="color: green"> • </a> 23' <a style="color: green"> • </a> 2019  
+&nbsp; &nbsp; <font size="2">FLUTE, CLARINET, PERCUSSION, PIANO, VIOLIN, VIOLONCELLO, DOUBLE BASS, and BARITONE SOLO</font> <a style="color: green"> • </a> 23' <a style="color: green"> • </a> 2019-2020  
 </p>
 <p style="padding-left: 2em; text-indent: -2em;">
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Alinéa, Tyler Bouque</strong> (soloist), and Tristan Rais-Sherman (conductor) <a style="color: green"> • </a> Boston <img src="./usa.png" width="13" />
@@ -379,19 +379,19 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">8 TROMBONES, PERCUSSION, and 4 DOUBLE BASSES</font> <a style="color: green"> • </a> 24' <a style="color: green"> • </a> 2020
 </p>
 
-<br>
-<strong>2019</strong>
-<br>
-<br>
-
 <a style="color: green"> Flux </a>
 
 <p style="padding-left: 2em; text-indent: -2em;">
-&nbsp; &nbsp; <font size="2">FLUTE, CLARINET, PERCUSSION, PIANO, VIOLIN, VIOLONCELLO, DOUBLE BASS, and BARITONE SOLO</font> <a style="color: green"> • </a> 23' <a style="color: green"> • </a> 2019  
+&nbsp; &nbsp; <font size="2">FLUTE, CLARINET, PERCUSSION, PIANO, VIOLIN, VIOLONCELLO, DOUBLE BASS, and BARITONE SOLO</font> <a style="color: green"> • </a> 23' <a style="color: green"> • </a> 2019-2020  
 </p>
 <p style="padding-left: 2em; text-indent: -2em;">
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Alinéa, Tyler Bouque</strong> (soloist), and Tristan Rais-Sherman (conductor) <a style="color: green"> • </a> Boston <img src="./usa.png" width="13" />
 </p>
+
+<br>
+<strong>2019</strong>
+<br>
+<br>
 
 <a style="color: green"> Quartet </a>
 
@@ -432,7 +432,7 @@ permalink: /works
 <a style="color: green"> And to think that night would not exist </a>
 
 <p style="padding-left: 2em; text-indent: -2em;">
-&nbsp; &nbsp; <font size="2">ORCHESTRA</font> <a style="color: green"> • </a> 15' <a style="color: green"> • </a> 2019   
+&nbsp; &nbsp; <font size="2">ORCHESTRA</font> <a style="color: green"> • </a> 15' <a style="color: green"> • </a> 2018-2019   
 </p>
 <p style="padding-left: 2em; text-indent: -2em;">
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>NEC Philharmonia</strong>, David Loebel <a style="color: green"> • </a> Boston <img src="./usa.png" width="13" />
