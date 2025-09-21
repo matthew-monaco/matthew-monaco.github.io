@@ -49,7 +49,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble Linea</strong>, Jean-Philippe Wurtz <a style="color: green"> ▪ </a>  <strong>Festival aux Chandelles</strong> <a style="color: green"> ▪ </a> Sainte-Marie-aux-Mines <img src="./france.png" width="13" /> <a style="color: green"> ▪ </a> <em>Commissioned by the Royaumont Foundation with the support of Christine Jolivet Erlih</em>
 </div>
 
-
+<br>
+ 
 <a style="color: green"> <strong>Split</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -59,6 +60,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble l’Itinéraire</strong>, David Milnes <a style="color: green"> ▪ </a> Berkeley <img src="./usa.png" width="13" />
 </div>
 
+<br>
+ 
 <a style="color: green"> <strong>Mesh</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -68,6 +71,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble Court-circuit</strong>, Jean Deroyer <a style="color: green"> ▪ </a> <strong>Voix Nouvelles</strong> at the Royaumont Abbey <a style="color: green"> ▪ </a> Asnières-sur-Oise <img src="./france.png" width="13" />
 </div>
 
+<br>
+ 
 <a style="color: green"> <strong>Spirals, Orbits, and Circular Paths</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -77,6 +82,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble intercontemporain</strong>, Léo Margue <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" />
 </div>
 
+<br>
+ 
 <a style="color: green"> <strong>Scaling</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -85,12 +92,17 @@ permalink: /works
 <div style="text-indent: -40px; padding-left: 40px;">
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble intercontemporain</strong>, Léo Margue <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" />
 </div>
+
+<br>
+ 
 <a style="color: green"> <strong>Ebb/Flow</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
 &nbsp; &nbsp; <font size="2">8 TROMBONES, PERCUSSION, and 4 DOUBLE BASSES</font> <a style="color: green"> ▪ </a> 24' <a style="color: green"> ▪ </a> 2020
 </div>
 
+<br>
+ 
 <a style="color: green"> <strong>Flux</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -114,6 +126,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Del Sol Quartet</strong> <a style="color: green"> ▪ </a> Berkeley <img src="./usa.png" width="13" />
 </div>
 
+<br>
+ 
 <a style="color: green"> <strong>Quartet</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -123,6 +137,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Callithumpian Consort</strong>, Stephen Drury (conductor) <a style="color: green"> ▪ </a> Boston <img src="./usa.png" width="13" />
 </div>
 
+<br>
+ 
 <a style="color: green"> <strong>Piano Trio</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -132,6 +148,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Brouwer Trio</strong> <a style="color: green"> ▪ </a> <strong>VIPA Festival</strong> <a style="color: green"> ▪ </a> Valencia <img src="./spain.png" width="13" />
 </div>
 
+<br>
+ 
 <a style="color: green"> <strong>Duo</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -155,6 +173,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Théo Ould</strong> <a style="color: green"> ▪ </a> Berkeley <img src="./usa.png" width="13" />
 </div>
 
+<br>
+ 
 <a style="color: green"> <strong>Tessellate</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -164,6 +184,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Iñaki Bermudez</strong> <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" />
 </div>
 
+<br>
+ 
 <a style="color: green"> <strong>Prelude</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -187,6 +209,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Alain Billard</strong> <a style="color: green"> ▪ </a> <strong>ManiFeste festival</strong> at Ircam <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" />
 </div>
 
+<br>
+ 
 <a style="color: green"> <strong>A ritual, maybe</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -196,6 +220,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Richard Worn</strong> <a style="color: green"> ▪ </a> Berkeley <img src="./usa.png" width="13" />
 </div>
 
+<br>
+ 
 <a style="color: green"> <strong>Tessellated</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -253,6 +279,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Théo Ould</strong> <a style="color: green"> ▪ </a> Berkeley <img src="./usa.png" width="13" />
 </div>
 
+<br>
+ 
 <a style="color: green"> <strong>Thread</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -276,6 +304,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Alain Billard</strong> <a style="color: green"> ▪ </a> <strong>ManiFeste festival</strong> at Ircam <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" />
 </div>
 
+<br>
+ 
 <a style="color: green"> <strong>Fits and Starts</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -299,6 +329,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble l’Itinéraire</strong>, David Milnes <a style="color: green"> ▪ </a> Berkeley <img src="./usa.png" width="13" />
 </div>
 
+<br>
+ 
 <a style="color: green"> <strong>Mesh</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -308,6 +340,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble Court-circuit</strong>, Jean Deroyer <a style="color: green"> ▪ </a> <strong>Voix Nouvelles</strong> at the Royaumont Abbey <a style="color: green"> ▪ </a> Asnières-sur-Oise <img src="./france.png" width="13" />
 </div>
 
+<br>
+ 
 <a style="color: green"> <strong>A ritual, maybe</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -331,6 +365,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>l'Orchestre des lauréats du Conservatoire</strong> (CNSMDP), Jean Deroyer <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" />
 </div>
 
+<br>
+ 
 <a style="color: green"> <strong>Tessellated</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -354,6 +390,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble intercontemporain</strong>, Léo Margue <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" />
 </div>
 
+<br>
+ 
 <a style="color: green"> <strong>Tessellate</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -377,6 +415,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble intercontemporain</strong>, Léo Margue <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" />
 </div>
 
+<br>
+ 
 <a style="color: green"> <strong>Ebb/Flow</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -406,6 +446,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Callithumpian Consort</strong>, Stephen Drury (conductor) <a style="color: green"> ▪ </a> Boston <img src="./usa.png" width="13" />
 </div>
 
+<br>
+ 
 <a style="color: green"> <strong>Piano Trio</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -415,6 +457,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Brouwer Trio</strong> <a style="color: green"> ▪ </a> <strong>VIPA Festival</strong> <a style="color: green"> ▪ </a> Valencia <img src="./spain.png" width="13" />
 </div>
 
+<br>
+ 
 <a style="color: green"> <strong>Duo</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -424,6 +468,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> members of <strong>Ensemble Linea</strong> <a style="color: green"> ▪ </a> <strong>Etchings Festival</strong> <a style="color: green"> ▪ </a> Auvillar <img src="./france.png" width="13" />
 </div>
 
+<br>
+ 
 <a style="color: green"> <strong>Prelude</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -433,6 +479,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>David Yu</strong> <a style="color: green"> ▪ </a> Boston <img src="./usa.png" width="13" />
 </div>
 
+<br>
+ 
 <a style="color: green"> <strong>And to think that night would not exist</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
