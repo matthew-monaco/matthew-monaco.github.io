@@ -44,6 +44,7 @@ permalink: /works
 <font size="2">Premiere:</font> <strong>Ensemble Linea</strong>, Jean-Philippe Wurtz <a style="color: green"> ▪ </a>  <strong>Festival aux Chandelles</strong> <a style="color: green"> ▪ </a> Sainte-Marie-aux-Mines <img src="./france.png" width="13" /> <a style="color: green"> ▪ </a> <em>Commissioned by the Royaumont Foundation with the support of Christine Jolivet Erlih</em>
 </div>
 
+
 <a style="color: green"> <strong>Split</strong> </a>
 
 <p style="padding-left: 2em; text-indent: -2em;">
