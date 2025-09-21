@@ -4,7 +4,7 @@ title: " ‎ "
 permalink: /works
 ---
 
-<a href="/" style="color: black">**Home**</a> <a style="color: green"> • </a> <a href="/about" style="color: black">**About**</a> <a style="color: green"> • </a> <a href="/works" style="color: green">**Works**</a> <a style="color: green"> • </a> <a href="/listen" style="color: black">**Listen**</a> <a style="color: green"> • </a> <a href="/writings" style="color: black">**Writings**</a>
+<a href="/" style="color: black">**Home**</a> <a style="color: green"> ▪ </a> <a href="/about" style="color: black">**About**</a> <a style="color: green"> ▪ </a> <a href="/works" style="color: green">**Works**</a> <a style="color: green"> ▪ </a> <a href="/listen" style="color: black">**Listen**</a> <a style="color: green"> ▪ </a> <a href="/writings" style="color: black">**Writings**</a>
 
 ***
 
@@ -18,9 +18,9 @@ permalink: /works
 <a style="color: green"> <strong>Stray</strong> </a>
 
 <p style="padding-left: 2em; text-indent: -2em;">
-&nbsp; &nbsp; <font size="2">20 MUSICIANS</font> <a style="color: green"> • </a> 23' <a style="color: green"> • </a> 2022 </p>
+&nbsp; &nbsp; <font size="2">20 MUSICIANS</font> <a style="color: green"> ▪ </a> 23' <a style="color: green"> ▪ </a> 2022 </p>
 <p style="padding-left: 2em; text-indent: -2em;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>l'Orchestre des lauréats du Conservatoire</strong> (CNSMDP), Jean Deroyer <a style="color: green"> • </a> Paris <img src="./france.png" width="13" /> </p>
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>l'Orchestre des lauréats du Conservatoire</strong> (CNSMDP), Jean Deroyer <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" /> </p>
  
 <a style="color: green"> <strong>And to think that night would not exist</strong> </a>
 
