@@ -19,7 +19,7 @@ permalink: /works
 
 <div style="text-indent: -40px; padding-left: 40px;">
 <font size="2">20 MUSICIANS</font> <a style="color: green"> ▪ </a> 23' <a style="color: green"> ▪ </a> 2022
-
+<br>
 <font size="2">Premiere:</font> <strong>l'Orchestre des lauréats du Conservatoire</strong> (CNSMDP), Jean Deroyer <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" /> 
 </div>
 
