@@ -21,8 +21,6 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">20 MUSICIANS</font> <a style="color: green"> ▪ </a> 23' <a style="color: green"> ▪ </a> 2022 </p>
 <p style="padding-left: 2em; text-indent: -2em;">
 &nbsp; &nbsp; <font size="2">Premiere:</font> <strong>l'Orchestre des lauréats du Conservatoire</strong> (CNSMDP), Jean Deroyer <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" /> </p>
-
-<p class="h-1a">(a) in relation to an exempt payment service provider mentioned in subsection (1)(a), means any of the following payment services:</p>
  
 <a style="color: green"> <strong>And to think that night would not exist</strong> </a>
 
