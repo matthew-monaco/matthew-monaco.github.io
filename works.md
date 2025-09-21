@@ -18,10 +18,10 @@ permalink: /works
 <a style="color: green"> <strong>Stray</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
-<font size="2">20 MUSICIANS</font> <a style="color: green"> ▪ </a> 23' <a style="color: green"> ▪ </a> 2022
+&nbsp; &nbsp; <font size="2">20 MUSICIANS</font> <a style="color: green"> ▪ </a> 23' <a style="color: green"> ▪ </a> 2022
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-<font size="2">Premiere:</font> <strong>l'Orchestre des lauréats du Conservatoire</strong> (CNSMDP), Jean Deroyer <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" /> 
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>l'Orchestre des lauréats du Conservatoire</strong> (CNSMDP), Jean Deroyer <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" /> 
 </div>
 
 <br>
@@ -29,10 +29,10 @@ permalink: /works
 <a style="color: green"> <strong>And to think that night would not exist</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
-<font size="2">ORCHESTRA</font> <a style="color: green"> ▪ </a> 15' <a style="color: green"> ▪ </a> 2018-2019
+&nbsp; &nbsp; <font size="2">ORCHESTRA</font> <a style="color: green"> ▪ </a> 15' <a style="color: green"> ▪ </a> 2018-2019
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-<font size="2">Premiere:</font> <strong>NEC Philharmonia</strong>, David Loebel <a style="color: green"> ▪ </a> Boston <img src="./usa.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>NEC Philharmonia</strong>, David Loebel <a style="color: green"> ▪ </a> Boston <img src="./usa.png" width="13" />
 </div>
 
 <br>
@@ -43,10 +43,10 @@ permalink: /works
 <a style="color: green"> <strong>Thread</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
-<font size="2">FLUTE, CLARINET, PIANO, VIOLIN, VIOLA, and VIOLONCELLO</font> <a style="color: green"> ▪ </a> 15' <a style="color: green"> ▪ </a> 2025
+&nbsp; &nbsp; <font size="2">FLUTE, CLARINET, PIANO, VIOLIN, VIOLA, and VIOLONCELLO</font> <a style="color: green"> ▪ </a> 15' <a style="color: green"> ▪ </a> 2025
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-<font size="2">Premiere:</font> <strong>Ensemble Linea</strong>, Jean-Philippe Wurtz <a style="color: green"> ▪ </a>  <strong>Festival aux Chandelles</strong> <a style="color: green"> ▪ </a> Sainte-Marie-aux-Mines <img src="./france.png" width="13" /> <a style="color: green"> ▪ </a> <em>Commissioned by the Royaumont Foundation with the support of Christine Jolivet Erlih</em>
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble Linea</strong>, Jean-Philippe Wurtz <a style="color: green"> ▪ </a>  <strong>Festival aux Chandelles</strong> <a style="color: green"> ▪ </a> Sainte-Marie-aux-Mines <img src="./france.png" width="13" /> <a style="color: green"> ▪ </a> <em>Commissioned by the Royaumont Foundation with the support of Christine Jolivet Erlih</em>
 </div>
 
 
