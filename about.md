@@ -39,19 +39,21 @@ permalink: /about
 <strong>PhD Candidate in Composition</strong> (degree in progress, graduation date: May 2027)
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; &nbsp; &nbsp; <em>University of California, Berkeley</em>
+&nbsp; &nbsp; <em>University of California, Berkeley</em>
 </div>
+<br>
 <div style="text-indent: -40px; padding-left: 40px;">
 <strong>Master's Degree in Composition</strong> (2022)
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; &nbsp; &nbsp; <em>Conservatoire National Supérieur de Musique et de Danse de Paris</em>
+&nbsp; &nbsp; <em>Conservatoire National Supérieur de Musique et de Danse de Paris</em>
 </div>
+<br>
 <div style="text-indent: -40px; padding-left: 40px;">
 <strong>Bachelor's Degree in Composition</strong> (2020)
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; &nbsp; &nbsp; <em>New England Conservatory</em>, Minor in Music Theory
+&nbsp; &nbsp; <em>New England Conservatory</em>, Minor in Music Theory
 </div>
 </details>
 
