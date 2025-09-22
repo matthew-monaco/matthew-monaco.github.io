@@ -9,7 +9,7 @@ permalink: /works
 ***
 
 <details>
-<summary><a style="color: green"><strong>B<font size="2">Y</font> G<font size="2">ENRE</font></strong></a></summary>
+<summary><a style="color: green"><strong>B<font size="2">Y</font> I<font size="2">NSTRUMENTATION</font></strong></a></summary>
 <br>
 <strong>LARGE ENSEMBLE AND ORCHESTRA</strong>
 <br>
