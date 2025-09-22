@@ -21,7 +21,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">20 MUSICIANS</font> <a style="color: green"> ▪ </a> 23' <a style="color: green"> ▪ </a> 2022
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>l'Orchestre des lauréats du Conservatoire</strong> (CNSMDP), Jean Deroyer <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" /> 
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>l'Orchestre des lauréats du Conservatoire</strong> (CNSMDP), <strong>Jean Deroyer</strong> <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" /> 
 </div>
 
 <br>
@@ -32,7 +32,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">ORCHESTRA</font> <a style="color: green"> ▪ </a> 15' <a style="color: green"> ▪ </a> 2018-2019
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>NEC Philharmonia</strong>, David Loebel <a style="color: green"> ▪ </a> Boston <img src="./usa.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>NEC Philharmonia</strong>, <strong>David Loebel</strong> <a style="color: green"> ▪ </a> Boston <img src="./usa.png" width="13" />
 </div>
 
 <br>
@@ -46,7 +46,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">FLUTE, CLARINET, PIANO, VIOLIN, VIOLA, and VIOLONCELLO</font> <a style="color: green"> ▪ </a> 15' <a style="color: green"> ▪ </a> 2025
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble Linea</strong>, Jean-Philippe Wurtz <a style="color: green"> ▪ </a>  <strong>Festival aux Chandelles</strong> <a style="color: green"> ▪ </a> Sainte-Marie-aux-Mines <img src="./france.png" width="13" /> <a style="color: green"> ▪ </a> <em>Commissioned by the Royaumont Foundation with the support of Christine Jolivet Erlih</em>
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble Linea</strong>, <strong>Jean-Philippe Wurtz</strong> <a style="color: green"> ▪ </a>  <strong>Festival aux Chandelles</strong> <a style="color: green"> ▪ </a> Sainte-Marie-aux-Mines <img src="./france.png" width="13" /> <a style="color: green"> ▪ </a> <em>Commissioned by the Royaumont Foundation with the support of Christine Jolivet Erlih</em>
 </div>
 
 <br>
@@ -57,7 +57,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">FLUTE, CLARINET, PIANO, VIOLIN, VIOLA, and VIOLONCELLO</font> <a style="color: green"> ▪ </a> 12' <a style="color: green"> ▪ </a> 2023
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble l’Itinéraire</strong>, David Milnes <a style="color: green"> ▪ </a> Berkeley <img src="./usa.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble l’Itinéraire</strong>, <strong>David Milnes</strong> <a style="color: green"> ▪ </a> Berkeley <img src="./usa.png" width="13" />
 </div>
 
 <br>
@@ -68,7 +68,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">FLUTE, OBOE, BASS CLARINET, TROMBONE, VIOLIN, VIOLA, and VIOLONCELLO</font> <a style="color: green"> ▪ </a> 10' <a style="color: green"> ▪ </a> 2023
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble Court-circuit</strong>, Jean Deroyer <a style="color: green"> ▪ </a> <strong>Voix Nouvelles</strong> at the Royaumont Abbey <a style="color: green"> ▪ </a> Asnières-sur-Oise <img src="./france.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble Court-circuit</strong>, <strong>Jean Deroyer</strong> <a style="color: green"> ▪ </a> <strong>Voix Nouvelles</strong> at the Royaumont Abbey <a style="color: green"> ▪ </a> Asnières-sur-Oise <img src="./france.png" width="13" />
 </div>
 
 <br>
@@ -79,7 +79,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">CONTRABASS CLARINET, 2 PERCUSSIONISTS, HARP, PIANO, ACCORDION, 2 VIOLINS, 2 VIOLAS, VIOLONCELLO, and DOUBLE BASS</font> <a style="color: green"> ▪ </a> 10' <a style="color: green"> ▪ </a> 2021
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble intercontemporain</strong>, Léo Margue <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble intercontemporain</strong>, <strong>Léo Margue</strong> <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" />
 </div>
 
 <br>
@@ -90,7 +90,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">FLUTE, BASS CLARINET, ALTO SAXOPHONE, FRENCH HORN, TROMBONE, PERCUSSION, 2 VIOLINS, VIOLA, VIOLONCELLO, and DOUBLE BASS</font> <a style="color: green"> ▪ </a> 13' <a style="color: green"> ▪ </a> 2020
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble intercontemporain</strong>, Léo Margue <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble intercontemporain</strong>, <strong>Léo Margue</strong> <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" />
 </div>
 
 <br>
@@ -109,7 +109,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">FLUTE, CLARINET, PERCUSSION, PIANO, VIOLIN, VIOLONCELLO, DOUBLE BASS, and BARITONE SOLO</font> <a style="color: green"> ▪ </a> 23' <a style="color: green"> ▪ </a> 2019-2020
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Alinéa, Tyler Bouque</strong> (soloist), and Tristan Rais-Sherman (conductor) <a style="color: green"> ▪ </a> Boston <img src="./usa.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Alinéa, Tyler Bouque</strong> (soloist), and <strong>Tristan Rais-Sherman</strong> (conductor) <a style="color: green"> ▪ </a> Boston <img src="./usa.png" width="13" />
 </div>
 
 <br>
@@ -134,7 +134,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">CLARINET, VIOLIN, VIOLA, and DOUBLE BASS</font> <a style="color: green"> ▪ </a> 8' <a style="color: green"> ▪ </a> 2019
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Callithumpian Consort</strong>, Stephen Drury (conductor) <a style="color: green"> ▪ </a> Boston <img src="./usa.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Callithumpian Consort</strong>, <strong>Stephen Drury</strong> (conductor) <a style="color: green"> ▪ </a> Boston <img src="./usa.png" width="13" />
 </div>
 
 <br>
@@ -287,7 +287,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">FLUTE, CLARINET, PIANO, VIOLIN, VIOLA, and VIOLONCELLO</font> <a style="color: green"> ▪ </a> 15'
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble Linea</strong>, Jean-Philippe Wurtz <a style="color: green"> ▪ </a>  <strong>Festival aux Chandelles</strong> <a style="color: green"> ▪ </a> Sainte-Marie-aux-Mines <img src="./france.png" width="13" /> <a style="color: green"> ▪ </a> <em>Commissioned by the Royaumont Foundation with the support of Christine Jolivet Erlih</em>
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble Linea</strong>, <strong>Jean-Philippe Wurtz</strong> <a style="color: green"> ▪ </a>  <strong>Festival aux Chandelles</strong> <a style="color: green"> ▪ </a> Sainte-Marie-aux-Mines <img src="./france.png" width="13" /> <a style="color: green"> ▪ </a> <em>Commissioned by the Royaumont Foundation with the support of Christine Jolivet Erlih</em>
 </div>
 
 <br>
@@ -326,7 +326,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">FLUTE, CLARINET, PIANO, VIOLIN, VIOLA, and VIOLONCELLO</font> <a style="color: green"> ▪ </a> 12'
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble l’Itinéraire</strong>, David Milnes <a style="color: green"> ▪ </a> Berkeley <img src="./usa.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble l’Itinéraire</strong>, <strong>David Milnes</strong> <a style="color: green"> ▪ </a> Berkeley <img src="./usa.png" width="13" />
 </div>
 
 <br>
@@ -337,7 +337,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">FLUTE, OBOE, BASS CLARINET, TROMBONE, VIOLIN, VIOLA, and VIOLONCELLO</font> <a style="color: green"> ▪ </a> 10'
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble Court-circuit</strong>, Jean Deroyer <a style="color: green"> ▪ </a> <strong>Voix Nouvelles</strong> at the Royaumont Abbey <a style="color: green"> ▪ </a> Asnières-sur-Oise <img src="./france.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble Court-circuit</strong>, <strong>Jean Deroyer</strong> <a style="color: green"> ▪ </a> <strong>Voix Nouvelles</strong> at the Royaumont Abbey <a style="color: green"> ▪ </a> Asnières-sur-Oise <img src="./france.png" width="13" />
 </div>
 
 <br>
@@ -362,7 +362,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">20 MUSICIANS</font> <a style="color: green"> ▪ </a> 23'
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>l'Orchestre des lauréats du Conservatoire</strong> (CNSMDP), Jean Deroyer <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>l'Orchestre des lauréats du Conservatoire</strong> (CNSMDP), <strong>Jean Deroyer</strong> <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" />
 </div>
 
 <br>
@@ -387,7 +387,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">CONTRABASS CLARINET, 2 PERCUSSIONISTS, HARP, PIANO, ACCORDION, 2 VIOLINS, 2 VIOLAS, VIOLONCELLO, and DOUBLE BASS</font> <a style="color: green"> ▪ </a> 10'
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble intercontemporain</strong>, Léo Margue <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble intercontemporain</strong>, <strong>Léo Margue</strong> <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" />
 </div>
 
 <br>
@@ -412,7 +412,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">FLUTE, BASS CLARINET, ALTO SAXOPHONE, FRENCH HORN, TROMBONE, PERCUSSION, 2 VIOLINS, VIOLA, VIOLONCELLO, and DOUBLE BASS</font> <a style="color: green"> ▪ </a> 13'
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble intercontemporain</strong>, Léo Margue <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Ensemble intercontemporain</strong>, <strong>Léo Margue</strong> <a style="color: green"> ▪ </a> Paris <img src="./france.png" width="13" />
 </div>
 
 <br>
@@ -429,7 +429,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">FLUTE, CLARINET, PERCUSSION, PIANO, VIOLIN, VIOLONCELLO, DOUBLE BASS, and BARITONE SOLO</font> <a style="color: green"> ▪ </a> 23'
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Alinéa, Tyler Bouque</strong> (soloist), and Tristan Rais-Sherman (conductor) <a style="color: green"> ▪ </a> Boston <img src="./usa.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Alinéa, Tyler Bouque</strong> (soloist), and <strong>Tristan Rais-Sherman</strong> (conductor) <a style="color: green"> ▪ </a> Boston <img src="./usa.png" width="13" />
 </div>
 
 <br>
@@ -443,7 +443,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">CLARINET, VIOLIN, VIOLA, and DOUBLE BASS</font> <a style="color: green"> ▪ </a> 8'
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Callithumpian Consort</strong>, Stephen Drury (conductor) <a style="color: green"> ▪ </a> Boston <img src="./usa.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Callithumpian Consort</strong>, <strong>Stephen Drury</strong> (conductor) <a style="color: green"> ▪ </a> Boston <img src="./usa.png" width="13" />
 </div>
 
 <br>
@@ -487,7 +487,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">ORCHESTRA</font> <a style="color: green"> ▪ </a> 15'
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>NEC Philharmonia</strong>, David Loebel <a style="color: green"> ▪ </a> Boston <img src="./usa.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>NEC Philharmonia</strong>, <strong>David Loebel</strong> <a style="color: green"> ▪ </a> Boston <img src="./usa.png" width="13" />
 </div>
 
 </details>
