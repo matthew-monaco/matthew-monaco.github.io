@@ -196,17 +196,6 @@ permalink: /works
 </div>
 
 <br>
- 
-<a style="color: green"> <strong>Prelude</strong> </a>
-
-<div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">PIANO</font> <a style="color: green"> ▪ </a> 4' <a style="color: green"> ▪ </a> 2019
-</div>
-<div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>David Yu</strong> <a style="color: green"> ▪ </a> Boston <img src="./usa.png" width="13" />
-</div>
-
-<br>
 <strong>SOLO WITH ELECTRONICS</strong>
 <br>
 <br>
@@ -488,17 +477,6 @@ permalink: /works
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
 &nbsp; &nbsp; <font size="2">Premiere:</font> members of <strong>Ensemble Linea</strong> <a style="color: green"> ▪ </a> <strong>Etchings Festival</strong> <a style="color: green"> ▪ </a> Auvillar <img src="./france.png" width="13" />
-</div>
-
-<br>
- 
-<a style="color: green"> <strong>Prelude</strong> </a>
-
-<div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">PIANO</font> <a style="color: green"> ▪ </a> 4'
-</div>
-<div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>David Yu</strong> <a style="color: green"> ▪ </a> Boston <img src="./usa.png" width="13" />
 </div>
 
 <br>
