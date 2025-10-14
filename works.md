@@ -253,7 +253,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">SOPRANO</font> <a style="color: green"> ▪ </a> 8' <a style="color: green"> ▪ </a> 2026
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">For</font> <strong>Maria Eleonora Caminada</strong>
+&nbsp; &nbsp; <font size="2">For</font> <strong>Maria Eleonora Caminada</strong> (Premiere: Spring 2026)
 </div>
 
 </details>
@@ -273,7 +273,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">SOPRANO</font> <a style="color: green"> ▪ </a> 8'
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">For</font> <strong>Maria Eleonora Caminada</strong>
+&nbsp; &nbsp; <font size="2">For</font> <strong>Maria Eleonora Caminada</strong> (Premiere: Spring 2026)
 </div>
 
 <br>
