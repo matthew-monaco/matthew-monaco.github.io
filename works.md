@@ -164,6 +164,15 @@ permalink: /works
 <br>
 <br>
 
+<a style="color: green"> <strong>Zagzig</strong> </a>
+
+<div style="text-indent: -40px; padding-left: 40px;">
+&nbsp; &nbsp; <font size="2">MODERN HARPSICHORD</font> <a style="color: green"> ▪ </a> 3'30" <a style="color: green"> ▪ </a> 2025
+</div>
+<div style="text-indent: -40px; padding-left: 40px;">
+&nbsp; &nbsp; <font size="2">For</font> <strong>Ninon Hannecart-Ségal</strong>
+</div>
+
 <a style="color: green"> <strong>Bloom</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -236,13 +245,13 @@ permalink: /works
 <br>
 <br>
 
-<a style="color: green"> <strong>Zagzig</strong> </a>
+<a style="color: green"> <strong>New Work</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">MODERN HARPSICHORD</font> <a style="color: green"> ▪ </a> 3'30" <a style="color: green"> ▪ </a> 2026
+&nbsp; &nbsp; <font size="2">SOPRANO</font> <a style="color: green"> ▪ </a> 8' <a style="color: green"> ▪ </a> 2026
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">For</font> <strong>Ninon Hannecart-Ségal</strong>
+&nbsp; &nbsp; <font size="2">For</font> <strong>Maria Eleonora Caminada</strong>
 </div>
 
 </details>
@@ -256,7 +265,21 @@ permalink: /works
 <br>
 <br>
 
-<a style="color: green"> <strong>zagzig</strong> </a>
+<a style="color: green"> <strong>New Work</strong> </a>
+
+<div style="text-indent: -40px; padding-left: 40px;">
+&nbsp; &nbsp; <font size="2">SOPRANO</font> <a style="color: green"> ▪ </a> 8'
+</div>
+<div style="text-indent: -40px; padding-left: 40px;">
+&nbsp; &nbsp; <font size="2">For</font> <strong>Maria Eleonora Caminada</strong>
+</div>
+
+<br>
+<strong>2025</strong>
+<br>
+<br>
+
+<a style="color: green"> <strong>Zagzig</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
 &nbsp; &nbsp; <font size="2">MODERN HARPSICHORD</font> <a style="color: green"> ▪ </a> 3'30"
@@ -264,11 +287,6 @@ permalink: /works
 <div style="text-indent: -40px; padding-left: 40px;">
 &nbsp; &nbsp; <font size="2">For</font> <strong>Ninon Hannecart-Ségal</strong>
 </div>
-
-<br>
-<strong>2025</strong>
-<br>
-<br>
 
 <a style="color: green"> <strong>Bloom</strong> </a>
 
