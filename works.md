@@ -236,10 +236,10 @@ permalink: /works
 <br>
 <br>
 
-<a style="color: green"> <strong>New Work</strong> </a>
+<a style="color: green"> <strong>Zagzig</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">MODERN HARPSICHORD</font> <a style="color: green"> ▪ </a> 4' <a style="color: green"> ▪ </a> 2026
+&nbsp; &nbsp; <font size="2">MODERN HARPSICHORD</font> <a style="color: green"> ▪ </a> 3'30" <a style="color: green"> ▪ </a> 2026
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
 &nbsp; &nbsp; <font size="2">For</font> <strong>Ninon Hannecart-Ségal</strong>
@@ -256,10 +256,10 @@ permalink: /works
 <br>
 <br>
 
-<a style="color: green"> <strong>New Work</strong> </a>
+<a style="color: green"> <strong>zagzig</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">MODERN HARPSICHORD</font> <a style="color: green"> ▪ </a> 4'
+&nbsp; &nbsp; <font size="2">MODERN HARPSICHORD</font> <a style="color: green"> ▪ </a> 3'30"
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
 &nbsp; &nbsp; <font size="2">For</font> <strong>Ninon Hannecart-Ségal</strong>
