@@ -173,6 +173,8 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">For</font> <strong>Ninon Hannecart-Ségal</strong>
 </div>
 
+<br>
+
 <a style="color: green"> <strong>Bloom</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -287,6 +289,8 @@ permalink: /works
 <div style="text-indent: -40px; padding-left: 40px;">
 &nbsp; &nbsp; <font size="2">For</font> <strong>Ninon Hannecart-Ségal</strong>
 </div>
+
+<br>
 
 <a style="color: green"> <strong>Bloom</strong> </a>
 
