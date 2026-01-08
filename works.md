@@ -242,7 +242,25 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">SOPRANO</font> <a style="color: green"> ▪ </a> 8' <a style="color: green"> ▪ </a> 2026
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">For</font> <strong>Maria Eleonora Caminada</strong> (Premiere: Spring 2026)
+&nbsp; &nbsp; <font size="2">For</font> <strong>Maria Eleonora Caminada</strong> (Premiere: Spring 2026 in Milan, Italy)
+</div>
+
+<a style="color: green"> <strong>New Work</strong> </a>
+
+<div style="text-indent: -40px; padding-left: 40px;">
+&nbsp; &nbsp; <font size="2">BASS CLARINET, DRUM SET, and DOUBLE BASS</font> <a style="color: green"> ▪ </a> 8' <a style="color: green"> ▪ </a> 2026
+</div>
+<div style="text-indent: -40px; padding-left: 40px;">
+&nbsp; &nbsp; <font size="2">For</font> <strong>the Reaching the Limits III Festival</strong> (Premiere: Spring 2026, in Nicosia, Cyprus)
+</div>
+
+<a style="color: green"> <strong>New Work</strong> </a>
+
+<div style="text-indent: -40px; padding-left: 40px;">
+&nbsp; &nbsp; <font size="2">BASS CLARINET, DRUM SET, and DOUBLE BASS</font> <a style="color: green"> ▪ </a> 8' <a style="color: green"> ▪ </a> 2026
+</div>
+<div style="text-indent: -40px; padding-left: 40px;">
+&nbsp; &nbsp; <font size="2">For</font> <strong>.abeceda</strong> (Premiere: Summer 2026, in Bled, Slovenia)
 </div>
 
 </details>
