@@ -20,7 +20,10 @@ permalink: /about
 <div style="text-align: justify">&nbsp; &nbsp; Matthew’s research focuses on intersections of phenomenology and music theory, creating a space for work-specific methods in contemporary music analysis. Two current (separate) research projects focus on musico-grammatical paradigms in the solo performances of Cecil Taylor and rhythmic processes in Beat Furrer's <em>Konzert</em>. </div>  
 
 
-<div style="text-align: justify">&nbsp; &nbsp; He recently worked with Alain Billard to premier <em>Blur</em>, a work for contrabass clarinet and electronics, at Ircam as part of the ManiFeste festival.</div>  
+<div style="text-align: justify">&nbsp; &nbsp; He recently worked with Ensemble Linea to premiere <em>Thread</em> (commissioned by the Royaumont Foundation) at the Festival aux Chandelles.</div>
+  
+  
+<div style="text-align: justify">&nbsp; &nbsp; 2026 will see the premieres of new works in Cyprus (Nicosia), Italy (Milan), and Slovenia (Bled).</div>
 
 
 <div style="text-align: justify">&nbsp; &nbsp; Through his travels and his desire to meet the composers who inspire him, Matthew has frequently participated in international academies (ManiFeste, Voix Nouvelles, VIPA etc.), and benefited from the advice (and ears) of Kaija Saariaho, Tristan Murail, Toshio Hosokawa, Philippe Leroux, Philippe Manoury, Diana Soh, Francesco Filidei, Francesca Verunelli, and Du Yun, among others.</div>  
