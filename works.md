@@ -289,17 +289,6 @@ permalink: /works
 
 <br>
 
-<a style="color: green"> <strong>Scuffle</strong> </a>
-
-<div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">BASS CLARINET, DRUM SET, and DOUBLE BASS</font> <a style="color: green"> ▪ </a> 8' <a style="color: green"> ▪ </a> 2026
-</div>
-<div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">To be premiered in March 2026 <a style="color: green"> ▪ </a> </font> <strong>Reaching the Limits III Festival</strong> <a style="color: green"> ▪ </a> Nicosia <img src="./cyprus.png" width="13" />)
-</div>
-
-<br>
-
 <a style="color: green"> <strong>New Work</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -310,8 +299,24 @@ permalink: /works
 </div>
 
 <br>
+<strong>2026</strong>
+<br>
+<br>
+
+<br>
 <strong>2025</strong>
 <br>
+<br>
+
+<a style="color: green"> <strong>Scuffle</strong> </a>
+
+<div style="text-indent: -40px; padding-left: 40px;">
+&nbsp; &nbsp; <font size="2">BASS CLARINET, DRUM SET, and DOUBLE BASS</font> <a style="color: green"> ▪ </a> 8' <a style="color: green"> ▪ </a> 2026
+</div>
+<div style="text-indent: -40px; padding-left: 40px;">
+&nbsp; &nbsp; <font size="2">To be premiered in March 2026 <a style="color: green"> ▪ </a> </font> <strong>Reaching the Limits III Festival</strong> <a style="color: green"> ▪ </a> Nicosia <img src="./cyprus.png" width="13" />)
+</div>
+
 <br>
 
 <a style="color: green"> <strong>Zagzig</strong> </a>
