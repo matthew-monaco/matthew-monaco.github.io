@@ -242,7 +242,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">SOPRANO</font> <a style="color: green"> ▪ </a> 8' <a style="color: green"> ▪ </a> 2026
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">For</font> <strong>Maria Eleonora Caminada</strong> (Premiere: May 2026 in Milan, Italy)
+&nbsp; &nbsp; <font size="2">For</font> <strong>Maria Eleonora Caminada</strong> (Premiere: May 2026 in Milan <img src="./italy.png" width="13" />)
 </div>
 
 <br>
@@ -253,7 +253,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">BASS CLARINET, DRUM SET, and DOUBLE BASS</font> <a style="color: green"> ▪ </a> 8' <a style="color: green"> ▪ </a> 2026
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">For the</font> <strong>Reaching the Limits III Festival</strong> (Premiere: March 2026, in Nicosia, Cyprus)
+&nbsp; &nbsp; <font size="2">For the</font> <strong>Reaching the Limits III Festival</strong> (Premiere: March 2026, in Nicosia <img src="./cyprus.png" width="13" />)
 </div>
 
 <br>
@@ -264,7 +264,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">ENSEMBLE</font> <a style="color: green"> ▪ </a> 10' <a style="color: green"> ▪ </a> 2026
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">For</font> <strong>.abeceda</strong> (Premiere: June 2026, in Bled, Slovenia)
+&nbsp; &nbsp; <font size="2">For</font> <strong>.abeceda</strong> (Premiere: June 2026, in Bled <img src="./slovenia.png" width="13" />)
 </div>
 
 </details>
@@ -284,7 +284,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">SOPRANO</font> <a style="color: green"> ▪ </a> 8'
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">For</font> <strong>Maria Eleonora Caminada</strong> (Premiere: May 2026)
+&nbsp; &nbsp; <font size="2">For</font> <strong>Maria Eleonora Caminada</strong> (Premiere: May 2026, in Milan <img src="./italy.png" width="13" />)
 </div>
 
 <br>
@@ -295,7 +295,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">BASS CLARINET, DRUM SET, and DOUBLE BASS</font> <a style="color: green"> ▪ </a> 8' <a style="color: green"> ▪ </a> 2026
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">For the</font> <strong>Reaching the Limits III Festival</strong> (Premiere: March 2026, in Nicosia, Cyprus)
+&nbsp; &nbsp; <font size="2">For the</font> <strong>Reaching the Limits III Festival</strong> (Premiere: March 2026, in Nicosia <img src="./cyprus.png" width="13" />)
 </div>
 
 <br>
@@ -306,7 +306,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">ENSEMBLE</font> <a style="color: green"> ▪ </a> 10' <a style="color: green"> ▪ </a> 2026
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">For</font> <strong>.abeceda</strong> (Premiere: June 2026, in Bled, Slovenia)
+&nbsp; &nbsp; <font size="2">For</font> <strong>.abeceda</strong> (Premiere: June 2026, in Bled <img src="./slovenia.png" width="13" />)
 </div>
 
 <br>
