@@ -303,11 +303,6 @@ permalink: /works
 <br>
 <br>
 
-<br>
-<strong>2025</strong>
-<br>
-<br>
-
 <a style="color: green"> <strong>Scuffle</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
@@ -317,6 +312,9 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">To be premiered in March 2026 <a style="color: green"> ▪ </a> </font> <strong>Reaching the Limits III Festival</strong> <a style="color: green"> ▪ </a> Nicosia <img src="./cyprus.png" width="13" />)
 </div>
 
+<br>
+<strong>2025</strong>
+<br>
 <br>
 
 <a style="color: green"> <strong>Zagzig</strong> </a>
