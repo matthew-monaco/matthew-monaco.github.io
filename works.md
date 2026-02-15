@@ -258,7 +258,7 @@ permalink: /works
 
 <br>
 
-<a style="color: green"> <strong>New Work</strong> </a>
+<a style="color: green"> <strong>Rock Paper Scissors</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
 &nbsp; &nbsp; <font size="2">ENSEMBLE</font> <a style="color: green"> ▪ </a> 10' <a style="color: green"> ▪ </a> 2026
@@ -289,7 +289,7 @@ permalink: /works
 
 <br>
 
-<a style="color: green"> <strong>New Work</strong> </a>
+<a style="color: green"> <strong>Rock Paper Scissors</strong> </a>
 
 <div style="text-indent: -40px; padding-left: 40px;">
 &nbsp; &nbsp; <font size="2">ENSEMBLE</font> <a style="color: green"> ▪ </a> 10' <a style="color: green"> ▪ </a> 2026
