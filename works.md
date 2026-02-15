@@ -124,6 +124,7 @@ permalink: /works
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
 &nbsp; &nbsp; <font size="2">To be premiered in March 2026 <a style="color: green"> ▪ </a> </font> <strong>Patsiaoura Ensemble</strong> <a style="color: green"> ▪ </a> <strong>Reaching the Limits Festival</strong> <a style="color: green"> ▪ </a> Nicosia <img src="./cyprus.png" width="13" /> <a style="color: green"> ▪ </a> <em>Commissioned by the Reaching the Limits Festival</em>
+</div>
 
 <br>
 
