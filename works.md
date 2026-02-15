@@ -123,8 +123,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">BASS CLARINET, DRUM SET, and DOUBLE BASS</font> <a style="color: green"> ▪ </a> 8' <a style="color: green"> ▪ </a> 2026
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">To be premiered in March 2026 <a style="color: green"> ▪ </a> </font> <strong>Reaching the Limits III Festival</strong> <a style="color: green"> ▪ </a> Nicosia <img src="./cyprus.png" width="13" />
-</div>
+&nbsp; &nbsp; <font size="2">To be premiered in March 2026 <a style="color: green"> ▪ </a> </font> <strong>Patsiaoura Ensemblel</strong> <a style="color: green"> ▪ </a> Nicosia <img src="./cyprus.png" width="13" /> <a style="color: green"> ▪ </a> <em>Commissioned by the Reaching the Limits Festival</em>
 
 <br>
 
@@ -309,7 +308,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">BASS CLARINET, DRUM SET, and DOUBLE BASS</font> <a style="color: green"> ▪ </a> 8' <a style="color: green"> ▪ </a> 2026
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">To be premiered in March 2026 <a style="color: green"> ▪ </a> </font> <strong>Reaching the Limits III Festival</strong> <a style="color: green"> ▪ </a> Nicosia <img src="./cyprus.png" width="13" />
+&nbsp; &nbsp; <font size="2">To be premiered in March 2026 <a style="color: green"> ▪ </a> </font> <strong>Patsiaoura Ensemblel</strong> <a style="color: green"> ▪ </a> Nicosia <img src="./cyprus.png" width="13" /> <a style="color: green"> ▪ </a> <em>Commissioned by the Reaching the Limits Festival</em>
 </div>
 
 <br>
