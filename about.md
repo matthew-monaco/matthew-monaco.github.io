@@ -63,7 +63,7 @@ permalink: /about
 <summary><a style="color: green"><strong>S<font size="2">ELECTED</font> A<font size="2">WARDS AND</font> A<font size="2">CHIEVEMENTS</font></strong></a></summary>
 <br>
  <div style="text-indent: -40px; padding-left: 40px;">
-<font size="2"><strong>2025</strong></font> Composer-in-Residence, Reaching the Limits Festival <font size="2">(Nicosia, Cyprus)</font>     
+<font size="2"><strong>2026</strong></font> Composer-in-Residence, Reaching the Limits Festival <font size="2">(Nicosia, Cyprus)</font>     
 </div> 
 <div style="text-indent: -40px; padding-left: 40px;">
 <font size="2"><strong>2025</strong></font> George Ladd Prix de Paris <font size="2">(Berkeley, USA)</font>     
