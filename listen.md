@@ -24,6 +24,10 @@ permalink: /listen
 
 ## Improvisations and Collaborations
 
+#### <a style="color: green">Duo performance with Myra Melfordo</a>
+
+[<img src="./listen.png" width="15" />](https://soundcloud.com/matthewtmonaco/thrum) <a href="https://soundcloud.com/matthewtmonaco/thrum" style="color: black"><font size="2">LISTEN</font> on SoundCloud</a> 
+
 #### <a style="color: green">Solo</a>
 
 [<img src="./watch.png" width="15" />](https://www.youtube.com/watch?v=8I3eImyJudY&ab_channel=MatthewMonaco) <a href="https://www.youtube.com/watch?v=8I3eImyJudY&ab_channel=MatthewMonaco" style="color: black"><font size="2">WATCH</font> solo piano improvisation</a> 
