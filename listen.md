@@ -24,7 +24,7 @@ permalink: /listen
 
 ## Improvisations and Collaborations
 
-#### <a style="color: green">Duo performance with Myra Melfordo/a>
+#### <a style="color: green">Duo performance with Myra Melford</a>
 
 [<img src="./listen.png" width="15" />](https://soundcloud.com/matthewtmonaco/thrum) <a href="https://soundcloud.com/matthewtmonaco/thrum" style="color: black"><font size="2">LISTEN</font> on SoundCloud</a> 
 
