@@ -123,7 +123,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">BASS CLARINET, DRUM SET, and DOUBLE BASS</font> <a style="color: green"> ▪ </a> 8' <a style="color: green"> ▪ </a> 2026
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiere:<a style="color: green"> ▪ </a> </font> <strong>Patsiaoura Ensemble</strong> <a style="color: green"> ▪ </a> <strong>Reaching the Limits Festival</strong> <a style="color: green"> ▪ </a> Larnaca <img src="./cyprus.png" width="13" /> <a style="color: green"> ▪ </a> <em>Commissioned by the Reaching the Limits Festival and CultureTones</em>
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Patsiaoura Ensemble</strong> <a style="color: green"> ▪ </a> <strong>Reaching the Limits Festival</strong> <a style="color: green"> ▪ </a> Larnaca <img src="./cyprus.png" width="13" /> <a style="color: green"> ▪ </a> <em>Commissioned by the Reaching the Limits Festival and CultureTones</em>
 </div>
 
 <br>
@@ -309,7 +309,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">BASS CLARINET, DRUM SET, and DOUBLE BASS</font> <a style="color: green"> ▪ </a> 8' <a style="color: green"> ▪ </a> 2026
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiere:<a style="color: green"> ▪ </a> </font> <strong>Patsiaoura Ensemble</strong> <a style="color: green"> ▪ </a> <strong>Reaching the Limits Festival</strong> <a style="color: green"> ▪ </a> Larnaca <img src="./cyprus.png" width="13" /> <a style="color: green"> ▪ </a> <em>Commissioned by the Reaching the Limits Festival and CultureTones</em>
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Patsiaoura Ensemble</strong> <a style="color: green"> ▪ </a> <strong>Reaching the Limits Festival</strong> <a style="color: green"> ▪ </a> Larnaca <img src="./cyprus.png" width="13" /> <a style="color: green"> ▪ </a> <em>Commissioned by the Reaching the Limits Festival and CultureTones</em>
 </div>
 
 <br>
