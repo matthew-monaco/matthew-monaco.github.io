@@ -22,19 +22,21 @@ permalink: /works_fixed
 &nbsp; &nbsp; <font size="2">FLUTE, VIOLIN, and PIANO</font> <a style="color: green"> ▪ </a> 7' <a style="color: green"> ▪ </a> 2026
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">To be premiered in June 2026: </font> <strong>.abeceda</strong> <a style="color: green"> ▪ </a> Bled <img src="./slovenia.png" width="13" />
+&nbsp; &nbsp; To be premiered in June 2026 <a style="color: green"> ▪ </a> Bled <img src="./slovenia.png" width="13" />
 </div>
 </details>
 
 <strong>2026</strong>
+<br>
+
 <details>
 <summary><a style="color: green"> <strong>I've Heard That Song Before</strong> </a></summary>
 
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">SOPRANO</font> <a style="color: green"> ▪ </a> 8'
+&nbsp; &nbsp; <font size="2">Soprano</font> <a style="color: green"> ▪ </a> 8'
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Premiered May 20th, 2026 by </font> <strong>Maria Eleonora Caminada</strong> <a style="color: green"> ▪ </a> Milan <img src="./italy.png" width="13" />
+&nbsp; &nbsp; Premiered May 20th, 2026 by <strong>Maria Eleonora Caminada</strong> <a style="color: green"> ▪ </a> Milan <img src="./italy.png" width="13" />
 </div>
 
 </details>
@@ -70,6 +72,7 @@ Details for "Thread"
 </details>
 
 <strong>2024</strong>
+<br>
 <details>
 <summary><a style="color: green"> <strong>Blur</strong> </a></summary>
 
@@ -85,6 +88,7 @@ Details for "Fits and Starts"
 </details>
 
 <strong>2023</strong>
+<br>
 <details>
 <summary><a style="color: green"> <strong>Split</strong> </a></summary>
 
@@ -107,6 +111,7 @@ Details for "A ritual, maybe"
 </details>
 
 <strong>2022</strong>
+<br>
 <details>
 <summary><a style="color: green"> <strong>Stray</strong> </a></summary>
 
@@ -122,6 +127,8 @@ Details for "Tessellated"
 </details>
 
 <strong>2021</strong>
+<br>
+
 <details>
 <summary><a style="color: green"> <strong>Spirals, Orbits, and Circular Paths</strong> </a></summary>
 
@@ -140,6 +147,8 @@ Details for "Tessellate"
 
 
 <strong>2020</strong>
+<br>
+
 <details>
 <summary><a style="color: green"> <strong>Scaling</strong> </a></summary>
 
@@ -169,6 +178,8 @@ Details for "Flux"
 
 
 <strong>2019</strong>
+<br>
+
 <details>
 <summary><a style="color: green"> <strong>Quartet</strong> </a></summary>
 
