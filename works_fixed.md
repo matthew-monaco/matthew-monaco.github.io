@@ -32,24 +32,18 @@ permalink: /works_fixed
 <details>
 <summary><a style="color: green"> <strong>I've Heard That Song Before</strong> </a></summary>
 
-<div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Soprano</font> <a style="color: green"> ▪ </a> 8'
-</div>
-<div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; Premiered May 20th, 2026 by <strong>Maria Eleonora Caminada</strong> <a style="color: green"> ▪ </a> Milan <img src="./italy.png" width="13" />
-</div>
-
+<font size="2">Soprano</font> <a style="color: green"> ▪ </a> 8'
+<br>
+Premiered May 20th, 2026 by <strong>Maria Eleonora Caminada</strong> <a style="color: green"> ▪ </a> Milan <img src="./italy.png" width="13" />
 </details>
 
 <details>
 <summary><a style="color: green"> <strong>Scuffle</strong> </a></summary>
 
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Bass clarinet, drumset, and double bass</font> <a style="color: green"> ▪ </a> 8'
-</div>
-<div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; Premiered March 14th, 2026 by the <strong>Patsioura Ensemble</strong> <a style="color: green"> ▪ </a> <strong>Reaching the Limits Festival</strong> <a style="color: green"> ▪ </a> Larnaca <img src="./cyprus.png" width="13" /> <a style="color: green"> ▪ </a> <em>Commissioned by the Reaching the Limits Festival and CultureTones</em>
-</div>
+<font size="2">Bass clarinet, drumset, and double bass</font> <a style="color: green"> ▪ </a> 8'
+<br>
+Premiered March 14th, 2026 by the <strong>Patsioura Ensemble</strong> <a style="color: green"> ▪ </a> <strong>Reaching the Limits Festival</strong> <a style="color: green"> ▪ </a> Larnaca <img src="./cyprus.png" width="13" /> <a style="color: green"> ▪ </a> <em>Commissioned by the Reaching the Limits Festival and CultureTones</em>
 
 </details>
 
