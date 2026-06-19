@@ -40,7 +40,7 @@ permalink: /works_fixed
 </details>
 
 <details>
-<summary>Scuffle</summary>
+<summary><a style="color: green"> <strong>Scuffle</strong> </a></summary>
 
 Details for "Scuffle"
 
@@ -48,14 +48,14 @@ Details for "Scuffle"
 
 <strong>2025</strong>
 <details>
-<summary>Zagzig</summary>
+<summary><a style="color: green"> <strong>Zagzig</strong> </a></summary>
 
 Details for "Zagzig"
 
 </details>
 
 <details>
-<summary>Bloom</summary>
+<summary><a style="color: green"> <strong>Bloom</strong> </a></summary>
 
 Details for "Bloom"
 
@@ -63,7 +63,7 @@ Details for "Bloom"
 
 
 <details>
-<summary>Thread</summary>
+<summary><a style="color: green"> <strong>Thread</strong> </a></summary>
 
 Details for "Thread"
 
