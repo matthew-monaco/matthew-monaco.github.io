@@ -9,6 +9,35 @@ permalink: /works_fixed
 ***
 
 
+/* Remove the default disclosure marker */
+.dropdown summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 0.5rem 0.75rem;
+  border-radius: 6px;
+  transition: background-color 0.2s ease;
+}
+
+/* Chrome, Edge, Safari */
+.dropdown summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Hover effect */
+.dropdown summary:hover {
+  background-color: #f0f0f0;
+}
+
+/* Keyboard accessibility */
+.dropdown summary:focus {
+  outline: 2px solid #0969da;
+  outline-offset: 2px;
+}
+
+
+
+***
+
 <details>
 <summary><a style="color: green"><strong>Chronological</strong></a></summary>
 <br>
