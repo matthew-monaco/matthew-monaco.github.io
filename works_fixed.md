@@ -10,7 +10,7 @@ permalink: /works_fixed
 
 
 <details>
-<summary><a style="color: green"><strong>C<font size="2">HRONOLOGICAL</font></strong></a></summary>
+<summary><a style="color: green"><strong>Chronological</strong></a></summary>
 <br>
 <strong>COMING SOON</strong>
 <br>
