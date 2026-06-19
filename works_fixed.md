@@ -17,13 +17,13 @@ permalink: /works_fixed
 
 <details>
 <summary><a style="color: green"> <strong>Rock Paper Scissors</strong> </a></summary>
+<br>
+<font size="2">Flute, violin, and piano</font> <a style="color: green"> ▪ </a> 6'
+<br>
+<br>
+To be premiered in June 2026 <a style="color: green"> ▪ </a> <strong>Bled Contemporary Music Week</strong> <a style="color: green"> ▪ </a> Bled <img src="./slovenia.png" width="13" />
 
-<div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">Flute, violin, and piano</font> <a style="color: green"> ▪ </a> 6'
-</div>
-<div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; To be premiered in June 2026 <a style="color: green"> ▪ </a> Bled <img src="./slovenia.png" width="13" />
-</div>
+
 </details>
 
 <strong>2026</strong>
@@ -31,16 +31,17 @@ permalink: /works_fixed
 
 <details>
 <summary><a style="color: green"> <strong>I've Heard That Song Before</strong> </a></summary>
-
+<br>
 <font size="2">Soprano</font> <a style="color: green"> ▪ </a> 8'
 <br>
 <br>
 Premiered May 20th, 2026 by <strong>Maria Eleonora Caminada</strong> <a style="color: green"> ▪ </a> Milan <img src="./italy.png" width="13" />
+
 </details>
 
 <details>
 <summary><a style="color: green"> <strong>Scuffle</strong> </a></summary>
-
+<br>
 <div style="text-indent: -40px; padding-left: 40px;">
 <font size="2">Bass clarinet, drumset, and double bass</font> <a style="color: green"> ▪ </a> 8'
 <br>
@@ -49,16 +50,18 @@ Premiered March 14th, 2026 by the <strong>Patsioura Ensemble</strong> <a style="
 <br>
 <br>
 <em>Commissioned by the Reaching the Limits Festival and CultureTones</em>
+  
 </details>
 
 <strong>2025</strong>
 <details>
 <summary><a style="color: green"> <strong>Zagzig</strong> </a></summary>
-
+<br>
 <font size="2">Modern harpsichord</font> <a style="color: green"> ▪ </a> 4'
 <br>
 <br>
 To be premiered in September 2026 by <strong>Ninon Hannecart-Ségal</strong> <a style="color: green"> ▪ </a> Rybna <img src="./poland.png" width="13" />
+
 </details>
 
 <details>
