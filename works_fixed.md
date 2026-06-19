@@ -28,9 +28,14 @@ permalink: /works_fixed
 
 <strong>2026</strong>
 <details>
-<summary>I've Heard That Song Before</summary>
+<summary><a style="color: green"> <strong>I've Heard That Song Before</strong> </a></summary>
 
-Details for "I've Heard That Song Before"
+<div style="text-indent: -40px; padding-left: 40px;">
+&nbsp; &nbsp; <font size="2">SOPRANO</font> <a style="color: green"> ▪ </a> 8'
+</div>
+<div style="text-indent: -40px; padding-left: 40px;">
+&nbsp; &nbsp; Premiered May 20th, 2026 <strong>Maria Eleonora Caminada</strong> <a style="color: green"> ▪ </a> Milan <img src="./italy.png" width="13" />
+</div>
 
 </details>
 
