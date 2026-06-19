@@ -12,8 +12,9 @@ permalink: /works_fixed
 <details>
 <summary>Chronological</summary>
 
-This content is visible when the main section is expanded.
+Coming Soon
 
+2026
 <details>
 <summary>Piece 1</summary>
 
@@ -27,5 +28,19 @@ Details for Piece 1
 Details for Piece 2
 
 </details>
+
+2025
+
+2024
+
+2023
+
+2022
+
+2021
+
+2020
+
+2019
 
 </details>
