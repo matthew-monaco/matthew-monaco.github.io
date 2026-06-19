@@ -12,7 +12,7 @@ permalink: /works_fixed
 <details>
 <summary><a style="color: green"><strong>Chronological</strong></a></summary>
 <br>
-<strong>COMING SOON</strong>
+<strong>Coming Soon</strong>
 <br>
 
 <details>
@@ -26,7 +26,7 @@ permalink: /works_fixed
 </div>
 </details>
 
-2026
+<strong>2026</strong>
 <details>
 <summary>I've Heard That Song Before</summary>
 
@@ -41,7 +41,7 @@ Details for "Scuffle"
 
 </details>
 
-2025
+<strong>2025</strong>
 <details>
 <summary>Zagzig</summary>
 
@@ -64,21 +64,26 @@ Details for "Thread"
 
 </details>
 
-2024
+<strong>2024</strong>
 
-2023
+<strong>2023</strong>
 
-2022
+<strong>2022</strong>
 
-2021
+<strong>2021</strong>
 
-2020
+<strong>2020</strong>
 
-2019
+<strong>2019</strong>
 
 </details>
+
+
 
 <details>
-<summary>By Instrumentation</summary>
+<summary><a style="color: green"><strong>By Instrumentation</strong></a></summary>
+<br>
+<strong>Coming Soon</strong>
+<br>
 
-</details>
+<details>
