@@ -70,16 +70,132 @@ Details for "Thread"
 </details>
 
 <strong>2024</strong>
+<details>
+<summary><a style="color: green"> <strong>Blur</strong> </a></summary>
+
+Details for "Blur"
+
+</details>
+
+<details>
+<summary><a style="color: green"> <strong>Fits and Starts</strong> </a></summary>
+
+Details for "Fits and Starts"
+
+</details>
 
 <strong>2023</strong>
+<details>
+<summary><a style="color: green"> <strong>Split</strong> </a></summary>
+
+Details for "Split"
+
+</details>
+
+<details>
+<summary><a style="color: green"> <strong>Mesh</strong> </a></summary>
+
+Details for "Mesh"
+
+</details>
+
+<details>
+<summary><a style="color: green"> <strong>A ritual, maybe</strong> </a></summary>
+
+Details for "A ritual, maybe"
+
+</details>
 
 <strong>2022</strong>
+<details>
+<summary><a style="color: green"> <strong>Stray</strong> </a></summary>
+
+Details for "Stray"
+
+</details>
+
+<details>
+<summary><a style="color: green"> <strong>Tessellated</strong> </a></summary>
+
+Details for "Tessellated"
+
+</details>
 
 <strong>2021</strong>
+<details>
+<summary><a style="color: green"> <strong>Spirals, Orbits, and Circular Paths</strong> </a></summary>
+
+Details for "Spirals, Orbits, and Circular Paths"
+
+</details>
+
+
+<details>
+<summary><a style="color: green"> <strong>Tessellate</strong> </a></summary>
+
+Details for "Tessellate"
+
+</details>
+
+
 
 <strong>2020</strong>
+<details>
+<summary><a style="color: green"> <strong>Scaling</strong> </a></summary>
+
+Details for "Scaling"
+
+</details>
+
+<details>
+<summary><a style="color: green"> <strong>Ebb/Flow</strong> </a></summary>
+
+Details for "Ebb/Flow"
+
+</details>
+
+
+
+<details>
+<summary><a style="color: green"> <strong>Flux</strong> </a></summary>
+
+Details for "Flux"
+
+</details>
+
+
+
+
+
 
 <strong>2019</strong>
+<details>
+<summary><a style="color: green"> <strong>Quartet</strong> </a></summary>
+
+Details for "Quartet"
+
+</details>
+
+<details>
+<summary><a style="color: green"> <strong>Piano Trio</strong> </a></summary>
+
+Details for "Piano Trio"
+
+</details>
+
+<details>
+<summary><a style="color: green"> <strong>Duo</strong> </a></summary>
+
+Details for "Duo"
+
+</details>
+
+<details>
+<summary><a style="color: green"> <strong>And to think that night would not exist</strong> </a></summary>
+
+Details for "And to think that night would not exist"
+
+</details>
 
 </details>
 
