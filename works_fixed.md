@@ -45,7 +45,10 @@ Premiered May 20th, 2026 by <strong>Maria Eleonora Caminada</strong> <a style="c
 <font size="2">Bass clarinet, drumset, and double bass</font> <a style="color: green"> ▪ </a> 8'
 <br>
 <br>
-Premiered March 14th, 2026 by the <strong>Patsioura Ensemble</strong> <a style="color: green"> ▪ </a> <strong>Reaching the Limits Festival</strong> <a style="color: green"> ▪ </a> Larnaca <img src="./cyprus.png" width="13" /> <a style="color: green"> ▪ </a> <em>Commissioned by the Reaching the Limits Festival and CultureTones</em>
+Premiered March 14th, 2026 by the <strong>Patsioura Ensemble</strong> <a style="color: green"> ▪ </a> <strong>Reaching the Limits Festival</strong> <a style="color: green"> ▪ </a> Larnaca <img src="./cyprus.png" width="13" />
+<br>
+<br>
+<em>Commissioned by the Reaching the Limits Festival and CultureTones</em>
 </details>
 
 <strong>2025</strong>
