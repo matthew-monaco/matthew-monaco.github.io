@@ -34,7 +34,7 @@ permalink: /works_fixed
 &nbsp; &nbsp; <font size="2">SOPRANO</font> <a style="color: green"> ▪ </a> 8'
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; Premiered May 20th, 2026 <strong>Maria Eleonora Caminada</strong> <a style="color: green"> ▪ </a> Milan <img src="./italy.png" width="13" />
+&nbsp; &nbsp; Premiered May 20th, 2026 by <strong>Maria Eleonora Caminada</strong> <a style="color: green"> ▪ </a> Milan <img src="./italy.png" width="13" />
 </div>
 
 </details>
