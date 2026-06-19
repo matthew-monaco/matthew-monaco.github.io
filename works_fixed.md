@@ -20,6 +20,7 @@ Details for Piece 1
 
 </details>
 
+<br>
 2026
 <details>
 <summary>I've Heard That Song Before</summary>
@@ -35,6 +36,7 @@ Details for "Scuffle"
 
 </details>
 
+<br>
 2025
 <details>
 <summary>Zagzig</summary>
@@ -58,16 +60,22 @@ Details for "Thread"
 
 </details>
 
+<br>
 2024
 
+<br>
 2023
 
+<br>
 2022
 
+<br>
 2021
 
+<br>
 2020
 
+<br>
 2019
 
 </details>
