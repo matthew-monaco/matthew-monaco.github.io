@@ -9,17 +9,28 @@ permalink: /works_fixed
 ***
 
 <style>
-summary{
+details > summary{
   list-style:none;
   cursor:pointer;
   padding:10px;
   border-radius:6px;
   transition:.2s;
 }
-summary::-webkit-details-marker{display:none;}
-summary::marker{content:"";}
-summary:hover{background:forestgreen;color:white;}
-details[open] summary{background:forestgreen;color:white;}
+
+details > summary::-webkit-details-marker{display:none;}
+details > summary::marker{content:"";}
+
+/* FORCE forest green hover */
+details > summary:hover{
+  background:#228B22 !important;
+  color:white !important;
+}
+
+/* Open state */
+details[open] > summary{
+  background:#228B22 !important;
+  color:white !important;
+}
 </style>
 
 <details>
