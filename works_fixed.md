@@ -10,28 +10,21 @@ permalink: /works_fixed
 
 
 <details>
-<summary>Main Section</summary>
+<summary>Chronological</summary>
 
 This content is visible when the main section is expanded.
 
 <details>
-<summary>Subsection A</summary>
+<summary>Piece 1</summary>
 
-Content for subsection A.
-
-<details>
-<summary>Subsection A.1</summary>
-
-Deeply nested content.
-
-</details>
+Details for Piece 1
 
 </details>
 
 <details>
-<summary>Subsection B</summary>
+<summary>Piece 2</summary>
 
-Content for subsection B.
+Details for Piece 2
 
 </details>
 
