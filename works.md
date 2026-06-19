@@ -302,7 +302,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">To be premiered in May 2026: </font> <strong>Maria Eleonora Caminada</strong> <a style="color: green"> ▪ </a> Milan <img src="./italy.png" width="13" />
 </div>
 
-<br)
+<br>
 
 <a style="color: green"> <strong>Scuffle</strong> </a>
 
