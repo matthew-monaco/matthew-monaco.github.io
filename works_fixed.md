@@ -34,6 +34,7 @@ permalink: /works_fixed
 
 <font size="2">Soprano</font> <a style="color: green"> ▪ </a> 8'
 <br>
+<br>
 Premiered May 20th, 2026 by <strong>Maria Eleonora Caminada</strong> <a style="color: green"> ▪ </a> Milan <img src="./italy.png" width="13" />
 </details>
 
@@ -43,8 +44,8 @@ Premiered May 20th, 2026 by <strong>Maria Eleonora Caminada</strong> <a style="c
 <div style="text-indent: -40px; padding-left: 40px;">
 <font size="2">Bass clarinet, drumset, and double bass</font> <a style="color: green"> ▪ </a> 8'
 <br>
+<br>
 Premiered March 14th, 2026 by the <strong>Patsioura Ensemble</strong> <a style="color: green"> ▪ </a> <strong>Reaching the Limits Festival</strong> <a style="color: green"> ▪ </a> Larnaca <img src="./cyprus.png" width="13" /> <a style="color: green"> ▪ </a> <em>Commissioned by the Reaching the Limits Festival and CultureTones</em>
-
 </details>
 
 <strong>2025</strong>
@@ -53,6 +54,10 @@ Premiered March 14th, 2026 by the <strong>Patsioura Ensemble</strong> <a style="
 
 Details for "Zagzig"
 
+<font size="2">Modern harpsichord</font> <a style="color: green"> ▪ </a> 8'
+<br>
+<br>
+To be premiered in September 2026 by <strong>Ninon Hannecart-Ségal</strong> <a style="color: green"> ▪ </a> Rybna <img src="./poland.png" width="13" />
 </details>
 
 <details>
