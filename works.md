@@ -181,7 +181,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">MODERN HARPSICHORD</font> <a style="color: green"> ▪ </a> 3'30" <a style="color: green"> ▪ </a> 2025
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">To be premiered in October 2026:</font> <strong>Ninon Hannecart-Ségal</strong> <a style="color: green"> ▪ </a> Rybna <img src="./poland.png" width="13" />
+&nbsp; &nbsp; <font size="2">To be premiered in September 2026:</font> <strong>Ninon Hannecart-Ségal</strong> <a style="color: green"> ▪ </a> Rybna <img src="./poland.png" width="13" />
 </div>
 
 <br>
@@ -299,7 +299,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">SOPRANO</font> <a style="color: green"> ▪ </a> 8'
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">To be premiered in May 2026: </font> <strong>Maria Eleonora Caminada</strong> <a style="color: green"> ▪ </a> Milan <img src="./italy.png" width="13" />
+&nbsp; &nbsp; <font size="2">Premiere:</font> <strong>Maria Eleonora Caminada</strong> <a style="color: green"> ▪ </a> Milan <img src="./italy.png" width="13" />
 </div>
 
 <br>
@@ -324,7 +324,7 @@ permalink: /works
 &nbsp; &nbsp; <font size="2">MODERN HARPSICHORD</font> <a style="color: green"> ▪ </a> 3'30"
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">To be premiered in October 2026:</font> <strong>Ninon Hannecart-Ségal</strong> <a style="color: green"> ▪ </a> Rybna <img src="./poland.png" width="13" />
+&nbsp; &nbsp; <font size="2">To be premiered in September 2026:</font> <strong>Ninon Hannecart-Ségal</strong> <a style="color: green"> ▪ </a> Rybna <img src="./poland.png" width="13" />
 </div>
 
 <br>
