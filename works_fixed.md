@@ -9,15 +9,63 @@ permalink: /works_fixed
 ***
 
 
-<details class="dropdown">
-  <summary>Documentation</summary>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+/* Dropdown container */
+details {
+  margin: 10px 0;
+}
 
-  <ul>
-    <li>Installation</li>
-    <li>Quick Start</li>
-    <li>Configuration</li>
-  </ul>
+/* Remove default arrow */
+summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 10px 15px;
+  border-radius: 8px;
+  transition: background-color 0.2s ease, color 0.2s ease;
+  font-weight: bold;
+}
+
+/* Remove arrow in Chrome/Safari */
+summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Highlight on hover */
+summary:hover {
+  background-color: #ffe066;
+  color: #000;
+}
+
+/* Highlight when dropdown is open */
+details[open] summary {
+  background-color: #ffd43b;
+  color: #000;
+}
+
+/* Dropdown content */
+.dropdown-content {
+  padding: 10px 15px;
+  border-left: 3px solid #ffd43b;
+  margin-top: 5px;
+}
+</style>
+</head>
+<body>
+
+<details>
+  <summary>Menu</summary>
+  <div class="dropdown-content">
+    <p>Option 1</p>
+    <p>Option 2</p>
+    <p>Option 3</p>
+  </div>
 </details>
+
+</body>
+</html>
 
 
 
