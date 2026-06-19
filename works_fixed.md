@@ -23,6 +23,7 @@ permalink: /works_fixed
 <br>
 To be premiered in June 2026 <a style="color: green"> ▪ </a> <strong>Bled Contemporary Music Week</strong> <a style="color: green"> ▪ </a> Bled <img src="./slovenia.png" width="13" />
 <br>
+<br>
 </details>
 
 <strong>2026</strong>
@@ -35,6 +36,7 @@ To be premiered in June 2026 <a style="color: green"> ▪ </a> <strong>Bled Cont
 <br>
 <br>
 Premiered May 20th, 2026 by <strong>Maria Eleonora Caminada</strong> <a style="color: green"> ▪ </a> Milan <img src="./italy.png" width="13" />
+<br>
 <br>
 </details>
 
@@ -49,6 +51,7 @@ Premiered March 14th, 2026 by the <strong>Patsioura Ensemble</strong> <a style="
 <br>
 <em>Commissioned by the Reaching the Limits Festival and CultureTones</em>
 <br>
+<br>
 </details>
 
 <strong>2025</strong>
@@ -59,6 +62,7 @@ Premiered March 14th, 2026 by the <strong>Patsioura Ensemble</strong> <a style="
 <br>
 <br>
 To be premiered in September 2026 by <strong>Ninon Hannecart-Ségal</strong> <a style="color: green"> ▪ </a> Rybna <img src="./poland.png" width="13" />
+<br>
 <br>
 </details>
 
