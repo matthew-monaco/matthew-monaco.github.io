@@ -52,9 +52,7 @@ Premiered March 14th, 2026 by the <strong>Patsioura Ensemble</strong> <a style="
 <details>
 <summary><a style="color: green"> <strong>Zagzig</strong> </a></summary>
 
-Details for "Zagzig"
-
-<font size="2">Modern harpsichord</font> <a style="color: green"> ▪ </a> 8'
+<font size="2">Modern harpsichord</font> <a style="color: green"> ▪ </a> 4'
 <br>
 <br>
 To be premiered in September 2026 by <strong>Ninon Hannecart-Ségal</strong> <a style="color: green"> ▪ </a> Rybna <img src="./poland.png" width="13" />
