@@ -13,23 +13,50 @@ permalink: /works_fixed
 <summary>Chronological</summary>
 
 Coming Soon
-
-2026
 <details>
-<summary>Piece 1</summary>
+<summary>Rock Paper Scissors</summary>
 
 Details for Piece 1
 
 </details>
 
+2026
 <details>
-<summary>Piece 2</summary>
+<summary>I've Heard That Song Before</summary>
 
-Details for Piece 2
+Details for "I've Heard That Song Before"
+
+</details>
+
+<details>
+<summary>Scuffle</summary>
+
+Details for "Scuffle"
 
 </details>
 
 2025
+<details>
+<summary>Zagzig</summary>
+
+Details for "Zagzig"
+
+</details>
+
+<details>
+<summary>Bloom</summary>
+
+Details for "Bloom"
+
+</details>
+
+
+<details>
+<summary>Thread</summary>
+
+Details for "Thread"
+
+</details>
 
 2024
 
@@ -42,5 +69,10 @@ Details for Piece 2
 2020
 
 2019
+
+</details>
+
+<details>
+<summary>By Instrumentation</summary>
 
 </details>
