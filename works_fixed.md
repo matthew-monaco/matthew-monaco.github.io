@@ -19,7 +19,7 @@ permalink: /works_fixed
 <summary><a style="color: green"> <strong>Rock Paper Scissors</strong> </a></summary>
 
 <div style="text-indent: -40px; padding-left: 40px;">
-&nbsp; &nbsp; <font size="2">FLUTE, VIOLIN, and PIANO</font> <a style="color: green"> ▪ </a> 7' <a style="color: green"> ▪ </a> 2026
+&nbsp; &nbsp; <font size="2">Flute, violin, and piano</font> <a style="color: green"> ▪ </a> 6'
 </div>
 <div style="text-indent: -40px; padding-left: 40px;">
 &nbsp; &nbsp; To be premiered in June 2026 <a style="color: green"> ▪ </a> Bled <img src="./slovenia.png" width="13" />
@@ -44,7 +44,12 @@ permalink: /works_fixed
 <details>
 <summary><a style="color: green"> <strong>Scuffle</strong> </a></summary>
 
-Details for "Scuffle"
+<div style="text-indent: -40px; padding-left: 40px;">
+&nbsp; &nbsp; <font size="2">Bass clarinet, drumset, and double bass</font> <a style="color: green"> ▪ </a> 8'
+</div>
+<div style="text-indent: -40px; padding-left: 40px;">
+&nbsp; &nbsp; Premiered March 14th, 2026 by the <strong>Patsioura Ensemble</strong> <a style="color: green"> ▪ </a> <strong>Reaching the Limits Festival</strong> <a style="color: green"> ▪ </a> Larnaca <img src="./cyprus.png" width="13" /> <a style="color: green"> ▪ </a> <em>Commissioned by the Reaching the Limits Festival and CultureTones</em>
+</div>
 
 </details>
 
