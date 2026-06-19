@@ -22,9 +22,8 @@ permalink: /works_fixed
 <br>
 <br>
 To be premiered in June 2026 <a style="color: green"> ▪ </a> <strong>Bled Contemporary Music Week</strong> <a style="color: green"> ▪ </a> Bled <img src="./slovenia.png" width="13" />
-
-
 </details>
+<br>
 
 <strong>2026</strong>
 <br>
@@ -36,13 +35,12 @@ To be premiered in June 2026 <a style="color: green"> ▪ </a> <strong>Bled Cont
 <br>
 <br>
 Premiered May 20th, 2026 by <strong>Maria Eleonora Caminada</strong> <a style="color: green"> ▪ </a> Milan <img src="./italy.png" width="13" />
-
 </details>
+<br>
 
 <details>
 <summary><a style="color: green"> <strong>Scuffle</strong> </a></summary>
 <br>
-<div style="text-indent: -40px; padding-left: 40px;">
 <font size="2">Bass clarinet, drumset, and double bass</font> <a style="color: green"> ▪ </a> 8'
 <br>
 <br>
@@ -50,8 +48,8 @@ Premiered March 14th, 2026 by the <strong>Patsioura Ensemble</strong> <a style="
 <br>
 <br>
 <em>Commissioned by the Reaching the Limits Festival and CultureTones</em>
-  
 </details>
+<br>
 
 <strong>2025</strong>
 <details>
@@ -61,8 +59,8 @@ Premiered March 14th, 2026 by the <strong>Patsioura Ensemble</strong> <a style="
 <br>
 <br>
 To be premiered in September 2026 by <strong>Ninon Hannecart-Ségal</strong> <a style="color: green"> ▪ </a> Rybna <img src="./poland.png" width="13" />
-
 </details>
+<br>
 
 <details>
 <summary><a style="color: green"> <strong>Bloom</strong> </a></summary>
