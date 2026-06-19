@@ -210,7 +210,7 @@ Details for "And to think that night would not exist"
 
 </details>
 
-
+<br>
 
 <details>
 <summary><a style="color: green"><strong>By Instrumentation</strong></a></summary>
