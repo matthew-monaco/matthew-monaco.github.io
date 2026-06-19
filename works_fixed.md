@@ -16,9 +16,14 @@ permalink: /works_fixed
 <br>
 
 <details>
-<summary>Rock Paper Scissors</summary>
+<summary><a style="color: green"> <strong>Rock Paper Scissors</strong> </a></summary>
 
-Details for Piece 1
+<div style="text-indent: -40px; padding-left: 40px;">
+&nbsp; &nbsp; <font size="2">FLUTE, VIOLIN, and PIANO</font> <a style="color: green"> ▪ </a> 7' <a style="color: green"> ▪ </a> 2026
+</div>
+<div style="text-indent: -40px; padding-left: 40px;">
+&nbsp; &nbsp; <font size="2">To be premiered in June 2026: </font> <strong>.abeceda</strong> <a style="color: green"> ▪ </a> Bled <img src="./slovenia.png" width="13" />
+</div>
 </details>
 
 2026
