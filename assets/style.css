@@ -120,3 +120,43 @@ body {
     width: 28px;
   }
 }
+
+/* =========================
+   DROPDOWN CLEANUP (details/summary)
+========================= */
+
+/* remove default triangle / arrow */
+details > summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 6px;
+  transition: 0.2s ease;
+  display: inline-block;
+}
+
+/* hide browser markers (Safari/Chrome/Firefox) */
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+details > summary::marker {
+  content: "";
+}
+
+/* hover state → forest green */
+details > summary:hover {
+  background: rgba(0, 128, 0, 0.08);
+  color: forestgreen;
+}
+
+/* open state stays consistent */
+details[open] > summary {
+  background: rgba(0, 128, 0, 0.08);
+  color: forestgreen;
+}
+
+/* optional: make dropdown content spacing cleaner */
+details > *:not(summary) {
+  margin-top: 8px;
+}
