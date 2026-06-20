@@ -3,80 +3,76 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{{ page.title }}</title>
 
-  <link rel="stylesheet" href="/style.css" />
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/style.css" />
 </head>
 
 <body>
 
-  <!-- HEADER -->
-  <header class="site-header">
-    <a class="site-title" href="/">
-      Matthew Monaco <span class="dot">▪</span> Composer
+<header class="site-header">
+  <a class="site-title" href="/">
+    Matthew Monaco <span class="dot">▪</span> Composer
+  </a>
+
+  <hr class="divider" />
+
+  <nav class="site-nav">
+
+    <a href="/" class="nav-link {% if page.url == '/' %}active{% endif %}">Home</a>
+    <span class="nav-dot">▪</span>
+
+    <a href="/about" class="nav-link {% if page.url contains 'about' %}active{% endif %}">About</a>
+    <span class="nav-dot">▪</span>
+
+    <a href="/works" class="nav-link {% if page.url contains 'works' %}active{% endif %}">Works</a>
+    <span class="nav-dot">▪</span>
+
+    <a href="/listen" class="nav-link {% if page.url contains 'listen' %}active{% endif %}">Listen</a>
+    <span class="nav-dot">▪</span>
+
+    <a href="/writings" class="nav-link {% if page.url contains 'writings' %}active{% endif %}">Writings</a>
+
+  </nav>
+</header>
+
+<main class="content">
+  {{ content }}
+</main>
+
+<footer class="site-footer">
+
+  <hr>
+
+  <div class="socials">
+    <a class="social-link" href="https://soundcloud.com/matthewtmonaco" target="_blank">
+      <img src="/assets/soundcloud.png" alt="SoundCloud">
     </a>
 
-    <hr class="divider" />
+    <a class="social-link" href="https://www.youtube.com/@matthewtmonaco" target="_blank">
+      <img src="/assets/youtube.png" alt="YouTube">
+    </a>
 
-    <!-- NAV -->
-    <nav class="site-nav">
-      <a href="/" class="nav-link {% if page.url == '/' %}active{% endif %}">Home</a>
-      <span class="nav-dot">▪</span>
+    <a class="social-link" href="https://open.spotify.com/artist/7c6dcoAhkkQznw76SGbMDu" target="_blank">
+      <img src="/assets/spotify.png" alt="Spotify">
+    </a>
 
-      <a href="/about" class="nav-link {% if page.url == '/about/' %}active{% endif %}">About</a>
-      <span class="nav-dot">▪</span>
+    <a class="social-link" href="https://www.instagram.com/matthew.t.monaco" target="_blank">
+      <img src="/assets/instagram.png" alt="Instagram">
+    </a>
 
-      <a href="/works" class="nav-link {% if page.url == '/works/' %}active{% endif %}">Works</a>
-      <span class="nav-dot">▪</span>
+    <a class="social-link" href="https://linktr.ee/matthew.t.monaco" target="_blank">
+      <img src="/assets/link.png" alt="Linktree">
+    </a>
+  </div>
 
-      <a href="/listen" class="nav-link {% if page.url == '/listen/' %}active{% endif %}">Listen</a>
-      <span class="nav-dot">▪</span>
+  <div class="footer-text">
+    Official website of composer Matthew Monaco
+  </div>
 
-      <a href="/writings" class="nav-link {% if page.url == '/writings/' %}active{% endif %}">Writings</a>
-    </nav>
-  </header>
+  <hr>
 
-  <!-- CONTENT -->
-  <main class="content">
-    {{ content }}
-  </main>
-
-  <!-- FOOTER -->
-  <footer class="site-footer">
-
-    <hr>
-
-    <div class="socials">
-      <a class="social-link" href="https://soundcloud.com/matthewtmonaco" target="_blank">
-        <img src="./soundcloud.png" alt="SoundCloud">
-      </a>
-
-      <a class="social-link" href="https://www.youtube.com/@matthewtmonaco" target="_blank">
-        <img src="./youtube.png" alt="YouTube">
-      </a>
-
-      <a class="social-link" href="https://open.spotify.com/artist/7c6dcoAhkkQznw76SGbMDu" target="_blank">
-        <img src="./spotify.png" alt="Spotify">
-      </a>
-
-      <a class="social-link" href="https://www.instagram.com/matthew.t.monaco" target="_blank">
-        <img src="./instagram.png" alt="Instagram">
-      </a>
-
-      <a class="social-link" href="https://linktr.ee/matthew.t.monaco" target="_blank">
-        <img src="./link.png" alt="Linktree">
-      </a>
-    </div>
-
-    <br>
-
-    <div class="footer-text">
-      Official website of composer Matthew Monaco
-    </div>
-
-    <hr>
-
-  </footer>
+</footer>
 
 </body>
 </html>
