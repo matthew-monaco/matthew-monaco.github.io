@@ -1,24 +1,29 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
-
-  <link rel="stylesheet" href="{{ 'style.css' | relative_url }}">
+  <link rel="stylesheet" href="/style.css">
 </head>
 
 <body>
 
-  <h1 class="site-title">Matthew Monaco ▪ Composer</h1>
-
-  <nav class="navbar">
-    <div class="nav-inner">
-      <a class="nav-link" href="/">Home</a>
-      <span class="separator">|</span>
-      <a class="nav-link" href="/about">About</a>
+  <header class="site-header">
+    <div class="site-title">
+      Matthew Monaco <span class="green-dot">▪</span> Composer
     </div>
-  </nav>
+
+    <hr class="divider">
+
+    <nav class="site-nav">
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="work.html">Work</a>
+      <a href="listen.html">Listen</a>
+      <a href="writings.html">Writings</a>
+    </nav>
+  </header>
 
   <main>
     {{ content }}
