@@ -4,8 +4,6 @@ title: " ‎ "
 permalink: /about
 ---
 
-<a href="/about" class="nav-link active">About</a>
-
 <div style="text-align: justify">&nbsp; &nbsp; <a style="color: green">M<font size="2">ATTHEW</font> M<font size="2">ONACO</font></a> (b. 1997 in Teaneck, New Jersey) was immersed in jazz music from an early age, beginning his musical training improvising at the piano. Further studies in jazz were interrupted by his simultaneous encounter with the works of J.S. Bach and Stravinsky, leading to an instant fascination with notated classical music. Committed to maintaining jazz and classical as essential aspects of his musical identity, Monaco began his training and career as a composer of acoustic and electroacoustic music at the New England Conservatory in Boston, in the class of Stratis Minakakis. From 2018 to 2020, Monaco organized a monthly concert series for contemporary music, programming premieres by NEC composers, often performing his own music and that of his peers.</div>  
 
 
