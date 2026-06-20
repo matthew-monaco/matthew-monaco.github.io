@@ -1,86 +1,59 @@
-/* =========================
-   BASE (Jekyll-like)
-========================= */
-
-h1 {
-  font-size: 1rem;
+/* Overall styling */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #111;
 }
 
-body{
-  background:#f5f5f5;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
-               Roboto, Helvetica, Arial, sans-serif;
-  line-height:1.6;
-  max-width:900px;
-  margin:auto;
-  padding:80px 20px 40px; /* top padding for sticky nav */
-  color:#2c2c2c;
-  text-align:center;
+/* Header layout */
+.site-header {
+  padding: 20px;
 }
 
-/* =========================
-   STICKY NAV BAR
-========================= */
-
-.navbar{
-  position:fixed;
-  top:0;
-  left:0;
-  width:100%;
-  background:#f5f5f5;
-  padding:12px 0;
-  z-index:1000;
-  border-bottom:1px solid #ddd;
+/* Title */
+.site-title {
+  font-size: 22px;
+  font-weight: 600;
 }
 
-/* nav container */
-.nav-inner{
-  max-width:900px;
-  margin:auto;
+/* Green square in title */
+.green-dot {
+  color: #1db954; /* Spotify-like green */
 }
 
-/* =========================
-   LINKS
-========================= */
-
-.nav-link{
-  color:black;
-  text-decoration:none;
-  padding:2px 6px;
-  border-radius:4px;
-  transition:0.2s;
-  display:inline-block;
+/* Divider line */
+.divider {
+  margin: 10px 0 15px 0;
+  border: none;
+  border-top: 1px solid #ccc;
 }
 
-/* hover */
-.nav-link:hover{
-  background:#e6e6e6;
-  color:green !important;
-  transform:scale(1.05);
+/* Navigation */
+.site-nav {
+  display: flex;
+  align-items: center;
+  gap: 12px;
 }
 
-/* active page (set automatically by JS) */
-.nav-link.active{
-  color:green;
-  font-weight:600;
+/* Links */
+.site-nav a {
+  text-decoration: none;
+  color: #111;
+  font-weight: 500;
+  position: relative;
+  padding: 4px 2px;
+  transition: color 0.2s ease;
 }
 
-/* separators */
-.separator{
-  color:green;
+/* Hover effect */
+.site-nav a:hover {
+  color: #1db954;
 }
 
-/* =========================
-   MOBILE
-========================= */
-
-@media (max-width:600px){
-  body{
-    padding:90px 10px 30px;
-  }
-
-  .nav-link{
-    font-size:0.9rem;
-    padding:2px 4px;
-  }
+/* Green separator between links */
+.site-nav a:not(:first-child)::before {
+  content: "▪";
+  color: #1db954;
+  margin-right: 12px;
 }
