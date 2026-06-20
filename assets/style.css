@@ -1,21 +1,31 @@
+/* =========================
+   GLOBAL
+========================= */
+
 body {
   margin: 0;
   background: #f2f2f2;
   font-family: Arial, Helvetica, sans-serif;
-  text-align: center;
   color: #111;
+
+  /* changed: body text now left-aligned */
+  text-align: left;
 }
 
+/* narrower + cleaner margins */
 .content {
-  max-width: 900px;
+  max-width: 780px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 16px;
 }
 
-/* HEADER */
+/* =========================
+   HEADER
+========================= */
 
 .site-header {
-  padding: 20px 10px 10px;
+  padding: 18px 10px 8px;
+  text-align: center; /* keep header centered */
 }
 
 .site-title {
@@ -34,27 +44,32 @@ body {
 }
 
 .divider {
-  margin: 15px auto;
-  width: 80%;
+  margin: 12px auto;
+  width: 85%;
 }
 
-/* NAV */
+/* =========================
+   NAV
+========================= */
 
 .site-nav {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 10px;
-  font-weight: bold;
   align-items: center;
+
+  /* reduced spacing between items */
+  gap: 4px;
+  font-weight: bold;
 }
 
 .nav-link {
   text-decoration: none;
   color: black;
-  padding: 5px 8px;
+  padding: 4px 6px; /* tighter spacing */
   border-radius: 5px;
   display: inline-block;
+
   transition: transform 0.15s ease, color 0.15s ease, background 0.15s ease;
 }
 
@@ -64,26 +79,67 @@ body {
   transform: scale(1.05);
 }
 
-/* ACTIVE PAGE */
 .nav-link.active {
   color: forestgreen;
 }
 
 .nav-dot {
   color: forestgreen;
+  font-weight: bold;
 }
 
-/* FOOTER */
+/* =========================
+   DROPDOWN (WORKS ON MOBILE TOO)
+========================= */
+
+details > summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 6px;
+  transition: 0.2s ease;
+  display: inline-block;
+
+  /* ensure mobile tap behavior is consistent */
+  -webkit-tap-highlight-color: transparent;
+}
+
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+details > summary::marker {
+  content: "";
+}
+
+details > summary:hover {
+  background: rgba(0, 128, 0, 0.08);
+  color: forestgreen;
+}
+
+details[open] > summary {
+  background: rgba(0, 128, 0, 0.08);
+  color: forestgreen;
+}
+
+/* mobile-friendly dropdown spacing */
+details > *:not(summary) {
+  margin-top: 8px;
+}
+
+/* =========================
+   FOOTER
+========================= */
 
 .site-footer {
-  margin-top: 40px;
-  padding-bottom: 30px;
+  margin-top: 30px;
+  padding-bottom: 25px;
 }
 
 .socials {
   display: flex;
   justify-content: center;
-  gap: 15px;
+  gap: 14px;
   flex-wrap: wrap;
 }
 
@@ -92,20 +148,23 @@ body {
   transition: transform 0.2s ease, filter 0.2s ease, opacity 0.2s ease;
 }
 
-/* 10% scale hover */
 .social-link img:hover {
   transform: scale(1.10);
   opacity: 0.9;
-  filter: brightness(0) saturate(100%) invert(28%) sepia(55%) saturate(600%) hue-rotate(85deg);
+  filter: brightness(0) saturate(100%)
+    invert(28%) sepia(55%) saturate(600%) hue-rotate(85deg);
 }
 
 .footer-text {
   font-size: 12px;
   color: gray;
   margin-top: 10px;
+  text-align: center;
 }
 
-/* MOBILE */
+/* =========================
+   MOBILE OPTIMIZATION
+========================= */
 
 @media (max-width: 600px) {
   .site-title {
@@ -116,47 +175,15 @@ body {
     font-size: 14px;
   }
 
+  .site-nav {
+    gap: 2px; /* even tighter on mobile */
+  }
+
+  .content {
+    padding: 12px; /* slightly tighter margins on mobile */
+  }
+
   .social-link img {
     width: 28px;
   }
-}
-
-/* =========================
-   DROPDOWN CLEANUP (details/summary)
-========================= */
-
-/* remove default triangle / arrow */
-details > summary {
-  list-style: none;
-  cursor: pointer;
-  padding: 10px;
-  border-radius: 6px;
-  transition: 0.2s ease;
-  display: inline-block;
-}
-
-/* hide browser markers (Safari/Chrome/Firefox) */
-details > summary::-webkit-details-marker {
-  display: none;
-}
-
-details > summary::marker {
-  content: "";
-}
-
-/* hover state → forest green */
-details > summary:hover {
-  background: rgba(0, 128, 0, 0.08);
-  color: forestgreen;
-}
-
-/* open state stays consistent */
-details[open] > summary {
-  background: rgba(0, 128, 0, 0.08);
-  color: forestgreen;
-}
-
-/* optional: make dropdown content spacing cleaner */
-details > *:not(summary) {
-  margin-top: 8px;
 }
