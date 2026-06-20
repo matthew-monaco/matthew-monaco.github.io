@@ -187,3 +187,27 @@ details > *:not(summary) {
     width: 28px;
   }
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* =========================
+   DROPDOWN CONTENT INDENT
+========================= */
+
+details {
+  margin-left: 6px; /* slight offset from nav alignment */
+}
+
+details > summary {
+  margin-left: -6px; /* keeps button aligned with menu */
+}
+
+/* indent everything inside dropdown except the summary */
+details > *:not(summary) {
+  margin-left: 18px;   /* main indent */
+  margin-top: 6px;
+}
