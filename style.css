@@ -71,7 +71,7 @@ main {
 }
 
 /* =========================
-   FOOTER (SOCIAL + NOTE)
+   FOOTER
    ========================= */
 
 .site-footer {
@@ -92,13 +92,13 @@ main {
 
 .social-link img {
   width: 30px;
-  filter: grayscale(100%) brightness(0.4);
+  filter: grayscale(100%) brightness(0.45);
   transition: 0.25s ease;
 }
 
 /* Hover: green transformation + pop */
 .social-link img:hover {
-  filter: brightness(0) saturate(100%) invert(43%) sepia(94%) saturate(404%) hue-rotate(92deg) brightness(95%) contrast(92%);
+  filter: brightness(0) saturate(100%) invert(46%) sepia(97%) saturate(380%) hue-rotate(95deg) brightness(95%) contrast(92%);
   transform: scale(1.15);
 }
 
