@@ -18,7 +18,7 @@ body {
 }
 
 /* =========================
-   ACCENT COLOR (RESTORED)
+   ACCENT
    ========================= */
 
 :root {
@@ -50,7 +50,7 @@ body {
 }
 
 /* =========================
-   NAV (ECM STYLE)
+   NAV
    ========================= */
 
 .site-nav {
@@ -66,13 +66,18 @@ body {
   text-decoration: none;
   font-weight: 600;
   padding: 6px 10px;
-  transition: color 0.2s ease;
+  transition: color 0.2s ease, opacity 0.2s ease;
 }
 
-/* hover + active */
-.site-nav a:hover,
+/* hover */
+.site-nav a:hover {
+  color: var(--accent);
+}
+
+/* active page (stronger + clearer) */
 .site-nav a.active {
   color: var(--accent);
+  opacity: 1;
 }
 
 /* separators */
@@ -110,14 +115,14 @@ body {
   padding: 10px 0;
 }
 
-/* monochrome → green system */
+/* monochrome → accent green */
 .social-link img {
   width: 30px;
   filter: grayscale(100%) brightness(0.5);
   transition: 0.25s ease;
 }
 
-/* hover becomes accent green */
+/* hover becomes forest green */
 .social-link img:hover {
   filter: brightness(0) saturate(100%) invert(17%) sepia(38%) saturate(900%) hue-rotate(100deg) brightness(92%) contrast(90%);
   transform: scale(1.15);
@@ -148,59 +153,4 @@ details > summary:hover,
 details[open] > summary {
   background: #e6e6e6;
   color: #000;
-}
-
-/* =========================
-   LISTEN PAGE
-   ========================= */
-
-.listen-page {
-  max-width: 780px;
-  margin: 0 auto;
-}
-
-.section-label {
-  color: #0b3d2e;
-  font-weight: 600;
-  margin-top: 18px;
-}
-
-.listen-item {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  margin: 10px 0;
-}
-
-.icon-link img {
-  width: 15px;
-  filter: grayscale(100%) brightness(0.5);
-  transition: 0.2s ease;
-}
-
-.icon-link img:hover {
-  filter: brightness(0) saturate(100%) invert(17%) sepia(38%) saturate(900%) hue-rotate(100deg) brightness(92%) contrast(90%);
-  transform: scale(1.1);
-}
-
-.text-link {
-  color: #111;
-  text-decoration: none;
-  font-size: 13px;
-}
-
-.text-link:hover {
-  color: #0b3d2e;
-}
-
-.image-grid {
-  display: flex;
-  gap: 10px;
-  margin-top: 20px;
-}
-
-.image-grid img {
-  width: 32%;
-  height: auto;
-  object-fit: cover;
 }
