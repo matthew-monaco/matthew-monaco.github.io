@@ -11,7 +11,7 @@ permalink: /listen
 ### Audio
 
 <p class="listen-item">
-  <a href="https://soundcloud.com/matthewtmonaco" target="_blank" rel="noopener">
+<a href="https://soundcloud.com/matthewtmonaco" target="_blank" rel="noopener">
     <img src="/listen.png" alt="Listen" />
     LISTEN on SoundCloud
   </a>
@@ -72,8 +72,6 @@ permalink: /listen
 </p>
 
 ---
-
-## Gallery
 
 <div class="image-grid">
   <img src="/tahoe-water.jpg" alt="Tahoe water">
