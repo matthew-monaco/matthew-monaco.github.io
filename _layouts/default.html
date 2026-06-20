@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="/style.css">
 </head>
 
-<body>
+<body class="light">
 
   <header class="site-header">
 
@@ -17,22 +17,36 @@
 
     <hr class="divider">
 
+    <!-- Centered minimalist nav -->
     <nav class="site-nav">
-      <a href="/">Home</a>
+
+      <a href="/" class="{% if page.url == '/' %}active{% endif %}">Home</a>
       <span class="sep">▪</span>
-      <a href="about.html">About</a>
+
+      <a href="/about" class="{% if page.url contains 'about' %}active{% endif %}">About</a>
       <span class="sep">▪</span>
-      <a href="works.html">Works</a>
+
+      <a href="/works" class="{% if page.url contains 'works' %}active{% endif %}">Works</a>
       <span class="sep">▪</span>
-      <a href="listen.html">Listen</a>
+
+      <a href="/listen" class="{% if page.url contains 'listen' %}active{% endif %}">Listen</a>
       <span class="sep">▪</span>
-      <a href="writings.html">Writings</a>
+
+      <a href="/writings" class="{% if page.url contains 'writings' %}active{% endif %}">Writings</a>
+
     </nav>
+
+    <!-- Dark mode toggle -->
+    <div class="theme-toggle">
+      <button onclick="toggleTheme()">Toggle Theme</button>
+    </div>
 
   </header>
 
-  <main>
+  <main class="fade">
+
     {{ content }}
+
   </main>
 
   <footer class="site-footer">
@@ -40,6 +54,7 @@
     <hr>
 
     <div class="social-links">
+
       <a class="social-link" href="https://soundcloud.com/matthewtmonaco" target="_blank">
         <img src="./soundcloud.png" alt="SoundCloud">
       </a>
@@ -59,6 +74,7 @@
       <a class="social-link" href="https://linktr.ee/matthew.t.monaco" target="_blank">
         <img src="./link.png" alt="Linktree">
       </a>
+
     </div>
 
     <div class="footer-note">
@@ -68,6 +84,14 @@
     <hr>
 
   </footer>
+
+  <!-- Theme script -->
+  <script>
+    function toggleTheme() {
+      document.body.classList.toggle("dark");
+      document.body.classList.toggle("light");
+    }
+  </script>
 
 </body>
 </html>
