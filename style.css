@@ -1,5 +1,5 @@
 /* =========================
-   BASE PAGE STYLE (Jekyll-like)
+   BASE (Jekyll-like)
 ========================= */
 
 body{
@@ -9,61 +9,74 @@ body{
   line-height:1.6;
   max-width:900px;
   margin:auto;
-  padding:40px 20px;
+  padding:80px 20px 40px; /* top padding for sticky nav */
   color:#2c2c2c;
-}
-
-/* Center text by default (optional global setting) */
-body{
-  text-align:center;
-}
-
-/* Keep paragraphs readable (override full centering if needed) */
-p{
   text-align:center;
 }
 
 /* =========================
-   NAVIGATION
+   STICKY NAV BAR
+========================= */
+
+.navbar{
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+  background:#f5f5f5;
+  padding:12px 0;
+  z-index:1000;
+  border-bottom:1px solid #ddd;
+}
+
+/* nav container */
+.nav-inner{
+  max-width:900px;
+  margin:auto;
+}
+
+/* =========================
+   LINKS
 ========================= */
 
 .nav-link{
   color:black;
   text-decoration:none;
-  padding:1px 3px;
+  padding:2px 6px;
   border-radius:4px;
   transition:0.2s;
   display:inline-block;
 }
 
-/* Hover effect */
+/* hover */
 .nav-link:hover{
   background:#e6e6e6;
   color:green !important;
   transform:scale(1.05);
 }
 
-/* Active page */
-.current{
+/* active page (set automatically by JS) */
+.nav-link.active{
   color:green;
+  font-weight:600;
 }
 
-/* Separator dots */
+/* separators */
 .separator{
   color:green;
 }
 
 /* =========================
-   OPTIONAL: nicer spacing on mobile
+   MOBILE
 ========================= */
 
 @media (max-width:600px){
   body{
-    padding:20px 10px;
+    padding:90px 10px 30px;
   }
 
   .nav-link{
+    font-size:0.9rem;
     padding:2px 4px;
-    font-size:0.95rem;
   }
 }
