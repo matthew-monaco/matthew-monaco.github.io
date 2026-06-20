@@ -7,7 +7,6 @@ permalink: /works
 This is a chronological list of works. For a list of works sorted by instrumentation, click <strong>here</strong>.
 
 <br>
-<br>
 
 <strong>Coming Soon</strong>
 
