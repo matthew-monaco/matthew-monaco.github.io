@@ -1,87 +1,118 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{ page.title }}</title>
 
-  <!-- FIX: absolute path so CSS loads on ALL pages -->
-<link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+  <link rel="stylesheet" href="/style.css" />
 </head>
 
 <body>
 
-  <div class="page">
+  <!-- HEADER -->
+  <header class="site-header">
+    <a class="site-title" href="/">
+      Matthew Monaco <span class="dot">▪</span> Composer
+    </a>
 
-    <header class="site-header">
+    <hr class="divider" />
 
-      <div class="site-title">
-        Matthew Monaco <span class="green-dot">▪</span> Composer
-      </div>
+    <!-- NAV -->
+    <nav class="site-nav">
+      <a href="/" class="nav-link">Home</a>
+      <span class="nav-dot">▪</span>
 
-      <hr class="divider">
+      <a href="/about" class="nav-link">About</a>
+      <span class="nav-dot">▪</span>
 
-     <nav class="site-nav">
+      <a href="/works" class="nav-link">Works</a>
+      <span class="nav-dot">▪</span>
 
-      <a href="/" class="{% if page.url == '/' %}active{% endif %}">Home</a>
-      <span class="sep">▪</span>
+      <a href="/listen" class="nav-link">Listen</a>
+      <span class="nav-dot">▪</span>
 
-      <a href="/about" class="{% if page.url contains 'about' %}active{% endif %}">About</a>
-      <span class="sep">▪</span>
-
-      <a href="/works" class="{% if page.url contains 'works' %}active{% endif %}">Works</a>
-      <span class="sep">▪</span>
-
-      <a href="/listen" class="{% if page.url contains 'listen' %}active{% endif %}">Listen</a>
-      <span class="sep">▪</span>
-
-      <a href="/writings" class="{% if page.url contains 'writings' %}active{% endif %}">Writings</a>
-
+      <a href="/writings" class="nav-link">Writings</a>
     </nav>
+  </header>
 
-    </header>
+  <!-- PAGE CONTENT -->
+  <main class="content">
+    {{ content }}
+  </main>
 
-    <main class="fade">
-      {{ content }}
-    </main>
+  <!-- FOOTER -->
+  <footer class="site-footer">
 
-    <footer class="site-footer">
+    <hr>
 
-      <hr>
+    <style>
+      details > summary {
+        list-style: none;
+        cursor: pointer;
+        padding: 10px;
+        border-radius: 6px;
+        transition: .2s;
+      }
 
-      <div class="social-links">
+      details > summary::-webkit-details-marker {
+        display: none;
+      }
 
-        <a class="social-link" href="https://soundcloud.com/matthewtmonaco" target="_blank">
-          <img src="./soundcloud.png" alt="SoundCloud">
-        </a>
+      details > summary::marker {
+        content: "";
+      }
 
-        <a class="social-link" href="https://www.youtube.com/@matthewtmonaco" target="_blank">
-          <img src="./youtube.png" alt="YouTube">
-        </a>
+      details > summary:hover,
+      details[open] > summary {
+        background: #e6e6e6 !important;
+        color: #000 !important;
+      }
+    </style>
 
-        <a class="social-link" href="https://open.spotify.com/artist/7c6dcoAhkkQznw76SGbMDu" target="_blank">
-          <img src="./spotify.png" alt="Spotify">
-        </a>
+    <style>
+      .social-link img {
+        width: 30px;
+        transition: 0.2s;
+      }
 
-        <a class="social-link" href="https://www.instagram.com/matthew.t.monaco" target="_blank">
-          <img src="./instagram.png" alt="Instagram">
-        </a>
+      .social-link img:hover {
+        opacity: 0.85;
+        transform: scale(1.05);
+        filter: brightness(0) saturate(100%) invert(32%) sepia(60%) saturate(500%) hue-rotate(85deg);
+      }
+    </style>
 
-        <a class="social-link" href="https://linktr.ee/matthew.t.monaco" target="_blank">
-          <img src="./link.png" alt="Linktree">
-        </a>
+    <div class="socials">
+      <a class="social-link" href="https://soundcloud.com/matthewtmonaco" target="_blank">
+        <img src="./soundcloud.png" alt="SoundCloud">
+      </a>
 
-      </div>
+      <a class="social-link" href="https://www.youtube.com/@matthewtmonaco" target="_blank">
+        <img src="./youtube.png" alt="YouTube">
+      </a>
 
-      <div class="footer-note">
-        Official website of composer Matthew Monaco
-      </div>
+      <a class="social-link" href="https://open.spotify.com/artist/7c6dcoAhkkQznw76SGbMDu" target="_blank">
+        <img src="./spotify.png" alt="Spotify">
+      </a>
 
-      <hr>
+      <a class="social-link" href="https://www.instagram.com/matthew.t.monaco" target="_blank">
+        <img src="./instagram.png" alt="Instagram">
+      </a>
 
-    </footer>
+      <a class="social-link" href="https://linktr.ee/matthew.t.monaco" target="_blank">
+        <img src="./link.png" alt="Linktree">
+      </a>
+    </div>
 
-  </div>
+    <br>
+
+    <div class="footer-text">
+      Official website of composer Matthew Monaco
+    </div>
+
+    <hr>
+  </footer>
 
 </body>
 </html>
