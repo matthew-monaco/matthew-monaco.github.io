@@ -4,7 +4,6 @@ title: " "
 permalink: /listen
 ---
 
-<a href="/about" class="nav-link active">Listen</a>
 
 <hr>
 
