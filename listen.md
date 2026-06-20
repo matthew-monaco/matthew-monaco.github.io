@@ -22,14 +22,14 @@ permalink: /listen
 <p class="listen-item">
   <a href="https://www.youtube.com/watch?v=RuL0ushx5a0&list=RDRuL0ushx5a0&start_radio=1&ab_channel=Royaumont" target="_blank" rel="noopener">
     <img src="/watch.png" alt="Watch" />
-    WATCH performance of *Mesh* with Ensemble Court-circuit
+    WATCH performance of <em>Mesh</em> with Ensemble Court-circuit
   </a>
 </p>
 
 <p class="listen-item">
   <a href="https://www.youtube.com/watch?v=t6OVz_XPd8w&list=RDt6OVz_XPd8w&start_radio=1&ab_channel=MatthewMonaco" target="_blank" rel="noopener">
     <img src="/watch.png" alt="Watch" />
-    WATCH performance of *Scaling* with Ensemble intercontemporain
+    WATCH performance of <em>Scaling</em> with Ensemble intercontemporain
   </a>
 </p>
 
