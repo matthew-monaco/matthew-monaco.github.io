@@ -29,7 +29,7 @@ permalink: /about
 <br>
 
 <details>
-<summary><a style="color: green"><strong>E<font size="2">DUCATION</font></strong></a></summary>
+<summary><a style="color: green"><strong>Education</strong></a></summary>
 <br>
 <div style="text-indent: -40px; padding-left: 40px;">
 <strong>PhD Candidate in Composition</strong> (ABD: graduation May 2027)
@@ -53,10 +53,9 @@ permalink: /about
 </div>
 </details>
 
-<br>
 
 <details>
-<summary><a style="color: green"><strong>S<font size="2">ELECTED</font> A<font size="2">WARDS AND</font> A<font size="2">CHIEVEMENTS</font></strong></a></summary>
+<summary><a style="color: green"><strong>Selected Awards and Achievements</strong></a></summary>
 <br>
   <div style="text-indent: -40px; padding-left: 40px;">
 <font size="2"><strong>2026</strong></font> Selected for the “Unanimes!” National Mentorship Program with l’Association Française des Orchestres <font size="2">(Paris, France)</font>     
