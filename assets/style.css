@@ -195,19 +195,39 @@ img {
 }
 
 /* =========================
-   DROPDOWN CONTENT INDENT
+   DROPDOWN INDENT (RESPONSIVE)
 ========================= */
 
+/* base (desktop) */
 details {
-  margin-left: 6px; /* slight offset from nav alignment */
+  margin-left: 6px;
 }
 
 details > summary {
-  margin-left: -6px; /* keeps button aligned with menu */
+  margin-left: -6px;
 }
 
-/* indent everything inside dropdown except the summary */
+/* dropdown content indent */
 details > *:not(summary) {
-  margin-left: 18px;   /* main indent */
+  margin-left: 18px;
   margin-top: 6px;
+}
+
+/* =========================
+   MOBILE ADJUSTMENT
+========================= */
+
+@media (max-width: 600px) {
+
+  details {
+    margin-left: 4px; /* slightly tighter */
+  }
+
+  details > summary {
+    margin-left: -4px;
+  }
+
+  details > *:not(summary) {
+    margin-left: 12px; /* reduced indent for small screens */
+  }
 }
