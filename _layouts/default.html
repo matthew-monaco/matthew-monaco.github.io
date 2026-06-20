@@ -6,7 +6,7 @@
   <title>{{ page.title }}</title>
 
   <!-- FIX: absolute path so CSS loads on ALL pages -->
-  <link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
 </head>
 
 <body>
