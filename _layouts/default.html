@@ -21,23 +21,23 @@
 
       <hr class="divider">
 
-      <nav class="site-nav">
+     <nav class="site-nav">
 
-        <a href="/" class="active">Home</a>
-        <span class="sep">▪</span>
+      <a href="/" class="{% if page.url == '/' %}active{% endif %}">Home</a>
+      <span class="sep">▪</span>
 
-        <a href="/about">About</a>
-        <span class="sep">▪</span>
+      <a href="/about" class="{% if page.url contains 'about' %}active{% endif %}">About</a>
+      <span class="sep">▪</span>
 
-        <a href="/works">Works</a>
-        <span class="sep">▪</span>
+      <a href="/works" class="{% if page.url contains 'works' %}active{% endif %}">Works</a>
+      <span class="sep">▪</span>
 
-        <a href="/listen">Listen</a>
-        <span class="sep">▪</span>
+      <a href="/listen" class="{% if page.url contains 'listen' %}active{% endif %}">Listen</a>
+      <span class="sep">▪</span>
 
-        <a href="/writings">Writings</a>
+      <a href="/writings" class="{% if page.url contains 'writings' %}active{% endif %}">Writings</a>
 
-      </nav>
+    </nav>
 
     </header>
 
