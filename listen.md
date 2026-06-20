@@ -4,9 +4,7 @@ title: " ‎ "
 permalink: /listen
 ---
 
-<a href="/" style="color: black">**Home**</a> <a style="color: green"> ▪ </a> <a href="/about" style="color: black">**About**</a> <a style="color: green"> ▪ </a> <a href="/works" style="color: black">**Works**</a> <a style="color: green"> ▪ </a> <a href="/listen" style="color: green">**Listen**</a> <a style="color: green"> ▪ </a> <a href="/writings" style="color: black">**Writings**</a>
-
-***
+<hr>
 
 ## Compositions
 
@@ -20,7 +18,7 @@ permalink: /listen
 
 [<img src="./watch.png" width="15" />](https://www.youtube.com/watch?v=t6OVz_XPd8w&list=RDt6OVz_XPd8w&start_radio=1&ab_channel=MatthewMonaco) <a href="https://www.youtube.com/watch?v=t6OVz_XPd8w&list=RDt6OVz_XPd8w&start_radio=1&ab_channel=MatthewMonaco" style="color: black"><font size="2">WATCH</font> performance of *Scaling* with Ensemble intercontemporain</a> 
 
-***
+<hr>
 
 ## Improvisations and Collaborations
 
@@ -38,19 +36,6 @@ permalink: /listen
 
 [<img src="./listen.png" width="15" />](https://open.spotify.com/album/4iauZxL3PfG5TKyKZJAsPs?si=DTq-50U7TKGEM1J9oOs-fg) <a href="https://open.spotify.com/album/4iauZxL3PfG5TKyKZJAsPs?si=DTq-50U7TKGEM1J9oOs-fg" style="color: black"><font size="2">LISTEN</font> on Spotify</a> 
 
-***
+<hr>
 
 <img src="./tahoe-water.jpg" width="32%" /> <img src="./tahoe-walking.jpg" width="32%" /> <img src="./tahoe-tree.jpg" width="32%" />
-
-***
-
-<a href="/" style="color: black">**Home**</a> <a style="color: green"> ▪ </a> <a href="/about" style="color: black">**About**</a> <a style="color: green"> ▪ </a> <a href="/works" style="color: black">**Works**</a> <a style="color: green"> ▪ </a> <a href="/listen" style="color: green">**Listen**</a> <a style="color: green"> ▪ </a> <a href="/writings" style="color: black">**Writings**</a>
-
-***
-
-[<img src="./soundcloud.png" width="30" />](https://soundcloud.com/matthewtmonaco)  [<img src="./youtube.png" width="30" />](https://www.youtube.com/@matthewtmonaco)  [<img src="./spotify.png" width="30" />](https://open.spotify.com/artist/7c6dcoAhkkQznw76SGbMDu)  [<img src="./instagram.png" width="30" />](https://www.instagram.com/matthew.t.monaco)  [<img src="./link.png" width="30" />](https://linktr.ee/matthew.t.monaco)
-
-***
-
-<div style="text-align: center"><font size="2"><a style="color: grey"> Official website of composer Matthew Monaco </a></font></div>  
-
