@@ -26,7 +26,7 @@ permalink: /about
 <br>
 <a href="/bio-en-francais" style="color: green"><strong><font size="2">Bio en français</font></strong></a> <img src="./france.png" width="13" />  
 
-<hr>
+<br>
 
 <details>
 <summary><a style="color: green"><strong>E<font size="2">DUCATION</font></strong></a></summary>
@@ -53,7 +53,7 @@ permalink: /about
 </div>
 </details>
 
-<hr>
+<br>
 
 <details>
 <summary><a style="color: green"><strong>S<font size="2">ELECTED</font> A<font size="2">WARDS AND</font> A<font size="2">CHIEVEMENTS</font></strong></a></summary>
@@ -105,8 +105,7 @@ permalink: /about
 </div>
 </details>
 
-<hr>
+<br>
 
 <img src="tahoe-standing.jpg" alt="Tahoe" width="300">
 
-<hr>
