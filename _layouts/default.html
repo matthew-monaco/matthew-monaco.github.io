@@ -20,23 +20,23 @@
 
     <!-- NAV -->
     <nav class="site-nav">
-      <a href="/" class="nav-link">Home</a>
+      <a href="/" class="nav-link {% if page.url == '/' %}active{% endif %}">Home</a>
       <span class="nav-dot">▪</span>
 
-      <a href="/about" class="nav-link">About</a>
+      <a href="/about" class="nav-link {% if page.url == '/about/' %}active{% endif %}">About</a>
       <span class="nav-dot">▪</span>
 
-      <a href="/works" class="nav-link">Works</a>
+      <a href="/works" class="nav-link {% if page.url == '/works/' %}active{% endif %}">Works</a>
       <span class="nav-dot">▪</span>
 
-      <a href="/listen" class="nav-link">Listen</a>
+      <a href="/listen" class="nav-link {% if page.url == '/listen/' %}active{% endif %}">Listen</a>
       <span class="nav-dot">▪</span>
 
-      <a href="/writings" class="nav-link">Writings</a>
+      <a href="/writings" class="nav-link {% if page.url == '/writings/' %}active{% endif %}">Writings</a>
     </nav>
   </header>
 
-  <!-- PAGE CONTENT -->
+  <!-- CONTENT -->
   <main class="content">
     {{ content }}
   </main>
@@ -45,43 +45,6 @@
   <footer class="site-footer">
 
     <hr>
-
-    <style>
-      details > summary {
-        list-style: none;
-        cursor: pointer;
-        padding: 10px;
-        border-radius: 6px;
-        transition: .2s;
-      }
-
-      details > summary::-webkit-details-marker {
-        display: none;
-      }
-
-      details > summary::marker {
-        content: "";
-      }
-
-      details > summary:hover,
-      details[open] > summary {
-        background: #e6e6e6 !important;
-        color: #000 !important;
-      }
-    </style>
-
-    <style>
-      .social-link img {
-        width: 30px;
-        transition: 0.2s;
-      }
-
-      .social-link img:hover {
-        opacity: 0.85;
-        transform: scale(1.05);
-        filter: brightness(0) saturate(100%) invert(32%) sepia(60%) saturate(500%) hue-rotate(85deg);
-      }
-    </style>
 
     <div class="socials">
       <a class="social-link" href="https://soundcloud.com/matthewtmonaco" target="_blank">
@@ -112,6 +75,7 @@
     </div>
 
     <hr>
+
   </footer>
 
 </body>
