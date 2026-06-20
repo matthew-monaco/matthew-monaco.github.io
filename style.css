@@ -53,30 +53,20 @@ body {
    NAV (FORCED GREEN FIX)
    ========================= */
 
-.site-nav {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-}
-
-/* base links */
 .site-nav a {
-  color: #111 !important;
+  color: #111;
   text-decoration: none;
   font-weight: 600;
   padding: 6px 10px;
   transition: color 0.2s ease;
 }
 
-/* hover = GREEN */
 .site-nav a:hover {
-  color: var(--accent) !important;
+  color: var(--accent);
 }
 
-/* active = GREEN */
 .site-nav a.active {
-  color: var(--accent) !important;
+  color: var(--accent);
 }
 
 /* separators ALWAYS green */
