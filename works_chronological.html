@@ -242,7 +242,71 @@ This is a chronological list of works. For a list of works sorted by instrumenta
 
 <hr>
 
-<a href="/" style="color: black"><strong>Home</strong></a> <a style="color: green"> ▪ </a> <a href="/about" style="color: black"><strong>About</strong></a> <a style="color: green"> ▪ </a> <a href="/works" style="color: green"><strong>Works</strong></a> <a style="color: green"> ▪ </a> <a href="/listen" style="color: black"><strong>Listen</strong></a> <a style="color: green"> ▪ </a> <a href="/writings" style="color: black"><strong>Writings</strong></a>
+<style>
+.nav-link{
+  color:black;
+  text-decoration:none;
+  padding:1px 3px;
+  border-radius:4px;
+  transition:0.2s;
+  display:inline-block;
+}
+
+.nav-link:hover{
+  background:#e6e6e6;
+  color:green !important;
+  transform:scale(1.05);
+}
+
+.current{
+  color:green;
+}
+
+.separator{
+  color:green;
+}
+</style>
+
+<a href="/" class="nav-link"><strong>Home</strong></a>
+<span class="separator"> ▪ </span>
+
+<a href="/about" class="nav-link"><strong>About</strong></a>
+<span class="separator"> ▪ </span>
+
+<a href="/works" class="nav-link current"><strong>Works</strong></a>
+<span class="separator"> ▪ </span>
+
+<a href="/listen" class="nav-link"><strong>Listen</strong></a>
+<span class="separator"> ▪ </span>
+
+<a href="/writings" class="nav-link"><strong>Writings</strong></a>
+
+<br>
+
+<style>
+details > summary{
+  list-style:none;
+  cursor:pointer;
+  padding:10px;
+  border-radius:6px;
+  transition:.2s;
+}
+
+details > summary::-webkit-details-marker{display:none;}
+details > summary::marker{content:"";}
+
+/* Soft grey hover */
+details > summary:hover{
+  background:#e6e6e6 !important;
+  color:#000 !important;
+}
+
+/* Open state */
+details[open] > summary{
+  background:#e6e6e6 !important;
+  color:#000 !important;
+}
+</style>
 
 <hr>
 
