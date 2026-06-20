@@ -107,6 +107,6 @@ permalink: /about
 
 <hr>
 
-![Tahoe](tahoe-standing.jpg)
+<img src="tahoe-standing.jpg" alt="Tahoe" width="300">
 
 <hr>
