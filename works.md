@@ -155,7 +155,7 @@ This is a chronological list of works. A list of works sorted by instrumentation
 
 <details>
   <summary>Piano Trio</summary>
-  <p>10'<a style="color: green"> ▪ </a>Violon, violoncello, and piano</p>
+  <p>10'<a style="color: green"> ▪ </a>Violin, violoncello, and piano</p>
   <p>Premiered July 2019 in Valencia, Spain by the <a style="color: green">Brouwer Trio</a> at the <a style="color: green">VIPA Festival</a>.</p>
 </details>
 
