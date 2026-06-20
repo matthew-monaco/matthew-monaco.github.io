@@ -4,8 +4,6 @@ title: " ‎ "
 permalink: /works_chronological
 ---
 
-<a href="/about" class="nav-link active">Works</a>
-
 This is a chronological list of works. For a list of works sorted by instrumentation, click <strong>here</strong>.
 
 <br>
