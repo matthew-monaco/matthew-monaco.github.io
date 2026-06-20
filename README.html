@@ -4,6 +4,43 @@ title: " ‎ "
 permalink: /
 ---
 
+<div class="navbar">
+  <div class="nav-inner">
+
+    <a href="/" class="nav-link"><strong>Home</strong></a>
+    <span class="separator">▪</span>
+
+    <a href="/about" class="nav-link"><strong>About</strong></a>
+    <span class="separator">▪</span>
+
+    <a href="/works" class="nav-link"><strong>Works</strong></a>
+    <span class="separator">▪</span>
+
+    <a href="/listen" class="nav-link"><strong>Listen</strong></a>
+    <span class="separator">▪</span>
+
+    <a href="/writings" class="nav-link"><strong>Writings</strong></a>
+
+  </div>
+</div>
+
+<script>
+const links = document.querySelectorAll(".nav-link");
+const current = window.location.pathname;
+
+links.forEach(link => {
+  if (link.getAttribute("href") === current) {
+    link.classList.add("active");
+  }
+});
+</script>
+
+
+
+
+
+<hr>
+
 Matthew Monaco ▪ Composer
 
 <br>
