@@ -6,6 +6,21 @@ body {
   color: #111;
 }
 
+/* Sticky footer layout */
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+/* main content expands */
+main {
+  flex: 1;
+}
+
 /* Header */
 .site-header {
   padding: 20px;
@@ -34,7 +49,7 @@ body {
   align-items: center;
 }
 
-/* Links (make them NOT blue, bold, black) */
+/* Links */
 .site-nav a {
   color: black;
   font-weight: bold;
@@ -71,17 +86,20 @@ body {
   padding: 10px 0;
 }
 
-/* Social icons */
+/* =========================
+   MONOCHROME → GREEN ICONS
+   ========================= */
+
 .social-link img {
   width: 30px;
-  transition: 0.2s ease;
+  filter: grayscale(100%) brightness(0.4);
+  transition: 0.25s ease;
 }
 
-/* Hover effect */
+/* Hover: green transformation + pop */
 .social-link img:hover {
-  opacity: 0.8;
+  filter: brightness(0) saturate(100%) invert(43%) sepia(94%) saturate(404%) hue-rotate(92deg) brightness(95%) contrast(92%);
   transform: scale(1.15);
-  filter: drop-shadow(0 0 4px #aaa);
 }
 
 /* Footer text */
@@ -92,7 +110,7 @@ body {
   margin: 6px 0;
 }
 
-/* Optional <details> styling (only if you use it elsewhere) */
+/* Optional <details> styling */
 details > summary {
   list-style: none;
   cursor: pointer;
