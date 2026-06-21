@@ -48,7 +48,7 @@ permalink: /listen
   </a>
 </p>
 
-### Trio improvisations (CMM Trio)
+#### Trio improvisations (CMM Trio)
 
 <p class="listen-item">
   <a href="https://cmmtrio.bandcamp.com/album/live-in-berkeley" target="_blank" rel="noopener">
