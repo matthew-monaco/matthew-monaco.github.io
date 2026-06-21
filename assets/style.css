@@ -302,7 +302,7 @@ a[href] {
 
 /* Hover effect */
 a[href]:hover {
-    color: #00aa44;
-    background-color: rgba(0, 170, 68, 0.15);
-    transform: scale(1.1);
+    color: forestgreen;
+    background-color: rgba(0, 128, 0, 0.08);
+    transform: scale(1.05);
 }
