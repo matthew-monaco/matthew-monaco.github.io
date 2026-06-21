@@ -75,6 +75,9 @@ body {
 .nav-link:hover {
   color: forestgreen;
   background: rgba(0, 128, 0, 0.08);
+}
+
+.nav-link:hover span {   
   transform: scale(1.05);
 }
 
