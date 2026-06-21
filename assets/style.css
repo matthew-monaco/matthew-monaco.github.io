@@ -5,14 +5,11 @@
 body {
   margin: 0;
   background: #f2f2f2;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Cormorant Garamond", serif;
   color: #111;
-
-  /* changed: body text now left-aligned */
   text-align: left;
 }
 
-/* narrower + cleaner margins */
 .content {
   max-width: 780px;
   margin: 0 auto;
@@ -25,7 +22,7 @@ body {
 
 .site-header {
   padding: 18px 10px 8px;
-  text-align: center; /* keep header centered */
+  text-align: center;
 }
 
 .site-title {
@@ -39,8 +36,13 @@ body {
   color: forestgreen;
 }
 
+/* clean green square separator */
 .dot {
-  color: forestgreen;
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  background: forestgreen;
+  vertical-align: middle;
 }
 
 .divider {
@@ -57,19 +59,16 @@ body {
   justify-content: center;
   flex-wrap: wrap;
   align-items: center;
-
-  /* reduced spacing between items */
-  gap: 4px;
+  gap: 6px;
   font-weight: bold;
 }
 
 .nav-link {
   text-decoration: none;
   color: black;
-  padding: 4px 6px; /* tighter spacing */
+  padding: 4px 6px;
   border-radius: 5px;
   display: inline-block;
-
   transition: transform 0.15s ease, color 0.15s ease, background 0.15s ease;
 }
 
@@ -83,13 +82,16 @@ body {
   color: forestgreen;
 }
 
+/* clean nav separator (NO font glyphs) */
 .nav-dot {
-  color: forestgreen;
-  font-weight: bold;
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  background: forestgreen;
 }
 
 /* =========================
-   DROPDOWN (WORKS ON MOBILE TOO)
+   DROPDOWN
 ========================= */
 
 details > summary {
@@ -99,8 +101,6 @@ details > summary {
   border-radius: 6px;
   transition: 0.2s ease;
   display: inline-block;
-
-  /* ensure mobile tap behavior is consistent */
   -webkit-tap-highlight-color: transparent;
 }
 
@@ -108,23 +108,15 @@ details > summary::-webkit-details-marker {
   display: none;
 }
 
-details > summary::marker {
-  content: "";
-}
-
-details > summary:hover {
-  background: rgba(0, 128, 0, 0.08);
-  color: forestgreen;
-}
-
+details > summary:hover,
 details[open] > summary {
   background: rgba(0, 128, 0, 0.08);
   color: forestgreen;
 }
 
-/* mobile-friendly dropdown spacing */
 details > *:not(summary) {
   margin-top: 8px;
+  margin-left: 18px;
 }
 
 /* =========================
@@ -163,7 +155,7 @@ details > *:not(summary) {
 }
 
 /* =========================
-   MOBILE OPTIMIZATION
+   MOBILE
 ========================= */
 
 @media (max-width: 600px) {
@@ -176,17 +168,21 @@ details > *:not(summary) {
   }
 
   .site-nav {
-    gap: 2px; /* even tighter on mobile */
+    gap: 4px;
   }
 
   .content {
-    padding: 12px; /* slightly tighter margins on mobile */
+    padding: 12px;
   }
 
   .social-link img {
     width: 28px;
   }
 }
+
+/* =========================
+   IMAGES
+========================= */
 
 img {
   display: block;
@@ -195,98 +191,9 @@ img {
 }
 
 /* =========================
-   DROPDOWN INDENT (RESPONSIVE)
+   LINKS (SINGLE SYSTEM ONLY)
 ========================= */
 
-/* base (desktop) */
-details {
-  margin-left: 6px;
-}
-
-details > summary {
-  margin-left: -6px;
-}
-
-/* dropdown content indent */
-details > *:not(summary) {
-  margin-left: 18px;
-  margin-top: 6px;
-}
-
-/* =========================
-   MOBILE ADJUSTMENT
-========================= */
-
-@media (max-width: 600px) {
-
-  details {
-    margin-left: 4px; /* slightly tighter */
-  }
-
-  details > summary {
-    margin-left: -4px;
-  }
-
-  details > *:not(summary) {
-    margin-left: 12px; /* reduced indent for small screens */
-  }
-}
-
-.listen-item img {
-  width: 22px;
-  height: 22px;
-  vertical-align: middle;
-  margin-right: 6px;
-}
-
-.image-grid img {
-  width: 120px;
-  height: auto;
-  object-fit: cover;
-  border-radius: 6px;
-}
-
-a:hover {
-  color: forestgreen;
-}
-
-/* Smooth page transitions */
-@view-transition {
-    navigation: auto;
-}
-
-::view-transition-old(root),
-::view-transition-new(root) {
-    animation-duration: 0.4s;
-}
-
-::view-transition-old(root) {
-    animation: fade-out 0.4s ease forwards;
-}
-
-::view-transition-new(root) {
-    animation: fade-in 0.4s ease forwards;
-}
-
-@keyframes fade-out {
-    from {
-        opacity: 1;
-    }
-    to {
-        opacity: 0;
-    }
-}
-
-@keyframes fade-in {
-    from {
-        opacity: 0;
-    }
-    to {
-        opacity: 1;
-    }
-}
-
-/* Only real hyperlinks */
 a {
   color: black;
   text-decoration: none;
@@ -299,95 +206,33 @@ a:hover {
   transform: scale(1.05);
 }
 
-/* Hover effect */
-a[href]:hover {
-    color: forestgreen;
-    background-color: rgba(0, 128, 0, 0.08);
-    transform: scale(1.05);
+/* =========================
+   PAGE TRANSITIONS
+========================= */
+
+@view-transition {
+  navigation: auto;
 }
 
-/* Elegant serif font (Cormorant Garamond) */
-html {
-    font-family: "Cormorant Garamond", serif;
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation-duration: 0.4s;
 }
 
-/* Ensure consistency across all elements (including mobile inputs) */
-body,
-button,
-input,
-textarea,
-select {
-    font-family: inherit;
+::view-transition-old(root) {
+  animation: fade-out 0.4s ease forwards;
 }
 
-/* Remove default bullets */
-ul {
-    list-style: none;
-    padding-left: 1.4em;
-    margin-left: 0;
+::view-transition-new(root) {
+  animation: fade-in 0.4s ease forwards;
 }
 
-/* Stable custom bullet */
-li {
-    position: relative;
+@keyframes fade-out {
+  from { opacity: 1; }
+  to { opacity: 0; }
 }
 
-/* CSS-drawn bullet (NOT a font character) */
-li::before {
-    content: "";
-    position: absolute;
-    left: 0;
-    top: 0.65em;
-    width: 6px;
-    height: 6px;
-    background-color: #00aa44;
-    border-radius: 1px; /* square look; change to 50% for circle */
-}
-
-li::marker {
-  color: forestgreen;
-}
-
-/* FORCE remove all native bullets */
-ul {
-    list-style: none !important;
-    padding-left: 1.2em;
-    margin-left: 0;
-}
-
-/* Stable custom bullet that never changes with fonts */
-li {
-    position: relative;
-}
-
-/* CSS-generated square bullet */
-li::before {
-    content: "";
-    position: absolute;
-    left: 0;
-    top: 0.75em;
-    width: 6px;
-    height: 6px;
-    background-color: forestgreen;
-}
-
-.nav-dot::before {
-    content: "";
-    display: inline-block;
-    width: 6px;
-    height: 6px;
-    background: forestgreen;
-    vertical-align: middle;
-}
-
-.nav-dot {
-    font-size: 0; /* hides the ▪ character completely */
-}
-
-.nav-dot::before {
-    content: "";
-    display: inline-block;
-    width: 6px;
-    height: 6px;
-    background: forestgreen;
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
 }
