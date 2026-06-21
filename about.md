@@ -24,9 +24,18 @@ permalink: /about
 
 <div style="text-align: justify">&nbsp; &nbsp; Monaco lives in Paris as a recipient of the George Ladd Prix de Paris.</div>  
 <br>
-<a href="/bio-en-francais" style="color: green"><strong><font size="2">Bio en français</font></strong></a>
 
+<details>
+<summary><a style="color: green"><strong>Bio en français</strong></a></summary>
 <br>
+<p>Matthew Monaco (né en 1997 à Teaneck, New Jersey) est bercé dès son plus jeune âge par le jazz américain qu’écoute son entourage familial. Il commence des études de piano et d’improvisation dans ce style qui lui est familier et se passionne, après sa rencontre avec l`oeuvre de J.S. Bach et Stravinsky, pour la musique écrite. Il entame alors sa formation et sa carrière de compositeur de musique acoustique et électroacoustique au New England Conservatory à Boston dans la classe de Stratis Minakakis. De 2018 à 2020, Monaco organise une série de concerts mensuels pour la musique contemporaine en programmant les créations des compositeurs du NEC après avoir été stagiaire au New York Philharmonic en tant qu’assistant de cours pour les jeunes compositeurs et d’autres programmes éducatifs.</p>
+<p>Suite à l’obtention de son Bachelor, il déménage à Paris et bénéficie des cours de Stefano Gervasoni pour deux années de Master au Conservatoire National Supérieur de Musique et de Danse de Paris (CNSMDP). Ses rencontres l’amènent à collaborer avec l'Ensemble intercontemporain, l'Ensemble Itinéraire, l'Ensemble Court-circuit, l'Ensemble Linea, le Callithumpian Consort, le Del Sol Quartet, le Brouwer Trio, l'Orchestre des lauréats du Conservatoire (CNSMDP), etc. Il travaille dans ces cadres avec Hugh Wolff, Jean Deroyer, Jean-Philippe Wurtz, Stephen Drury, et Léo Margue, et des solistes tel que Alain Billard, Théo Ould, et Maria Eleonora Caminada.</p>
+<p>Monaco poursuit son parcours avec curiosité en intégrant le Doctorat de composition (PhD) à l’université de Californie à Berkeley dans les classes de Carmine-Emanuele Cella et Edmund Campion. Il étudie notamment auprès de Myra Melford avec qui il développe ses qualités d’improvisateur, aspect musical que Monaco ne cesse de développer depuis ses débuts, en suivant néanmoins l’héritage du free Jazz américain sur lequel se fonde une grande partie son langage musical.</p>
+<p>Alors que la musique de Monaco explore un terrain complexe entre les mondes de la notation, de l'improvisation et des « game pieces », ses recherches se concentrent sur les intersections entre la phénoménologie et la théorie musicale, créant un espace pour des méthodes spécifiques à l'oeuvre dans l'analyse de la musique contemporaine. Deux projets de recherche actuels mais distincts portent sur les paradigmes musico-grammaticaux de la musique de Cecil Taylor et sur les processus rythmiques du <em>Konzert</em> de Beat Furrer.</p>
+<p>Il a récemment travaillé avec l'Ensemble Linea pour la création de <em>Thread</em>, une commande de la Fondation Royaumont et de Christine Jolivet, au Festival aux Chandelles. En 2026, des créations auront lieu à Chypre (Nicosie), en Italie (Milan), en Slovénie (Bled) et en Pologne (Rybna).</p>
+<p>A travers ses voyages et poussé par l’envie de rencontrer les compositeurs qui l’inspirent, il bénéficie lors de plusieurs académies (ManiFeste, Voix Nouvelles, VIPA etc.), du regard et de l’oreille de Kaija Saariaho, Tristan Murail, Toshio Hosokawa, Philippe Leroux, Philippe Manoury, Diana Soh, Francesco Filidei, Francesca Verunelli et Du Yun.</p>
+<p>Monaco vit à Paris en tant que lauréat du Prix de Paris George Ladd.</p>
+</details>
 
 <details>
 <summary><a style="color: green"><strong>Education</strong></a></summary>
