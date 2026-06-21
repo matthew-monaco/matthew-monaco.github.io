@@ -347,4 +347,26 @@ li::before {
 li::marker {
   color: forestgreen;
 }
-   
+
+/* FORCE remove all native bullets */
+ul {
+    list-style: none !important;
+    padding-left: 1.2em;
+    margin-left: 0;
+}
+
+/* Stable custom bullet that never changes with fonts */
+li {
+    position: relative;
+}
+
+/* CSS-generated square bullet */
+li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.75em;
+    width: 6px;
+    height: 6px;
+    background-color: forestgreen;
+}
