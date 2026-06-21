@@ -320,3 +320,26 @@ textarea,
 select {
     font-family: inherit;
 }
+
+/* Remove default bullets */
+ul {
+    list-style: none;
+    padding-left: 1.4em;
+    margin-left: 0;
+}
+
+/* Stable custom bullet */
+li {
+    position: relative;
+}
+
+/* CSS-drawn bullet (NOT a font character) */
+li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.65em;
+    width: 6px;
+    height: 6px;
+    background-color: #00aa44;
+    border-radius: 1px; /* square look; change to 50% for circle */
