@@ -33,13 +33,13 @@ Coming Soon
 <details>
   <summary><strong>I've Heard That Song Before</strong></summary>
   <p>4'<a style="color: green"> ▪ </a>Soprano</p>
-  <p>Premiered by <a style="color: green">Maria Eleonora Caminada</a> on May 20th, 2026 in Milan, Italy.</p>
+  <p>Premiered by <a style="color: green">Maria Eleonora Caminada</a> in May, 2026 in Milan, Italy.</p>
 </details>
 
 <details>
   <summary><strong>Scuffle</strong></summary>
   <p>8'<a style="color: green"> ▪ </a>Bass clarinet, drumset, and double bass</p>
-  <p>Premiered by the <a style="color: green">Patsiaoura Ensemble</a> at the <a style="color: green">Reaching the Limits</a> festival on March 14th, 2026 in Larnaca, Cyprus.</p>
+  <p>Premiered by the <a style="color: green">Patsiaoura Ensemble</a> at the <a style="color: green">Reaching the Limits</a> festival in March, 2026 in Larnaca, Cyprus.</p>
   <p>Commissioned by the <a style="color: green">Reaching the Limits</a> festival and <a style="color: green">CultureTones</a>.</p>
 </details>
 
@@ -54,13 +54,13 @@ Coming Soon
 <details>
   <summary><strong>Bloom</strong></summary>
   <p>8'<a style="color: green"> ▪ </a>Accordion</p>
-  <p>Premiered by <a style="color: green">Théo Ould</a> on November 8th, 2025 in Berkeley, CA.</p>
+  <p>Premiered by <a style="color: green">Théo Ould</a> in November, 2025 in Berkeley, CA.</p>
 </details>
 
 <details>
   <summary><strong>Thread</strong></summary>
   <p>14'<a style="color: green"> ▪ </a>Flute, clarinet, violin, viola, violoncello, and piano</p>
-  <p>Premiered by <a style="color: green">Ensemble Linea</a> at the <a style="color: green">Festival aux Chandelles</a> on May 30th, 2025 in Sainte-Marie-aux-Mines, France.</p>
+  <p>Premiered by <a style="color: green">Ensemble Linea, Jean-Philippe Wurtz</a> at the <a style="color: green">Festival aux Chandelles</a> in May, 2025 in Sainte-Marie-aux-Mines, France.</p>
   <p>Commissioned by the <a style="color: green">Royaumont Foundation</a> with the support of Christine Jolivet Erlih.</p>
 </details>
 
@@ -69,13 +69,13 @@ Coming Soon
 <details>
   <summary><strong>Blur</strong></summary>
   <p>8'<a style="color: green"> ▪ </a>Contrabass clarinet and electronics</p>
-  <p>Premiered by <a style="color: green">Alain Billard</a> at the <a style="color: green">ManiFeste</a> festival on June 28th, 2024 in Paris, France.</p>
+  <p>Premiered by <a style="color: green">Alain Billard</a> at the <a style="color: green">ManiFeste</a> festival in June, 2024 in Paris, France.</p>
 </details>
 
 <details>
   <summary><strong>Fits and Starts</strong></summary>
   <p>9'<a style="color: green"> ▪ </a>String quartet</p>
-  <p>Premiered by the <a style="color: green">Del Sol Quartet</a> on April 30th, 2024 in Berkeley, CA.</p>
+  <p>Premiered by the <a style="color: green">Del Sol Quartet</a> in April, 2024 in Berkeley, CA.</p>
 </details>
 
 2023
@@ -83,13 +83,13 @@ Coming Soon
 <details>
   <summary><strong>Split</strong></summary>
   <p>12'<a style="color: green"> ▪ </a>Flute, clarinet, piano, violin, viola, violoncello, and piano</p>
-  <p>Premiered by <a style="color: green">Ensemble l’Itinéraire</a> in October 2023 in Berkeley, CA.</p>
+  <p>Premiered by <a style="color: green">Ensemble l’Itinéraire, David Milnes</a> in October 2023 in Berkeley, CA.</p>
 </details>
 
 <details>
   <summary><strong>Mesh</strong></summary>
   <p>10'<a style="color: green"> ▪ </a>Flute, clarinet, piano, violin, viola, violoncello, and piano</p>
-  <p>Premiered by <a style="color: green">Ensemble Court-circuit</a> as part of <a style="color: green">Voix Nouvelles</a> at the Royaumont Abbey in September 2023 in Asnières-sur-Oise, France.</p>
+  <p>Premiered by <a style="color: green">Ensemble Court-circuit, Jean Deroyer</a> as part of <a style="color: green">Voix Nouvelles</a> at the Royaumont Abbey in September 2023 in Asnières-sur-Oise, France.</p>
 </details>
 
 <details>
@@ -103,7 +103,7 @@ Coming Soon
 <details>
   <summary><strong>Stray</strong></summary>
   <p>23'<a style="color: green"> ▪ </a>20 musicians</p>
-  <p>Premiered by <a style="color: green">l'Orchestre des lauréats du Conservatoire (CNSMDP)</a> in September 2022 in Paris, France.</p>
+  <p>Premiered by <a style="color: green">l'Orchestre des lauréats du Conservatoire (CNSMDP), Jean Deroyer</a> in September 2022 in Paris, France.</p>
 </details>
 
 <details>
@@ -117,7 +117,7 @@ Coming Soon
 <details>
   <summary><strong>Spirals, Orbits, and Circular Paths</strong></summary>
   <p>10'<a style="color: green"> ▪ </a>Contrabass clarinet, 2 percussionists, harp, piano, accordion, 2 violins, 2 violas, violoncello, and double bass</p>
-  <p>Premiered by <a style="color: green">Ensemble intercontemporain</a> in November 2021 in Paris, France.</p>
+  <p>Premiered by <a style="color: green">Ensemble intercontemporain, Léo Margue</a> in November 2021 in Paris, France.</p>
 </details>
 
 <details>
@@ -131,7 +131,7 @@ Coming Soon
 <details>
   <summary><strong>Scaling</strong></summary>
   <p>13'<a style="color: green"> ▪ </a>Flute, bass clarinet, alto saxophone, french horn, trombone, percussion, 2 violins, viola, violoncello, and double bass</p>
-  <p>Premiered by <a style="color: green">Ensemble intercontemporain</a> in January 2021 in Paris, France.</p>
+  <p>Premiered by <a style="color: green">Ensemble intercontemporain, Léo Margue</a> in January 2021 in Paris, France.</p>
 </details>
 
 <details>
@@ -142,7 +142,7 @@ Coming Soon
 <details>
   <summary><strong>Flux</strong></summary>
   <p>23'<a style="color: green"> ▪ </a>Flute, clarinet, piano, violin, violoncello, double bass, and baritone solo</p>
-  <p>Premiered by <a style="color: green">Alinéa</a> in January 2020 in Boston, MA.</p>
+  <p>Premiered by <a style="color: green">Alinéa, Ty Bouque, Tristan Rais-Sherman</a> in January 2020 in Boston, MA.</p>
 </details>
 
 2019
@@ -150,7 +150,7 @@ Coming Soon
 <details>
   <summary><strong>Quartet</strong></summary>
   <p>8'<a style="color: green"> ▪ </a>Clarinet, violin, viola, and double bass</p>
-  <p>Premiered by the <a style="color: green">Callithumpian Consort</a> in November 2019 in Boston, MA.</p>
+  <p>Premiered by the <a style="color: green">Callithumpian Consort, Stephen Drury</a> in November 2019 in Boston, MA.</p>
 </details>
 
 <details>
