@@ -84,12 +84,14 @@ body {
 
 /* clean nav separator (NO font glyphs) */
 .nav-dot {
-  display: inline-block;
   width: 6px;
   height: 6px;
   background: forestgreen;
-  vertical-align: middle;
-  transform: translateY(-1px);
+  display: inline-block;
+  flex: 0 0 6px;
+  line-height: 0;
+  font-size: 0;
+  transform: none;
 }
 
 /* =========================
