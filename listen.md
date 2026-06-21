@@ -30,8 +30,7 @@ permalink: /listen
   </a>
 </p>
 
----
-
+<br>
 ### Improvisations and Collaborations
 
 #### Duo performance with Myra Melford
@@ -63,8 +62,6 @@ permalink: /listen
     LISTEN on Spotify
   </a>
 </p>
-
----
 
 <div class="image-grid">
   <img src="/tahoe-water.jpg" alt="Tahoe water">
