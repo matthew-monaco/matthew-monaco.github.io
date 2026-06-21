@@ -1,6 +1,6 @@
 ---
 layout: default
-title: " ‎ "
+title: Works | Matthew Monaco
 permalink: /works
 ---
 
