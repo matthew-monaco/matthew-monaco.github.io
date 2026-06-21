@@ -10,6 +10,7 @@ permalink: /writings
 
 Coming soon: a transcription-based analytical study of Cecil Taylor's solo improvisations, focusing on identifying and describing his musical grammar. To feature complete transcriptions of <em>Olim</em>, <em>Spring of Two Blue-J's</em>, and more.
 
+<br>
 #### <a style="color: green">About me</a>
 
 <a href="/interview-with-camille-lienhard" style="color: black">The Dialectic of Framing and Listening: Interview with C. Lienhard (2025, in <font size="2">FRENCH</font>)</a> 
