@@ -4,8 +4,6 @@ title: " ‎ "
 permalink: /interview-with-camille-lienhard
 ---
 
- <a href="/writings" style="color: black">**Back**</a> 
-
 ***
 
 <font size="2"><div style="text-align: justify"><strong>Camille Lienhard, <em>La dialectique du cadre et de l’écoute : entretien avec Matthew Monaco</em>, in <em>Les Carnets du Festival aux Chandelles</em>, vol. II, edited by Hélène Papadopoulos, Sainte-Marie-aux-Mines: Val d’Argent Classique, 2025. ISBN 978-2-9593724-1-4.</strong></div></font> 
@@ -108,12 +106,3 @@ permalink: /interview-with-camille-lienhard
 <font size="2">AVRIL 2025</font>
 
 ***
-
- <a href="/writings" style="color: black">**Back**</a> 
-
-***
-
-[<img src="./soundcloud.png" width="30" />](https://soundcloud.com/matthewtmonaco)  [<img src="./youtube.png" width="30" />](https://www.youtube.com/@matthewtmonaco)  [<img src="./spotify.png" width="30" />](https://open.spotify.com/artist/7c6dcoAhkkQznw76SGbMDu)  [<img src="./instagram.png" width="30" />](https://www.instagram.com/matthew.t.monaco)  [<img src="./link.png" width="30" />](https://linktr.ee/matthew.t.monaco)
-
-***
-
