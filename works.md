@@ -4,7 +4,7 @@ title: Works | Matthew Monaco
 permalink: /works
 ---
 
-This is a chronological list of works. For a list of works sorted by instrumentation, click <a href="/works_by_instrumentation">here</a>. For improvised works, click <a href="/listen">here</a>.
+This is a chronological list of works. For a list of works sorted by instrumentation, click <a href="/works_by_instrumentation"><strong>here</strong></a>. For improvised works, click <a href="/listen"><strong>here</strong></a>.
 
 <br>
 
