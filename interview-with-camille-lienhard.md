@@ -104,5 +104,3 @@ permalink: /interview-with-camille-lienhard
 <br>
 
 <font size="2">AVRIL 2025</font>
-
-***
