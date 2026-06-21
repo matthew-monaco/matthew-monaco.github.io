@@ -24,7 +24,6 @@ permalink: /about
 
 <div style="text-align: justify">&nbsp; &nbsp; Monaco lives in Paris as a recipient of the George Ladd Prix de Paris.</div>  
 <br>
-
 <details>
 <summary><a style="color: green"><strong>Bio en français</strong></a></summary>
 <br>
