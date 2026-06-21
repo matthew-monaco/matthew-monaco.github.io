@@ -13,30 +13,33 @@
 <body>
 
 <header class="site-header">
+
   <a class="site-title" href="/">
     Matthew Monaco <span class="nav-dot"></span> Composer
   </a>
 
   <hr class="divider" />
 
+  <div class="nav-wrap">
+    <nav class="site-nav">
 
-  <nav class="site-nav">
+      <a href="/" class="nav-link {% if page.url == '/' %}active{% endif %}">Home</a>
+      <span class="nav-dot">▪</span>
 
-    <a href="/" class="nav-link {% if page.url == '/' %}active{% endif %}">Home</a>
-    <span class="nav-dot">▪</span>
+      <a href="/about" class="nav-link {% if page.url contains 'about' %}active{% endif %}">About</a>
+      <span class="nav-dot">▪</span>
 
-    <a href="/about" class="nav-link {% if page.url contains 'about' %}active{% endif %}">About</a>
-    <span class="nav-dot">▪</span>
+      <a href="/works" class="nav-link {% if page.url contains 'works' %}active{% endif %}">Works</a>
+      <span class="nav-dot">▪</span>
 
-    <a href="/works" class="nav-link {% if page.url contains 'works' %}active{% endif %}">Works</a>
-    <span class="nav-dot">▪</span>
+      <a href="/listen" class="nav-link {% if page.url contains 'listen' %}active{% endif %}">Listen</a>
+      <span class="nav-dot">▪</span>
 
-    <a href="/listen" class="nav-link {% if page.url contains 'listen' %}active{% endif %}">Listen</a>
-    <span class="nav-dot">▪</span>
+      <a href="/writings" class="nav-link {% if page.url contains 'writings' %}active{% endif %}">Writings</a>
 
-    <a href="/writings" class="nav-link {% if page.url contains 'writings' %}active{% endif %}">Writings</a>
+    </nav>
+  </div>
 
-  </nav>
 </header>
 
 <main class="content">
