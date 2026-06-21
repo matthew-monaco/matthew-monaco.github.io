@@ -6,9 +6,9 @@ permalink: /listen
 
 ---
 
-## Compositions
+### Compositions
 
-### Audio
+#### Audio
 
 <p class="listen-item">
 <a href="https://soundcloud.com/matthewtmonaco" target="_blank" rel="noopener">
@@ -16,7 +16,7 @@ permalink: /listen
   </a>
 </p>
 
-### Videos
+#### Videos
 
 <p class="listen-item">
   <a href="https://www.youtube.com/watch?v=RuL0ushx5a0&list=RDRuL0ushx5a0&start_radio=1&ab_channel=Royaumont" target="_blank" rel="noopener">
@@ -32,9 +32,9 @@ permalink: /listen
 
 ---
 
-## Improvisations and Collaborations
+### Improvisations and Collaborations
 
-### Duo performance with Myra Melford
+#### Duo performance with Myra Melford
 
 <p class="listen-item">
   <a href="https://soundcloud.com/matthewtmonaco/thrum" target="_blank" rel="noopener">
@@ -42,7 +42,7 @@ permalink: /listen
   </a>
 </p>
 
-### Solo
+#### Solo
 
 <p class="listen-item">
   <a href="https://www.youtube.com/watch?v=8I3eImyJudY&ab_channel=MatthewMonaco" target="_blank" rel="noopener">
