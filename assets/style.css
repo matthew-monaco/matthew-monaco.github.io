@@ -307,11 +307,16 @@ a[href]:hover {
     transform: scale(1.05);
 }
 
-/* Font only — no color, spacing, or styling changes */
+/* Elegant serif font (Cormorant Garamond) */
+html {
+    font-family: "Cormorant Garamond", serif;
+}
+
+/* Ensure consistency across all elements (including mobile inputs) */
 body,
 button,
 input,
 textarea,
 select {
-    font-family: "Inter", sans-serif;
+    font-family: inherit;
 }
