@@ -115,7 +115,7 @@ Coming Soon
 2021
 
 <details>
-  <summary><strong>Spirals, Orbits, and Circular Paths</summary>
+  <summary><strong>Spirals, Orbits, and Circular Paths</strong></summary>
   <p>10'<a style="color: green"> ▪ </a>Contrabass clarinet, 2 percussionists, harp, piano, accordion, 2 violins, 2 violas, violoncello, and double bass</p>
   <p>Premiered November 2021 in Paris, France by <a style="color: green">Ensemble intercontemporain</a>.</p>
 </details>
