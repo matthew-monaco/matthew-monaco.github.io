@@ -22,7 +22,7 @@ Orchestra and large ensemble
   <p>Premiered by the <a style="color: green">NEC Philharmonic, David Loebel</a> in May 2019 <em>(Boston, MA)</em>.</p>
 </details>
 
-
+<br>
 Ensemble
 
 <details>
@@ -67,7 +67,7 @@ Ensemble
   <p>Premiered by <a style="color: green">Alinéa, Ty Bouque, Tristan Rais-Sherman</a> in January 2020 <em>(Boston, MA)</em>.</p>
 </details>
 
-
+<br>
 Chamber
 
 <details>
@@ -107,7 +107,7 @@ Chamber
   <p>Premiered by members of <a style="color: green">Ensemble Linea</a> at the <a style="color: green">Etchings Festival</a> in June 2019 <em>(Auvillar, France)</em>.</p>
 </details>
 
-
+<br>
 Solo
 
 <details>
@@ -134,7 +134,7 @@ Solo
   <p>Premiered by <a style="color: green">Iñaki Bermudez</a> in May 2021 <em>(Paris, France)</em>.</p>
 </details>
 
-
+<br>
 Solo with electronics
 
 <details>
@@ -155,7 +155,7 @@ Solo with electronics
   <p>Premiered by by <a style="color: green">Iñaki Bermudez</a> in March 2022 <em>(Paris, France)</em>.</p>
 </details>
 
-
+<br>
 Coming soon
 
 <details>
