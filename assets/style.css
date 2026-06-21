@@ -255,3 +255,18 @@ a {
 a:hover {
   color: forestgreen;
 }
+
+
+.fade-photo {
+  mask-image: radial-gradient(
+    ellipse at center,
+    black 65%,
+    transparent 100%
+  );
+
+  -webkit-mask-image: radial-gradient(
+    ellipse at center,
+    black 65%,
+    transparent 100%
+  );
+}
