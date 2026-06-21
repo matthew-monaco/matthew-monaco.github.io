@@ -379,3 +379,15 @@ li::before {
     background: forestgreen;
     vertical-align: middle;
 }
+
+.nav-dot {
+    font-size: 0; /* hides the ▪ character completely */
+}
+
+.nav-dot::before {
+    content: "";
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    background: forestgreen;
+}
