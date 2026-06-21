@@ -370,3 +370,12 @@ li::before {
     height: 6px;
     background-color: forestgreen;
 }
+
+.nav-dot::before {
+    content: "";
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    background: forestgreen;
+    vertical-align: middle;
+}
