@@ -255,3 +255,40 @@ a {
 a:hover {
   color: forestgreen;
 }
+
+/* Smooth page transitions */
+@view-transition {
+    navigation: auto;
+}
+
+::view-transition-old(root),
+::view-transition-new(root) {
+    animation-duration: 0.4s;
+}
+
+::view-transition-old(root) {
+    animation: fade-out 0.4s ease forwards;
+}
+
+::view-transition-new(root) {
+    animation: fade-in 0.4s ease forwards;
+}
+
+@keyframes fade-out {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
