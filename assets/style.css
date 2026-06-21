@@ -306,3 +306,34 @@ a[href]:hover {
     background-color: rgba(0, 128, 0, 0.08);
     transform: scale(1.05);
 }
+
+/* Global site style */
+body {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    color: #111;
+    background-color: #ffffff;
+    line-height: 1.6;
+}
+
+/* Links (matches your green hover style) */
+a[href] {
+    color: #111;
+    text-decoration: none;
+    display: inline-block;
+    transition: color 0.2s ease, background-color 0.2s ease, transform 0.2s ease;
+}
+
+/* Hover effect */
+a[href]:hover {
+    color: #00aa44;
+    background-color: rgba(0, 170, 68, 0.12);
+    transform: scale(1.1);
+    border-radius: 4px;
+}
+
+/* Optional: smoother text rendering */
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
