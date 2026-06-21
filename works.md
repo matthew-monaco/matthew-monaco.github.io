@@ -4,7 +4,7 @@ title: " ‎ "
 permalink: /works
 ---
 
-This is a chronological list of works. A list of works sorted by instrumentation will soon be available.
+This is a chronological list of works. A list of works sorted by instrumentation will soon be available. For improvised works, click on the Listen tab above.
 
 <br>
 
