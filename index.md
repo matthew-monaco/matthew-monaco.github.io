@@ -8,7 +8,7 @@ I am a Paris-based composer and pianist, originally from New Jersey. Feel free t
 
 <br>
 
-<img src="IMG_9929_0.jpg" alt="Headshot" width="300">
+<img src="IMG_9929_0.jpg" alt="Headshot" class="fade-photo" width="300">
 
 <a style="color: green">Upcoming events</a>
 
