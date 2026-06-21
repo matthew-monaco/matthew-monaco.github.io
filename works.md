@@ -12,13 +12,13 @@ Coming Soon
 
 <details>
   <summary><strong><em>New work</em> for baritone and piano</strong></summary>
-  <p>10' <a style="color: green"> <span class="nav-dot">▪</span> </a> Baritone and piano</p>
+  <p>10' <a style="color: green"> <span class="nav-dot"></span> </a> Baritone and piano</p>
   <p>Song cycle. Details coming soon.</p>
 </details>
 
 <details>
   <summary><strong><em>New work</em> for violoncello</strong></summary>
-  <p>7' <a style="color: green"> <span class="nav-dot">▪</span> </a> Violoncello</p>
+  <p>7' <a style="color: green"> <span class="nav-dot"></span> </a> Violoncello</p>
   <p>Details coming soon.</p>
 </details>
 
