@@ -61,9 +61,3 @@ permalink: /listen
     LISTEN on Spotify
   </a>
 </p>
-
-<div class="image-grid">
-  <img src="/tahoe-water.jpg" alt="Tahoe water">
-  <img src="/tahoe-walking.jpg" alt="Tahoe walking">
-  <img src="/tahoe-tree.jpg" alt="Tahoe tree">
-</div>
