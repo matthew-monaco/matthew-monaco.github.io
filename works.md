@@ -33,7 +33,7 @@ Coming Soon
 <details>
   <summary><strong>I've Heard That Song Before</strong></summary>
   <p>4'<a style="color: green"> ▪ </a>Soprano</p>
-  <p>Premiered by <a style="color: green">Maria Eleonora Caminada</a> in May, 2026 (<em>Milan, Italy</em>).</p>
+  <p>Premiered by <a style="color: green">Maria Eleonora Caminada</a> in May, 2026 <em>(Milan, Italy)</em>.</p>
 </details>
 
 <details>
