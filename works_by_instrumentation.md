@@ -39,7 +39,7 @@ Orchestra and large ensemble
 
 <details>
   <summary><strong>Sunbreak</strong></summary>
-  <p>2019 <a style="color: green"> <span class="nav-dot"></span> </a> 12' <a style="color: green"> <span class="nav-dot"></span> </a> Orchestra</p>
+  <p>2019, rev. 2026 <a style="color: green"> <span class="nav-dot"></span> </a> 12' <a style="color: green"> <span class="nav-dot"></span> </a> Orchestra</p>
   <p>Premiered by the <a style="color: green">NEC Philharmonic, David Loebel</a> in May 2019 <em>(Boston, MA)</em>.</p>
 </details>
 
