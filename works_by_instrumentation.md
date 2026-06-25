@@ -83,7 +83,7 @@ Ensemble
 
 <details>
   <summary><strong>Flux</strong></summary>
-  <p>2019 <a style="color: green"> <span class="nav-dot"></span> </a> 23' <a style="color: green"> <span class="nav-dot"></span> </a> Flute, clarinet, piano, violin, violoncello, double bass, and baritone solo</p>
+  <p>2019 <a style="color: green"> <span class="nav-dot"></span> </a> 23' <a style="color: green"> <span class="nav-dot"></span> </a> Flute, clarinet, percussion, piano, violin, violoncello, double bass, and baritone solo</p>
   <p>Premiered by <a style="color: green">Alinéa, Ty Bouque, Tristan Rais-Sherman</a> in January 2020 <em>(Boston, MA)</em>.</p>
 </details>
 
