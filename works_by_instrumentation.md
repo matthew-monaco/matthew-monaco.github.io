@@ -160,7 +160,6 @@ Coming soon
   <p>Commissioned by <a style="color: green">ArtZenter</a> for the <a style="color: green">San Francisco Contemporary Music Players</a>.</p>
 </details>
 
-
 <details>
   <summary><strong><em>New work</em> for baritone and piano</strong></summary>
   <p>2028 <a style="color: green"> <span class="nav-dot"></span> </a> 10' <a style="color: green"> <span class="nav-dot"></span> </a> Baritone and piano</p>
