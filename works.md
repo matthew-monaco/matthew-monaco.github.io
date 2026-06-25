@@ -12,7 +12,7 @@ Coming Soon
 
 <details>
   <summary><strong>Ping-Pong</strong></summary>
-  <p>12' <a style="color: green"> <span class="nav-dot"></span> </a> Flute, oboe, clarinet, bassoon, French horn, trumpet, trombone, 2 percussionists, harp, 2 violins, viola, violoncello, double bass</p>
+  <p>12' <a style="color: green"> <span class="nav-dot"></span> </a> Flute, oboe, clarinet, bassoon, French horn, trumpet, trombone, 2 percussionists, harp, 2 violins, viola, violoncello, and double bass</p>
   <p>More details coming soon.</p>
   <p>Commissioned by <a style="color: green">ArtZenter</a> for the <a style="color: green">San Francisco Contemporary Music Players</a>.</p>
 </details>
