@@ -8,6 +8,27 @@ This is a list of works by instrumentation. For a chronological list of works cl
 
 <br>
 
+Coming soon
+
+<details>
+  <summary><strong>Ping-Pong</strong></summary>
+  <p>2026 <a style="color: green"> <span class="nav-dot"></span> </a> <p>12' <a style="color: green"> <span class="nav-dot"></span> </a> Flute, oboe, clarinet, bassoon, French horn, trumpet, trombone, 2 percussionists, harp, 2 violins, viola, violoncello, double bass</p>
+  <p>More details coming soon.</p>
+  <p>Commissioned by <a style="color: green">ArtZenter</a> for the <a style="color: green">San Francisco Contemporary Music Players</a>.</p>
+</details>
+
+<details>
+  <summary><strong><em>New work</em> for baritone and piano</strong></summary>
+  <p>2028 <a style="color: green"> <span class="nav-dot"></span> </a> 10' <a style="color: green"> <span class="nav-dot"></span> </a> Baritone and piano</p>
+  <p>Song cycle. Details coming soon.</p>
+</details>
+
+<details>
+  <summary><strong><em>New work</em> for violoncello</strong></summary>
+  <p>2027 <a style="color: green"> <span class="nav-dot"></span> </a> 7' <a style="color: green"> <span class="nav-dot"></span> </a> Violoncello</p>
+  <p>Details coming soon.</p>
+</details>
+
 Orchestra and large ensemble
 
 <details>
@@ -149,25 +170,4 @@ Solo with electronics
   <summary><strong>Tessellated</strong></summary>
   <p>2022 <a style="color: green"> <span class="nav-dot"></span> </a> 14' <a style="color: green"> <span class="nav-dot"></span> </a> Alto saxophone and electronics</p>
   <p>Premiered by by <a style="color: green">Iñaki Bermudez</a> in March 2022 <em>(Paris, France)</em>.</p>
-</details>
-
-Coming soon
-
-<details>
-  <summary><strong>Ping-Pong</strong></summary>
-  <p>2026 <a style="color: green"> <span class="nav-dot"></span> </a> <p>12' <a style="color: green"> <span class="nav-dot"></span> </a> Flute, oboe, clarinet, bassoon, French horn, trumpet, trombone, 2 percussionists, harp, 2 violins, viola, violoncello, double bass</p>
-  <p>More details coming soon.</p>
-  <p>Commissioned by <a style="color: green">ArtZenter</a> for the <a style="color: green">San Francisco Contemporary Music Players</a>.</p>
-</details>
-
-<details>
-  <summary><strong><em>New work</em> for baritone and piano</strong></summary>
-  <p>2028 <a style="color: green"> <span class="nav-dot"></span> </a> 10' <a style="color: green"> <span class="nav-dot"></span> </a> Baritone and piano</p>
-  <p>Song cycle. Details coming soon.</p>
-</details>
-
-<details>
-  <summary><strong><em>New work</em> for violoncello</strong></summary>
-  <p>2027 <a style="color: green"> <span class="nav-dot"></span> </a> 7' <a style="color: green"> <span class="nav-dot"></span> </a> Violoncello</p>
-  <p>Details coming soon.</p>
 </details>
