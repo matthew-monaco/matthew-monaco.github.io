@@ -174,6 +174,6 @@ Coming Soon
 
 <details>
   <summary><strong>Sunbreak</strong></summary>
-  <p>12' <a style="color: green"> <span class="nav-dot"></span> </a> Orchestra</p>
+  <p>12' <a style="color: green"> <span class="nav-dot"></span> </a> Orchestra (2.2.2.2 / 2.2.2 / timp+1 / pno / strings)</p>
   <p>Premiered by the <a style="color: green">NEC Philharmonic, David Loebel</a> in May 2019 <em>(Boston, MA)</em>.</p>
 </details>
