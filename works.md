@@ -8,7 +8,7 @@ This is a chronological list of works. For a list of works sorted by instrumenta
 
 <br>
 
-<span style="color: green">Coming Soon</span>
+<span style="color: green">Coming soon</span>
 
 <details>
   <summary><strong>Ping-Pong</strong></summary>
