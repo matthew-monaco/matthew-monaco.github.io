@@ -11,24 +11,23 @@
 </head>
 
 <script>
-  document.addEventListener("DOMContentLoaded", () => {
-    const allDetails = Array.from(document.querySelectorAll("details"));
+document.addEventListener("DOMContentLoaded", () => {
+  const items = document.querySelectorAll("details");
 
-    allDetails.forEach((detail) => {
-      detail.addEventListener("click", () => {
-        // slight delay ensures the clicked <details> updates first
-        setTimeout(() => {
-          if (detail.open) {
-            allDetails.forEach((other) => {
-              if (other !== detail) {
-                other.open = false;
-              }
-            });
+  items.forEach((item) => {
+    item.addEventListener("click", (e) => {
+      const isOpening = !item.open;
+
+      if (isOpening) {
+        items.forEach((other) => {
+          if (other !== item) {
+            other.open = false;
           }
-        }, 0);
-      });
+        });
+      }
     });
   });
+});
 </script>
   
 <body>
