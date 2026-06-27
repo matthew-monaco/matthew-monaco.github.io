@@ -259,8 +259,8 @@ a:hover {
   font-weight: bold;
 }
 
-details > *:not(summary) {
-  animation: fadeIn 0.18s ease;
+details[open] > *:not(summary) {
+  animation: fadeIn 0.2s ease;
 }
 
 @keyframes fadeIn {
