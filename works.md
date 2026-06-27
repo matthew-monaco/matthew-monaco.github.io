@@ -8,7 +8,7 @@ This is a chronological list of works. For a list of works sorted by instrumenta
 
 <br>
 
-Coming Soon
+<span style="color: green">Coming Soon</span>
 
 <details>
   <summary><strong>Ping-Pong</strong></summary>
@@ -29,7 +29,7 @@ Coming Soon
   <p>Details coming soon.</p>
 </details>
 
-2026
+<span style="color: green">2026</span>
 
 <details>
   <summary><strong>Rock Paper Scissors</strong></summary>
@@ -50,7 +50,7 @@ Coming Soon
   <p>Commissioned by the <span style="color: green">Reaching the Limits</span> festival and <span style="color: green">CultureTones</span>.</p>
 </details>
 
-2025
+<span style="color: green">2025</span>
 
 <details>
   <summary><strong>Zagzig</strong></summary>
@@ -71,7 +71,7 @@ Coming Soon
   <p>Commissioned by the <span style="color: green">Royaumont Foundation</span> with the support of Christine Jolivet Erlih.</p>
 </details>
 
-2024
+<span style="color: green">2024</span>
 
 <details>
   <summary><strong>Blur</strong></summary>
@@ -85,7 +85,7 @@ Coming Soon
   <p>Premiered by the <span style="color: green">Del Sol Quartet</span> in April, 2024 <em>(Berkeley, CA)</em>.</p>
 </details>
 
-2023
+<span style="color: green">2023</span>
 
 <details>
   <summary><strong>Split</strong></summary>
@@ -105,7 +105,7 @@ Coming Soon
   <p>Premiered by <span style="color: green">Richard Worn</span> in April 2023 <em>(Berkeley, CA)</em>.</p>
 </details>
 
-2022
+<span style="color: green">2022</span>
 
 <details>
   <summary><strong>Stray</strong></summary>
@@ -119,7 +119,7 @@ Coming Soon
   <p>Premiered by by <span style="color: green">Iñaki Bermudez</span> in March 2022 <em>(Paris, France)</em>.</p>
 </details>
 
-2021
+<span style="color: green">2021</span>
 
 <details>
   <summary><strong>Spirals, Orbits, and Circular Paths</strong></summary>
@@ -133,7 +133,7 @@ Coming Soon
   <p>Premiered by <span style="color: green">Iñaki Bermudez</span> in May 2021 <em>(Paris, France)</em>.</p>
 </details>
 
-2020
+<span style="color: green">2020</span>
 
 <details>
   <summary><strong>Scaling</strong></summary>
@@ -152,7 +152,7 @@ Coming Soon
   <p>Premiered by <span style="color: green">Alinéa, Ty Bouque, Tristan Rais-Sherman</span> in January 2020 <em>(Boston, MA)</em>.</p>
 </details>
 
-2019
+<span style="color: green">2019</span>
 
 <details>
   <summary><strong>Quartet</strong></summary>
