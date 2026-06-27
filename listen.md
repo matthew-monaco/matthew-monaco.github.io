@@ -15,6 +15,7 @@ permalink: /listen
   </a>
 </p>
 
+<br>
 <span class="green-bold">Video</span>
 
 <p class="listen-item">
@@ -40,6 +41,7 @@ permalink: /listen
   </a>
 </p>
 
+<br>
 <span class="green-bold">Solo</span>
 
 <p class="listen-item">
@@ -48,6 +50,7 @@ permalink: /listen
   </a>
 </p>
 
+<br>
 <span class="green-bold">Trio Improvisations (CMM Trio)</span>
 
 <p class="listen-item">
