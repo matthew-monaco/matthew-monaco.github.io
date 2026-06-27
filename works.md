@@ -12,20 +12,20 @@ Coming Soon
 
 <details>
   <summary><strong>Ping-Pong</strong></summary>
-  <p>12' <a style="color: green"> <span class="nav-dot"></span> </a> Flute, oboe, clarinet, bassoon, French horn, trumpet, trombone, 2 percussionists, harp, 2 violins, viola, violoncello, and double bass</p>
+  <p>12' <span style="color: green"> <span class="nav-dot"></span> </span> Flute, oboe, clarinet, bassoon, French horn, trumpet, trombone, 2 percussionists, harp, 2 violins, viola, violoncello, and double bass</p>
   <p>More details coming soon.</p>
-  <p>Commissioned by <a style="color: green">ArtZenter</a> for the <a style="color: green">San Francisco Contemporary Music Players</a>.</p>
+  <p>Commissioned by <span style="color: green">ArtZenter</span> for the <a style="color: green">San Francisco Contemporary Music Players</a>.</p>
 </details>
 
 <details>
   <summary><strong><em>New work</em> for baritone and piano</strong></summary>
-  <p>10' <a style="color: green"> <span class="nav-dot"></span> </a> Baritone and piano</p>
+  <p>10' <span style="color: green"> <span class="nav-dot"></span> </span> Baritone and piano</p>
   <p>Song cycle. Details coming soon.</p>
 </details>
 
 <details>
   <summary><strong><em>New work</em> for violoncello</strong></summary>
-  <p>7' <a style="color: green"> <span class="nav-dot"></span> </a> Violoncello</p>
+  <p>7' <span style="color: green"> <span class="nav-dot"></span> </span> Violoncello</p>
   <p>Details coming soon.</p>
 </details>
 
