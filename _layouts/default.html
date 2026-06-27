@@ -11,17 +11,22 @@
 </head>
 
 <script>
-  const details = document.querySelectorAll("details");
+  document.addEventListener("DOMContentLoaded", () => {
+    const allDetails = Array.from(document.querySelectorAll("details"));
 
-  details.forEach((targetDetail) => {
-    targetDetail.addEventListener("toggle", () => {
-      if (targetDetail.open) {
-        details.forEach((detail) => {
-          if (detail !== targetDetail) {
-            detail.removeAttribute("open");
+    allDetails.forEach((detail) => {
+      detail.addEventListener("click", () => {
+        // slight delay ensures the clicked <details> updates first
+        setTimeout(() => {
+          if (detail.open) {
+            allDetails.forEach((other) => {
+              if (other !== detail) {
+                other.open = false;
+              }
+            });
           }
-        });
-      }
+        }, 0);
+      });
     });
   });
 </script>
