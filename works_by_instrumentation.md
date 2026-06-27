@@ -8,7 +8,7 @@ This is a list of works by instrumentation. For a chronological list of works cl
 
 <br>
 
-<span style="color: green">Coming soon</span>
+<span class="green-bold">Coming soon</span>
 
 <details>
   <summary><strong>Ping-Pong</strong></summary>
@@ -29,7 +29,7 @@ This is a list of works by instrumentation. For a chronological list of works cl
   <p>Details coming soon.</p>
 </details>
 
-<span style="color: green">Orchestra and large ensemble</span>
+<span class="green-bold">Orchestra and large ensemble</span>
 
 <details>
   <summary><strong>Stray</strong></summary>
@@ -43,7 +43,7 @@ This is a list of works by instrumentation. For a chronological list of works cl
   <p>Premiered by the <span style="color: green">NEC Philharmonic, David Loebel</span> in May 2019 <em>(Boston, MA)</em>.</p>
 </details>
 
-<span style="color: green">Ensemble</span>
+<span class="green-bold">Ensemble</span>
 
 <details>
   <summary><strong>Thread</strong></summary>
@@ -87,7 +87,7 @@ This is a list of works by instrumentation. For a chronological list of works cl
   <p>Premiered by <span style="color: green">Alinéa, Ty Bouque, Tristan Rais-Sherman</span> in January 2020 <em>(Boston, MA)</em>.</p>
 </details>
 
-<span style="color: green">Chamber</span>
+<span class="green-bold">Chamber</span>
 
 <details>
   <summary><strong>Rock Paper Scissors</strong></summary>
@@ -126,7 +126,7 @@ This is a list of works by instrumentation. For a chronological list of works cl
   <p>Premiered by members of <span style="color: green">Ensemble Linea</span> at the <span style="color: green">Etchings Festival</span> in June 2019 <em>(Auvillar, France)</em>.</p>
 </details>
 
-<span style="color: green">Solo</span>
+<span class="green-bold">Solo</span>
 
 <details>
   <summary><strong>I've Heard That Song Before</strong></summary>
@@ -152,7 +152,7 @@ This is a list of works by instrumentation. For a chronological list of works cl
   <p>Premiered by <span style="color: green">Iñaki Bermudez</span> in May 2021 <em>(Paris, France)</em>.</p>
 </details>
 
-<span style="color: green">Solo with electronics</span>
+<span class="green-bold">Solo with electronics</span>
 
 <details>
   <summary><strong>Blur</strong></summary>
