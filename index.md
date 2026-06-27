@@ -10,13 +10,13 @@ I am a Paris-based composer and pianist, originally from New Jersey. Feel free t
 
 <img src="IMG_9929_0.jpg" alt="Headshot" width="300">
 
-<a style="color: green">Upcoming events</a>
+<span class="green-bold">Upcoming events</span>
 
 <p>19 Sep. -  Premiere of <strong>Zagzig</strong> by Ninon Hannecart-Ségal at the Elisabeth Chojnacka Festival <em>(Rybna, Poland)</em></p>
 <p>Sep. - Performance of <strong>I've Heard That Song Before</strong> by Maria Eleonara Caminada <em>(Italy)</em></p>
 
 <br>
-<a style="color: green">Past events</a>
+<span class="green-bold">Past events (2026)</span>
 
 <p>25 Jun. - Premiere of <strong>Rock Paper Scissors</strong> at Bled Contemporary Music Week <em>(Bled, Slovenia)</em></p>
 <p>20 May - Premiere of <strong>I've Heard That Song Before</strong> by Maria Eleonara Caminada <em>(Milan, Italy)</em></p>
