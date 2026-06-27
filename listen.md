@@ -7,7 +7,7 @@ permalink: /listen
 
 ### Compositions
 
-#### Audio
+<span class="green-bold">Audio</span>
 
 <p class="listen-item">
 <a href="https://soundcloud.com/matthewtmonaco" target="_blank" rel="noopener">
@@ -15,7 +15,7 @@ permalink: /listen
   </a>
 </p>
 
-#### Videos
+<span class="green-bold">Video</span>
 
 <p class="listen-item">
   <a href="https://www.youtube.com/watch?v=RuL0ushx5a0&list=RDRuL0ushx5a0&start_radio=1&ab_channel=Royaumont" target="_blank" rel="noopener">
@@ -32,7 +32,7 @@ permalink: /listen
 <br>
 ### Improvisations and Collaborations
 
-#### Duo performance with Myra Melford
+<span class="green-bold">Duo performance with Myra Melford</span>
 
 <p class="listen-item">
   <a href="https://soundcloud.com/matthewtmonaco/thrum" target="_blank" rel="noopener">
@@ -40,7 +40,7 @@ permalink: /listen
   </a>
 </p>
 
-#### Solo
+<span class="green-bold">Solo</span>
 
 <p class="listen-item">
   <a href="https://www.youtube.com/watch?v=8I3eImyJudY&ab_channel=MatthewMonaco" target="_blank" rel="noopener">
@@ -48,7 +48,7 @@ permalink: /listen
   </a>
 </p>
 
-#### Trio improvisations (CMM Trio)
+<span class="green-bold">Trio Improvisations (CMM Trio)</span>
 
 <p class="listen-item">
   <a href="https://cmmtrio.bandcamp.com/album/live-in-berkeley" target="_blank" rel="noopener">
