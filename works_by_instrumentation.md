@@ -12,7 +12,7 @@ Coming soon
 
 <details>
   <summary><strong>Ping-Pong</strong></summary>
-  <p>2026 <a style="color: green"> <span class="nav-dot"></span> </a> 12' <a style="color: green"> <span class="nav-dot"></span> </a> Flute, oboe, clarinet, bassoon, French horn, trumpet, trombone, 2 percussionists, harp, 2 violins, viola, violoncello, and double bass</p>
+  <p>2027 <a style="color: green"> <span class="nav-dot"></span> </a> 12' <a style="color: green"> <span class="nav-dot"></span> </a> Flute, oboe, clarinet, bassoon, French horn, trumpet, trombone, 2 percussionists, harp, 2 violins, viola, violoncello, and double bass</p>
   <p>More details coming soon.</p>
   <p>Commissioned by <a style="color: green">ArtZenter</a> for the <a style="color: green">San Francisco Contemporary Music Players</a>.</p>
 </details>
@@ -157,7 +157,7 @@ Solo with electronics
 <details>
   <summary><strong>Blur</strong></summary>
   <p>2024 <a style="color: green"> <span class="nav-dot"></span> </a> 8' <a style="color: green"> <span class="nav-dot"></span> </a> Contrabass clarinet and electronics</p>
-  <p>Premiered by <a style="color: green">Alain Billard</a> at the <a style="color: green">ManiFeste</a> festival in June, 2024 <em>(Paris, France)</em>.</p>
+  <p>Premiered by <a style="color: green">Alain Billard</a> at the <a style="color: green">ManiFeste</a> festival at <a style="color: green">Ircam</a> in June, 2024 <em>(Paris, France)</em>.</p>
 </details>
 
 <details>
