@@ -76,7 +76,7 @@ Coming Soon
 <details>
   <summary><strong>Blur</strong></summary>
   <p>8' <a style="color: green"> <span class="nav-dot"></span> </a> Contrabass clarinet and electronics</p>
-  <p>Premiered by <a style="color: green">Alain Billard</a> at the <a style="color: green">ManiFeste</a> festival in June, 2024 <em>(Paris, France)</em>.</p>
+  <p>Premiered by <a style="color: green">Alain Billard</a> at the <a style="color: green">ManiFeste</a> festival at <a style="color: green">Ircam</a> in June, 2024 <em>(Paris, France)</em>.</p>
 </details>
 
 <details>
