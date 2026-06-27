@@ -10,6 +10,22 @@
   <link rel="icon" type="image/png" href="Green_M.png">
 </head>
 
+<script>
+  const details = document.querySelectorAll("details");
+
+  details.forEach((targetDetail) => {
+    targetDetail.addEventListener("toggle", () => {
+      if (targetDetail.open) {
+        details.forEach((detail) => {
+          if (detail !== targetDetail) {
+            detail.removeAttribute("open");
+          }
+        });
+      }
+    });
+  });
+</script>
+  
 <body>
 
 <header class="site-header">
