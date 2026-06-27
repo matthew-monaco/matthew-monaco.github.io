@@ -92,7 +92,7 @@ Chamber
 <details>
   <summary><strong>Rock Paper Scissors</strong></summary>
   <p>2026 <a style="color: green"> <span class="nav-dot"></span> </a> 7' <a style="color: green"> <span class="nav-dot"></span> </a> Flute, violin, and piano</p>
-  <p>To be premiered in June 2026 as part of <a style="color: green">Bled Contemporary Music Week</a> <em>(Bled, Slovenia)</em>.</p>
+  <p>Premiered by Hana Zvagen, Bohdan Doroshenko, and Francesco Campora as part of <a style="color: green">Bled Contemporary Music Week</a> in June, 2026 <em>(Bled, Slovenia)</em>.</p>
 </details>
 
 <details>
