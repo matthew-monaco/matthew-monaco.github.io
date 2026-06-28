@@ -50,11 +50,9 @@ permalink: /listen
 }
 </style>
 
----
 
-## Compositions
 
-### Audio
+
 
 <a href="https://soundcloud.com/matthewtmonaco">Recordings of most of my notated music can be found <strong>here</strong></a>
 
@@ -68,9 +66,7 @@ permalink: /listen
 
 </div>
 
----
 
-### Video
 
 <span class="green-bold">Performances by Ensemble Court-circuit and Ensemble intercontemporain</span>
 
@@ -92,9 +88,6 @@ permalink: /listen
 
 </div>
 
----
-
-## Improvisations and Collaborations
 
 <span class="green-bold">Duo performance with Myra Melford</span>
 
@@ -108,7 +101,7 @@ permalink: /listen
 
 </div>
 
----
+
 <span class="green-bold">Solo improvisations</span>
 
 <div class="media-grid">
@@ -128,7 +121,7 @@ permalink: /listen
 
 </div>
 
----
+
 <span class="green-bold">Trio improvisations (CMM Trio)</span>
 
 <a href="https://cmmtrio.bandcamp.com/album/live-in-berkeley">
