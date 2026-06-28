@@ -4,10 +4,6 @@ title: Works (by instrumentation) | Matthew Monaco
 permalink: /works_by_instrumentation
 ---
 
-This is a list of works by instrumentation. For a chronological list of works click <a href="/works"><strong>here</strong></a>. For improvised works, click <a href="/listen"><strong>here</strong></a>.
-
-<br>
-
 <span class="green-bold">Coming soon</span>
 
 <details>
