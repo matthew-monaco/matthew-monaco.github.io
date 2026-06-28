@@ -89,4 +89,13 @@ permalink: /listen
 
 <a href="https://cmmtrio.bandcamp.com/album/live-in-berkeley">Listen/buy <strong>here</strong></a> or <a href="https://open.spotify.com/album/4iauZxL3PfG5TKyKZJAsPs?si=DTq-50U7TKGEM1J9oOs-fg"><strong>here</strong></a>
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2420668415/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://cmmtrio.bandcamp.com/album/live-in-berkeley">Live in Berkeley by Corder Monaco Muntz</a></iframe>
+<iframe
+  style="border-radius:12px"
+  src="https://open.spotify.com/embed/album/4iauZxL3PfG5TKyKZJAsPs?utm_source=generator"
+  width="100%"
+  height="352"
+  frameborder="0"
+  allowfullscreen=""
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy">
+</iframe>
