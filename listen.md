@@ -11,12 +11,40 @@ permalink: /listen
 
 <a href="https://soundcloud.com/matthewtmonaco">Recordings of most of my notated music can be found <strong>here</strong></a>
 
+<iframe
+  width="100%"
+  height="166"
+  scrolling="no"
+  frameborder="no"
+  allow="autoplay"
+  src="https://w.soundcloud.com/player/?url=https%3A//https://soundcloud.com/matthewtmonaco">
+</iframe>
+
+
 <br>
 <span class="green-bold">Video</span>
 
 <a href="https://www.youtube.com/watch?v=RuL0ushx5a0&list=RDRuL0ushx5a0&start_radio=1&ab_channel=Royaumont">Watch a performance of <em>Mesh</em> with Ensemble Court-circuit <strong>here</strong></a>
 
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/RuL0ushx5a0"
+  title="Mesh"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+
 <a href="https://www.youtube.com/watch?v=t6OVz_XPd8w&list=RDt6OVz_XPd8w&start_radio=1&ab_channel=MatthewMonaco">Watch a performance of <em>Scaling</em> with Ensemble intercontemporain <strong>here</strong></a>
+
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/watch?v=t6OVz_XPd8w&list=RDt6OVz_XPd8w&start_radio=1&ab_channel=MatthewMonaco"
+  title="Mesh"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
 
 
 <br>
@@ -39,6 +67,16 @@ permalink: /listen
 <span class="green-bold">Solo improvisations</span>
 
 <a href="https://www.youtube.com/watch?v=8I3eImyJudY&ab_channel=MatthewMonaco">Watch <strong>here</strong></a>
+
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/watch?v=8I3eImyJudY&ab_channel=MatthewMonaco"
+  title="Mesh"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+
 
 <a href="https://cmmtrio.bandcamp.com/track/solo-piano">Listen <strong>here</strong></a>
 
