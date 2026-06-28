@@ -115,30 +115,7 @@ body {
   display: inline-block;
 }
 
-.dropdown-toggle {
-  background: none;
-  border: none;
-  padding: 4px 6px;
-
-  font: inherit;
-  font-weight: bold;
-  color: black;
-
-  cursor: pointer;
-  border-radius: 5px;
-
-  transition: transform 0.15s ease,
-              color 0.15s ease,
-              background 0.15s ease;
-}
-
-.dropdown-toggle:hover,
-.dropdown-toggle:focus {
-  color: forestgreen;
-  background: rgba(0,128,0,.08);
-  outline: none;
-}
-
+/* menu panel */
 .dropdown-content {
   position: absolute;
   top: 100%;
@@ -156,28 +133,37 @@ body {
 
   opacity: 0;
   visibility: hidden;
+  pointer-events: none;
 
   transition: opacity .2s ease;
   z-index: 1000;
 }
 
-.dropdown:hover .dropdown-content,
+/* desktop hover */
+.dropdown:hover .dropdown-content {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+}
+
+/* mobile + keyboard support */
 .dropdown:focus-within .dropdown-content {
   opacity: 1;
   visibility: visible;
+  pointer-events: auto;
 }
 
+/* items */
 .dropdown-content a {
   display: block;
   padding: 8px 16px;
-
   text-align: center;
-  text-decoration: none;
-  color: black;
+
+  transform: none; /* IMPORTANT: cancels global hover scaling */
 }
 
 .dropdown-content a:hover {
-  background: rgba(0,128,0,.08);
+  background: rgba(0, 128, 0, 0.08);
   color: forestgreen;
 }
 
@@ -347,4 +333,18 @@ details[open] > *:not(summary) {
     opacity: 1;
     transform: translateY(0);
   }
+}
+
+/* =========================
+   Dropdown fixes
+========================= */
+
+.site-header {
+  position: relative;
+  z-index: 9999;
+}
+
+.nav-wrap {
+  position: relative;
+  z-index: 9999;
 }
