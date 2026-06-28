@@ -15,10 +15,9 @@ Recordings of most of my notated music can be found on my <a href="https://sound
 <span class="green-bold">Video</span>
 
 <a href="https://www.youtube.com/watch?v=RuL0ushx5a0&list=RDRuL0ushx5a0&start_radio=1&ab_channel=Royaumont"><strong>Watch</strong> a performance of <em>Mesh</em> with Ensemble Court-circuit.</a>.
-<strong>Watch</strong> a performance of <em>Mesh</em>.
 
-<a href="https://www.youtube.com/watch?v=t6OVz_XPd8w&list=RDt6OVz_XPd8w&start_radio=1&ab_channel=MatthewMonaco"><strong>Watch</strong> a performance of <em>Sacling</em> with Ensemble intercontemporain.</a>.
-<strong>Watch</strong> a performance of <em>Mesh</em>.
+<a href="https://www.youtube.com/watch?v=t6OVz_XPd8w&list=RDt6OVz_XPd8w&start_radio=1&ab_channel=MatthewMonaco"><strong>Watch</strong> a performance of <em>Scaling</em> with Ensemble intercontemporain.</a>.
+
 
 <br>
 ### Improvisations and Collaborations
