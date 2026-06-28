@@ -15,21 +15,19 @@ document.addEventListener("DOMContentLoaded", () => {
   const items = document.querySelectorAll("details");
 
   items.forEach((item) => {
-    item.addEventListener("click", (e) => {
+    item.addEventListener("click", () => {
       const isOpening = !item.open;
 
       if (isOpening) {
         items.forEach((other) => {
-          if (other !== item) {
-            other.open = false;
-          }
+          if (other !== item) other.open = false;
         });
       }
     });
   });
 });
 </script>
-  
+
 <body>
 
 <header class="site-header">
@@ -44,16 +42,27 @@ document.addEventListener("DOMContentLoaded", () => {
     <nav class="site-nav">
 
       <a href="/" class="nav-link {% if page.url == '/' %}active{% endif %}">Home</a>
-      <span class="nav-dot">▪</span>
+      <span class="nav-dot"></span>
 
       <a href="/about" class="nav-link {% if page.url contains 'about' %}active{% endif %}">About</a>
-      <span class="nav-dot">▪</span>
+      <span class="nav-dot"></span>
 
-      <a href="/works" class="nav-link {% if page.url contains 'works' %}active{% endif %}">Works</a>
-      <span class="nav-dot">▪</span>
+      <!-- DROPDOWN -->
+      <div class="dropdown">
+        <a class="nav-link {% if page.url contains 'works' %}active{% endif %}">
+          Works
+        </a>
+
+        <div class="dropdown-content">
+          <a href="/works_chronological">Chronological</a>
+          <a href="/works_by_instrumentation">By instrumentation</a>
+        </div>
+      </div>
+
+      <span class="nav-dot"></span>
 
       <a href="/listen" class="nav-link {% if page.url contains 'listen' %}active{% endif %}">Listen</a>
-      <span class="nav-dot">▪</span>
+      <span class="nav-dot"></span>
 
       <a href="/writings" class="nav-link {% if page.url contains 'writings' %}active{% endif %}">Writings</a>
 
@@ -91,7 +100,7 @@ document.addEventListener("DOMContentLoaded", () => {
   </div>
 
   <hr class="divider" />
-  
+
   <div class="footer-text">
     © Matthew Monaco, 2026
   </div>
