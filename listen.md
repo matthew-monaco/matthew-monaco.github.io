@@ -9,11 +9,7 @@ permalink: /listen
 
 <span class="green-bold">Audio</span>
 
-<p>Recordings of most of my notated music can be found on my <p class="listen-item">
-<a href="https://soundcloud.com/matthewtmonaco" target="_blank" rel="noopener">
-    <strong>SoundCloud</strong>
-  </a>
-</p>
+Recordings of most of my notated music can be found on my <a href="https://soundcloud.com/matthewtmonaco"><strong>SouncCloud</strong></a>.
 
 <br>
 <span class="green-bold">Video</span>
