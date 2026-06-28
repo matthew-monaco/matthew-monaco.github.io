@@ -48,16 +48,16 @@ document.addEventListener("DOMContentLoaded", () => {
       <span class="nav-dot"></span>
 
       <!-- DROPDOWN -->
-      <div class="dropdown">
-        <a class="nav-link {% if page.url contains 'works' %}active{% endif %}">
-          Works
-        </a>
+    <div class="nav-dropdown">
+  <span class="nav-link {% if page.url contains 'works' %}active{% endif %}">
+    Works
+  </span>
 
-        <div class="dropdown-content">
-          <a href="/works_chronological">Chronological</a>
-          <a href="/works_by_instrumentation">By instrumentation</a>
-        </div>
-      </div>
+  <div class="dropdown-content">
+    <a href="/works_chronological">Chronological</a>
+    <a href="/works_by_instrumentation">By instrumentation</a>
+  </div>
+</div>
 
       <span class="nav-dot"></span>
 
