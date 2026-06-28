@@ -49,8 +49,10 @@ document.addEventListener("DOMContentLoaded", () => {
       <a href="/about" class="nav-link {% if page.url contains 'about' %}active{% endif %}">About</a>
       <span class="nav-dot">▪</span>
 
-     <div class="dropdown">
-  <span class="nav-link">Works</span>
+    <div class="dropdown">
+  <span class="nav-link {% if page.url contains 'works' %}active{% endif %}">
+    Works
+  </span>
 
   <div class="dropdown-content">
     <a href="/works_chronological">Chronological</a>
