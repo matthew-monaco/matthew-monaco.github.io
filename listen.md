@@ -4,12 +4,6 @@ title: Listen | Matthew Monaco
 permalink: /listen
 ---
 
----
-layout: default
-title: Listen | Matthew Monaco
-permalink: /listen
----
-
 <style>
 .media-section {
   margin: 2.5rem 0;
