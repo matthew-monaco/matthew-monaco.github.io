@@ -13,11 +13,11 @@ permalink: /listen
 
 <iframe
   width="100%"
-  height="166"
+  height="450"
   scrolling="no"
   frameborder="no"
   allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//https://soundcloud.com/matthewtmonaco">
+  src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=true">
 </iframe>
 
 
