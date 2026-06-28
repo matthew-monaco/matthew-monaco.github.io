@@ -40,9 +40,10 @@ permalink: /listen
 <iframe
   width="560"
   height="315"
-  src="https://www.youtube.com/watch?v=t6OVz_XPd8w&list=RDt6OVz_XPd8w&start_radio=1&ab_channel=MatthewMonaco"
-  title="Mesh"
+  src="https://www.youtube.com/embed/t6OVz_XPd8w"
+  title="Scaling – Ensemble intercontemporain"
   frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
 
@@ -71,9 +72,10 @@ permalink: /listen
 <iframe
   width="560"
   height="315"
-  src="https://www.youtube.com/watch?v=8I3eImyJudY&ab_channel=MatthewMonaco"
-  title="Mesh"
+  src="https://www.youtube.com/embed/8I3eImyJudY"
+  title="Solo Piano Improvisation"
   frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
 
