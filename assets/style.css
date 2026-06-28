@@ -106,6 +106,49 @@ body {
   transform: none;
 }
 
+/* Navigation dropdown */
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+
+  padding-top: 8px;
+  min-width: 180px;
+
+  text-align: center;
+  z-index: 100;
+}
+
+.dropdown-content a {
+  display: block;
+  padding: 4px 0;
+
+  color: black;
+  text-decoration: none;
+  font-weight: normal;
+  font-size: 0.95em;
+
+  background: transparent;
+}
+
+.dropdown-content a:hover {
+  color: forestgreen;
+  background: rgba(0,128,0,.08);
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
 /* =========================
    DROPDOWN
 ========================= */
