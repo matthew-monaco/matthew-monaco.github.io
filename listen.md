@@ -112,8 +112,6 @@ Recordings of most of my notated music can be found <strong>here</strong>
 
 ### Solo improvisations
 
-<a href="https://www.youtube.com/watch?v=8I3eImyJudY">Watch <strong>here</strong></a>
-
 <div class="media-grid">
 
   <div class="media-item">
@@ -123,27 +121,27 @@ Recordings of most of my notated music can be found <strong>here</strong>
     </iframe>
   </div>
 
-  <div class="media-item soundcloud">
+  <div class="media-item">
     <iframe
-      src="https://cmmtrio.bandcamp.com/track/solo-piano/embedded"
-      seamless>
-      <a href="https://cmmtrio.bandcamp.com/track/solo-piano">
-        Solo Piano
-      </a>
-    </iframe>
-  </div>
-
-  <div class="media-item soundcloud">
-    <iframe
-      src="https://cmmtrio.bandcamp.com/track/trio-groupings/embedded"
-      seamless>
-      <a href="https://cmmtrio.bandcamp.com/track/trio-groupings">
-        Trio Groupings
-      </a>
+      src="https://open.spotify.com/embed/track/08mOhbZzMJBzf7SDbh4Xrf?utm_source=generator">
     </iframe>
   </div>
 
 </div>
+
+---
+
+### Trio Improvisations (CMM Trio)
+
+<a href="https://cmmtrio.bandcamp.com/album/live-in-berkeley">
+Listen/buy <strong>here</strong>
+</a>
+
+<div class="media-grid">
+
+  <div class="media-item spotify-album">
+    <iframe
+      src="https://open.spotify.com/embed/album/4iauZxL3PfG5TKyKZJAsPs?utm_source=generator">
     </iframe>
   </div>
 
