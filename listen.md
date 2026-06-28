@@ -56,8 +56,7 @@ permalink: /listen
 
 ### Audio
 
-Recordings of most of my notated music can be found <strong>here</strong>
-</a>
+<a href="https://soundcloud.com/matthewtmonaco">Recordings of most of my notated music can be found <strong>here</strong></a>
 
 <div class="media-grid">
 
@@ -133,7 +132,7 @@ Recordings of most of my notated music can be found <strong>here</strong>
 <span class="green-bold">Trio improvisations (CMM Trio)</span>
 
 <a href="https://cmmtrio.bandcamp.com/album/live-in-berkeley">
-Listen/buy <strong>here</strong>
+Buy <strong>here</strong>
 </a>
 
 <div class="media-grid">
