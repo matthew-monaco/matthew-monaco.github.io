@@ -26,6 +26,9 @@ body {
   align-items: center;
   padding: 18px 10px 8px;
   text-align: center;
+
+  position: relative;
+  z-index: 1000;
 }
 
 .site-title {
@@ -39,18 +42,19 @@ body {
   color: forestgreen;
 }
 
-/* clean green square separator */
-.dot {
-  display: inline-block;
+/* nav dot */
+.nav-dot {
   width: 6px;
   height: 6px;
   background: forestgreen;
+  display: inline-block;
   vertical-align: middle;
 }
 
+/* divider */
 .divider {
   width: 100%;
-  max-width: 700px; /* key control */
+  max-width: 700px;
   margin: 10px auto;
 }
 
@@ -78,7 +82,7 @@ body {
   padding: 4px 6px;
   border-radius: 5px;
   display: inline-block;
-  transition: transform 0.15s ease, color 0.15s ease, background 0.15s ease;
+  transition: color 0.15s ease, background 0.15s ease;
 }
 
 .nav-link:hover {
@@ -86,53 +90,56 @@ body {
   background: rgba(0, 128, 0, 0.08);
 }
 
-.nav-link:hover span {   
-  transform: scale(1.05);
-}
-
 .nav-link.active {
   color: forestgreen;
 }
 
-/* clean nav separator (NO font glyphs) */
-.nav-dot {
-  width: 6px;
-  height: 6px;
-  background: forestgreen;
-  display: inline-block;
-  flex: 0 0 6px;
-  line-height: 0;
-  font-size: 0;
-  transform: none;
-}
-
 /* =========================
-   DROPDOWN
+   DROPDOWN (WORKS)
 ========================= */
 
-details > summary {
-  list-style: none;
-  cursor: pointer;
-  padding: 10px;
-  border-radius: 6px;
-  transition: 0.2s ease;
+.dropdown {
+  position: relative;
   display: inline-block;
-  -webkit-tap-highlight-color: transparent;
 }
 
-details > summary::-webkit-details-marker {
+.dropdown-content {
   display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+
+  min-width: 220px;
+  background: #f2f2f2;
+
+  border-radius: 6px;
+  padding: 6px 0;
+
+  z-index: 9999;
+
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
 }
 
-details > summary:hover,
-details[open] > summary {
+/* show dropdown */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-content a {
+  display: block;
+  padding: 10px 14px;
+  white-space: nowrap;
+
+  color: black;
+  text-decoration: none;
+
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+/* dropdown hover */
+.dropdown-content a:hover {
   background: rgba(0, 128, 0, 0.08);
   color: forestgreen;
-}
-
-details > *:not(summary) {
-  margin-top: 8px;
-  margin-left: 18px;
 }
 
 /* =========================
@@ -197,29 +204,18 @@ details > *:not(summary) {
 }
 
 /* =========================
-   IMAGES
-========================= */
-
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* =========================
-   LINKS (SINGLE SYSTEM ONLY)
+   LINKS (FIXED GLOBAL RULE)
 ========================= */
 
 a {
   color: black;
   text-decoration: none;
-  transition: color 0.2s ease, background-color 0.2s ease, transform 0.2s ease;
+  transition: color 0.2s ease, background-color 0.2s ease;
 }
 
 a:hover {
   color: forestgreen;
   background-color: rgba(0, 128, 0, 0.08);
-  transform: scale(1.05);
 }
 
 /* =========================
@@ -253,23 +249,8 @@ a:hover {
   to { opacity: 1; }
 }
 
-/* Bold green non-hyperlink text */
+/* green emphasis text */
 .green-bold {
   color: forestgreen;
   font-weight: bold;
-}
-
-details[open] > *:not(summary) {
-  animation: fadeIn 0.8s ease;
-}
-
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(-3px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
 }
