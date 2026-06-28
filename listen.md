@@ -4,106 +4,151 @@ title: Listen | Matthew Monaco
 permalink: /listen
 ---
 
+---
+layout: default
+title: Listen | Matthew Monaco
+permalink: /listen
+---
 
-### Compositions
+<style>
+.media-section {
+  margin: 2.5rem 0;
+}
 
-<span class="green-bold">Audio</span>
+.green-bold {
+  color: #2e8b57;
+  font-weight: 600;
+}
 
-<a href="https://soundcloud.com/matthewtmonaco">Recordings of most of my notated music can be found <strong>here</strong></a>
+/* GRID SYSTEM */
+.media-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
 
-<iframe
-  width="100%"
-  height="450"
-  scrolling="no"
-  frameborder="no"
-  allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=true">
-</iframe>
+/* CARD */
+.media-item {
+  border-radius: 12px;
+  overflow: hidden;
+  background: #000;
+  aspect-ratio: 16 / 9;
+}
 
+/* Make all embeds fill container */
+.media-item iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
 
-<br>
-<span class="green-bold">Video</span>
+/* SoundCloud taller embeds override */
+.media-item.soundcloud {
+  aspect-ratio: auto;
+  height: 166px;
+}
 
-<a href="https://www.youtube.com/watch?v=RuL0ushx5a0&list=RDRuL0ushx5a0&start_radio=1&ab_channel=Royaumont">Watch a performance of <em>Mesh</em> with Ensemble Court-circuit <strong>here</strong></a>
+/* Spotify album override */
+.media-item.spotify-album {
+  aspect-ratio: auto;
+  height: 352px;
+}
+</style>
 
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/RuL0ushx5a0"
-  title="Mesh"
-  frameborder="0"
-  allowfullscreen>
-</iframe>
+---
 
-<a href="https://www.youtube.com/watch?v=t6OVz_XPd8w&list=RDt6OVz_XPd8w&start_radio=1&ab_channel=MatthewMonaco">Watch a performance of <em>Scaling</em> with Ensemble intercontemporain <strong>here</strong></a>
+## Compositions
 
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/t6OVz_XPd8w"
-  title="Scaling – Ensemble intercontemporain"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
+### Audio
 
+<a href="https://soundcloud.com/matthewtmonaco">
+Recordings of most of my notated music can be found <strong>here</strong>
+</a>
 
-<br>
-### Improvisations and Collaborations
+<div class="media-grid">
 
-<span class="green-bold">Duo performance with Myra Melford</span>
+  <div class="media-item soundcloud">
+    <iframe
+      src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco&visual=true">
+    </iframe>
+  </div>
 
-<a href="https://soundcloud.com/matthewtmonaco/thrum" target="_blank">Listen <strong>here</strong></a>
+</div>
 
-<iframe
-  width="100%"
-  height="166"
-  scrolling="no"
-  frameborder="no"
-  allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thrum">
-</iframe>
+---
 
-<br>
-<span class="green-bold">Solo improvisations</span>
+### Video
 
-<a href="https://www.youtube.com/watch?v=8I3eImyJudY&ab_channel=MatthewMonaco">Watch <strong>here</strong></a>
+<div class="media-grid">
 
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/8I3eImyJudY"
-  title="Solo Piano Improvisation"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
+  <div class="media-item">
+    <iframe
+      src="https://www.youtube.com/embed/RuL0ushx5a0"
+      title="Mesh">
+    </iframe>
+  </div>
 
+  <div class="media-item">
+    <iframe
+      src="https://www.youtube.com/embed/t6OVz_XPd8w"
+      title="Scaling – Ensemble intercontemporain">
+    </iframe>
+  </div>
 
-<a href="https://cmmtrio.bandcamp.com/track/solo-piano">Listen <strong>here</strong></a>
+</div>
 
-<iframe
-  style="border-radius:12px"
-  src="https://open.spotify.com/embed/track/08mOhbZzMJBzf7SDbh4Xrf?utm_source=generator"
-  width="100%"
-  height="152"
-  frameborder="0"
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-  loading="lazy">
-</iframe>
+---
 
-<br>
-<span class="green-bold">Trio Improvisations (CMM Trio)</span>
+## Improvisations and Collaborations
 
-<a href="https://cmmtrio.bandcamp.com/album/live-in-berkeley">Listen/buy <strong>here</strong></a> or <a href="https://open.spotify.com/album/4iauZxL3PfG5TKyKZJAsPs?si=DTq-50U7TKGEM1J9oOs-fg"><strong>here</strong></a>
+### Duo performance with Myra Melford
 
-<iframe
-  style="border-radius:12px"
-  src="https://open.spotify.com/embed/album/4iauZxL3PfG5TKyKZJAsPs?utm_source=generator"
-  width="100%"
-  height="352"
-  frameborder="0"
-  allowfullscreen=""
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-  loading="lazy">
-</iframe>
+<div class="media-grid">
+
+  <div class="media-item soundcloud">
+    <iframe
+      src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thrum&visual=true">
+    </iframe>
+  </div>
+
+</div>
+
+---
+
+### Solo improvisations
+
+<div class="media-grid">
+
+  <div class="media-item">
+    <iframe
+      src="https://www.youtube.com/embed/8I3eImyJudY"
+      title="Solo Piano Improvisation">
+    </iframe>
+  </div>
+
+  <div class="media-item">
+    <iframe
+      src="https://open.spotify.com/embed/track/08mOhbZzMJBzf7SDbh4Xrf?utm_source=generator">
+    </iframe>
+  </div>
+
+</div>
+
+---
+
+### Trio Improvisations (CMM Trio)
+
+<a href="https://cmmtrio.bandcamp.com/album/live-in-berkeley">
+Listen/buy <strong>here</strong>
+</a>
+
+<div class="media-grid">
+
+  <div class="media-item spotify-album">
+    <iframe
+      src="https://open.spotify.com/embed/album/4iauZxL3PfG5TKyKZJAsPs?utm_source=generator">
+    </iframe>
+  </div>
+
+</div>
