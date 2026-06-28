@@ -26,6 +26,15 @@ permalink: /listen
 
 <a href="https://soundcloud.com/matthewtmonaco/thrum" target="_blank">Listen <strong>here</strong></a>
 
+<iframe
+  width="100%"
+  height="166"
+  scrolling="no"
+  frameborder="no"
+  allow="autoplay"
+  src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thrum">
+</iframe>
+
 <br>
 <span class="green-bold">Solo improvisations</span>
 
