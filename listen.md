@@ -73,7 +73,7 @@ Recordings of most of my notated music can be found <strong>here</strong>
 
 ### Video
 
-<span class="green-bold">Performance of <em>Mesh</em> with Ensemble Court-circuit</span>
+<span class="green-bold">Performances by Ensemble Court-circuit and Ensemble intercontemporain</span>
 
 <div class="media-grid">
 
@@ -83,8 +83,6 @@ Recordings of most of my notated music can be found <strong>here</strong>
       title="Mesh">
     </iframe>
   </div>
-
-<span class="green-bold">Performance of <em>Scaling</em> with Ensemble intercontemporain</span>
 
   <div class="media-item">
     <iframe
