@@ -121,32 +121,30 @@ body {
   left: 50%;
   transform: translateX(-50%);
 
-  padding-top: 8px;
-  min-width: 180px;
+  min-width: 190px;
+  padding: 8px 0;
+  margin-top: 6px;
+
+  background: #f2f2f2;      /* same as your page */
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 6px 18px rgba(0,0,0,.12);
 
   text-align: center;
-  z-index: 100;
+  z-index: 1000;
 }
 
 .dropdown-content a {
   display: block;
-  padding: 4px 0;
-
+  padding: 8px 16px;
   color: black;
   text-decoration: none;
-  font-weight: normal;
-  font-size: 0.95em;
-
   background: transparent;
 }
 
 .dropdown-content a:hover {
   color: forestgreen;
   background: rgba(0,128,0,.08);
-}
-
-.dropdown:hover .dropdown-content {
-  display: block;
 }
 
 /* =========================
