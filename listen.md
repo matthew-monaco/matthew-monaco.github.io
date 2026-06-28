@@ -31,6 +31,8 @@ permalink: /listen
 
 <a href="https://www.youtube.com/watch?v=8I3eImyJudY&ab_channel=MatthewMonaco">Watch <strong>here</strong></a>.
 
+<a href="https://cmmtrio.bandcamp.com/track/solo-piano">Listen <strong>here</strong></a>.
+
 <br>
 <span class="green-bold">Trio Improvisations (CMM Trio)</span>
 
