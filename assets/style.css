@@ -136,6 +136,62 @@ details > *:not(summary) {
 }
 
 /* =========================
+   WORKS DROPDOWN (CUSTOM)
+========================= */
+
+.works-dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* the button replaces the link look */
+.works-toggle {
+  background: none;
+  border: none;
+  font: inherit;
+  cursor: pointer;
+}
+
+/* dropdown menu */
+.works-menu {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%);
+  
+  display: none;
+  flex-direction: column;
+  gap: 6px;
+
+  background: #f2f2f2; /* page-colored background */
+  border: 1px solid rgba(0,0,0,0.15);
+  padding: 10px 12px;
+  border-radius: 8px;
+
+  z-index: 9999; /* ensures it overlays page content */
+  min-width: 180px;
+}
+
+/* show state */
+.works-dropdown.open .works-menu {
+  display: flex;
+}
+
+/* dropdown items */
+.works-item {
+  text-decoration: none;
+  color: black;
+  padding: 4px 6px;
+  border-radius: 5px;
+  white-space: nowrap;
+}
+
+.works-item:hover {
+  color: forestgreen;
+  background: rgba(0, 128, 0, 0.08);
+}
+
+/* =========================
    FOOTER
 ========================= */
 
@@ -272,94 +328,4 @@ details[open] > *:not(summary) {
     opacity: 1;
     transform: translateY(0);
   }
-}
-
-/* =========================
-   WORKS NAV DROPDOWN (ADDITIVE ONLY)
-   (does NOT affect existing details dropdown)
-========================= */
-
-.nav-dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-/* Works trigger */
-.nav-dropdown .nav-link {
-  cursor: pointer;
-}
-
-/* dropdown panel */
-.nav-dropdown .dropdown-content {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-
-  min-width: 220px;
-
-  background: #f2f2f2;
-
-  z-index: 9999;
-
-  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
-
-  border-radius: 6px;
-  padding: 6px 0;
-}
-
-/* show only THIS dropdown on hover */
-.nav-dropdown:hover .dropdown-content {
-  display: block;
-}
-
-/* dropdown links */
-.nav-dropdown .dropdown-content a {
-  display: block;
-  padding: 10px 14px;
-  white-space: nowrap;
-}
-
-/* =========================
-   WORKS DROPDOWN (HOVER + CLICK MOBILE SAFE)
-========================= */
-
-.nav-dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-/* dropdown panel */
-.nav-dropdown .dropdown-content {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-
-  min-width: 220px;
-  background: #f2f2f2;
-
-  z-index: 9999;
-
-  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
-
-  border-radius: 6px;
-  padding: 6px 0;
-}
-
-/* desktop hover */
-.nav-dropdown:hover .dropdown-content {
-  display: block;
-}
-
-/* mobile click state */
-.nav-dropdown.open .dropdown-content {
-  display: block;
-}
-
-/* links */
-.nav-dropdown .dropdown-content a {
-  display: block;
-  padding: 10px 14px;
-  white-space: nowrap;
 }
