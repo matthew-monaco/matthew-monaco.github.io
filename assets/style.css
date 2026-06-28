@@ -26,9 +26,6 @@ body {
   align-items: center;
   padding: 18px 10px 8px;
   text-align: center;
-
-  position: relative;
-  z-index: 1000;
 }
 
 .site-title {
@@ -42,19 +39,18 @@ body {
   color: forestgreen;
 }
 
-/* nav dot */
-.nav-dot {
+/* clean green square separator */
+.dot {
+  display: inline-block;
   width: 6px;
   height: 6px;
   background: forestgreen;
-  display: inline-block;
   vertical-align: middle;
 }
 
-/* divider */
 .divider {
   width: 100%;
-  max-width: 700px;
+  max-width: 700px; /* key control */
   margin: 10px auto;
 }
 
@@ -82,7 +78,7 @@ body {
   padding: 4px 6px;
   border-radius: 5px;
   display: inline-block;
-  transition: color 0.15s ease, background 0.15s ease;
+  transition: transform 0.15s ease, color 0.15s ease, background 0.15s ease;
 }
 
 .nav-link:hover {
@@ -90,56 +86,53 @@ body {
   background: rgba(0, 128, 0, 0.08);
 }
 
+.nav-link:hover span {   
+  transform: scale(1.05);
+}
+
 .nav-link.active {
   color: forestgreen;
 }
 
+/* clean nav separator (NO font glyphs) */
+.nav-dot {
+  width: 6px;
+  height: 6px;
+  background: forestgreen;
+  display: inline-block;
+  flex: 0 0 6px;
+  line-height: 0;
+  font-size: 0;
+  transform: none;
+}
+
 /* =========================
-   DROPDOWN (WORKS)
+   DROPDOWN
 ========================= */
 
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-
-  min-width: 220px;
-  background: #f2f2f2;
-
+details > summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 10px;
   border-radius: 6px;
-  padding: 6px 0;
-
-  z-index: 9999;
-
-  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+  transition: 0.2s ease;
+  display: inline-block;
+  -webkit-tap-highlight-color: transparent;
 }
 
-/* show dropdown */
-.dropdown:hover .dropdown-content {
-  display: block;
+details > summary::-webkit-details-marker {
+  display: none;
 }
 
-.dropdown-content a {
-  display: block;
-  padding: 10px 14px;
-  white-space: nowrap;
-
-  color: black;
-  text-decoration: none;
-
-  transition: background 0.15s ease, color 0.15s ease;
-}
-
-/* dropdown hover */
-.dropdown-content a:hover {
+details > summary:hover,
+details[open] > summary {
   background: rgba(0, 128, 0, 0.08);
   color: forestgreen;
+}
+
+details > *:not(summary) {
+  margin-top: 8px;
+  margin-left: 18px;
 }
 
 /* =========================
@@ -204,18 +197,29 @@ body {
 }
 
 /* =========================
-   LINKS (FIXED GLOBAL RULE)
+   IMAGES
+========================= */
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* =========================
+   LINKS (SINGLE SYSTEM ONLY)
 ========================= */
 
 a {
   color: black;
   text-decoration: none;
-  transition: color 0.2s ease, background-color 0.2s ease;
+  transition: color 0.2s ease, background-color 0.2s ease, transform 0.2s ease;
 }
 
 a:hover {
   color: forestgreen;
   background-color: rgba(0, 128, 0, 0.08);
+  transform: scale(1.05);
 }
 
 /* =========================
@@ -249,8 +253,69 @@ a:hover {
   to { opacity: 1; }
 }
 
-/* green emphasis text */
+/* Bold green non-hyperlink text */
 .green-bold {
   color: forestgreen;
   font-weight: bold;
+}
+
+details[open] > *:not(summary) {
+  animation: fadeIn 0.8s ease;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-3px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* =========================
+   WORKS NAV DROPDOWN (ADDITIVE ONLY)
+   (does NOT affect existing details dropdown)
+========================= */
+
+.nav-dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Works trigger */
+.nav-dropdown .nav-link {
+  cursor: pointer;
+}
+
+/* dropdown panel */
+.nav-dropdown .dropdown-content {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+
+  min-width: 220px;
+
+  background: #f2f2f2;
+
+  z-index: 9999;
+
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+
+  border-radius: 6px;
+  padding: 6px 0;
+}
+
+/* show only THIS dropdown on hover */
+.nav-dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* dropdown links */
+.nav-dropdown .dropdown-content a {
+  display: block;
+  padding: 10px 14px;
+  white-space: nowrap;
 }
