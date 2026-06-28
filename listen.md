@@ -9,22 +9,16 @@ permalink: /listen
 
 <span class="green-bold">Audio</span>
 
-Recordings of most of my notated music can be found on my <a href="https://soundcloud.com/matthewtmonaco"><strong>SouncCloud</strong></a>.
+Recordings of most of my notated music can be found on my <a href="https://soundcloud.com/matthewtmonaco"><strong>SoundCloud</strong></a>.
 
 <br>
 <span class="green-bold">Video</span>
 
-<p class="listen-item">
-  <a href="https://www.youtube.com/watch?v=RuL0ushx5a0&list=RDRuL0ushx5a0&start_radio=1&ab_channel=Royaumont" target="_blank" rel="noopener">
-    Watch performance of <em>Mesh</em> with Ensemble Court-circuit
-  </a>
-</p>
+<a href="https://www.youtube.com/watch?v=RuL0ushx5a0&list=RDRuL0ushx5a0&start_radio=1&ab_channel=Royaumont"><strong>Watch</strong> a performance of <em>Mesh</em> with Ensemble Court-circuit.</a>.
+<strong>Watch</strong> a performance of <em>Mesh</em>.
 
-<p class="listen-item">
-  <a href="https://www.youtube.com/watch?v=t6OVz_XPd8w&list=RDt6OVz_XPd8w&start_radio=1&ab_channel=MatthewMonaco" target="_blank" rel="noopener">
-    Watch performance of <em>Scaling</em> with Ensemble intercontemporain
-  </a>
-</p>
+<a href="https://www.youtube.com/watch?v=t6OVz_XPd8w&list=RDt6OVz_XPd8w&start_radio=1&ab_channel=MatthewMonaco"><strong>Watch</strong> a performance of <em>Sacling</em> with Ensemble intercontemporain.</a>.
+<strong>Watch</strong> a performance of <em>Mesh</em>.
 
 <br>
 ### Improvisations and Collaborations
