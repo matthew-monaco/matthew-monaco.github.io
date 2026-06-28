@@ -24,32 +24,14 @@ Recordings of most of my notated music can be found on my <a href="https://sound
 
 <span class="green-bold">Duo performance with Myra Melford</span>
 
-<p class="listen-item">
-  <a href="https://soundcloud.com/matthewtmonaco/thrum" target="_blank" rel="noopener">
-    Listen on SoundCloud
-  </a>
-</p>
+<a href="https://soundcloud.com/matthewtmonaco/thrum" target="_blank">Listen <strong>here</strong>.</a>.
 
 <br>
-<span class="green-bold">Solo</span>
+<span class="green-bold">Solo improvisations</span>
 
-<p class="listen-item">
-  <a href="https://www.youtube.com/watch?v=8I3eImyJudY&ab_channel=MatthewMonaco" target="_blank" rel="noopener">
-    Watch solo piano improvisation
-  </a>
-</p>
+<a href="https://www.youtube.com/watch?v=8I3eImyJudY&ab_channel=MatthewMonaco">Watch <strong>here</strong>.</a>.
 
 <br>
 <span class="green-bold">Trio Improvisations (CMM Trio)</span>
 
-<p class="listen-item">
-  <a href="https://cmmtrio.bandcamp.com/album/live-in-berkeley" target="_blank" rel="noopener">
-    Listen/buy on BandCamp
-  </a>
-</p>
-
-<p class="listen-item">
-  <a href="https://open.spotify.com/album/4iauZxL3PfG5TKyKZJAsPs?si=DTq-50U7TKGEM1J9oOs-fg" target="_blank" rel="noopener">
-    Listen on Spotify
-  </a>
-</p>
+<a href="https://cmmtrio.bandcamp.com/album/live-in-berkeley">Listen/buy <strong>here</strong></a> or <a href="https://open.spotify.com/album/4iauZxL3PfG5TKyKZJAsPs?si=DTq-50U7TKGEM1J9oOs-fg"><strong>here</strong>.</a>.
