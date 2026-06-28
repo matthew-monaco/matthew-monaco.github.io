@@ -82,7 +82,15 @@ permalink: /listen
 
 <a href="https://cmmtrio.bandcamp.com/track/solo-piano">Listen <strong>here</strong></a>
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2420668415/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3374365586/transparent=true/" seamless><a href="https://cmmtrio.bandcamp.com/album/live-in-berkeley">Live in Berkeley by Corder Monaco Muntz</a></iframe>
+<iframe
+  style="border-radius:12px"
+  src="https://open.spotify.com/embed/track/08mOhbZzMJBzf7SDbh4Xrf?utm_source=generator"
+  width="100%"
+  height="152"
+  frameborder="0"
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy">
+</iframe>
 
 <br>
 <span class="green-bold">Trio Improvisations (CMM Trio)</span>
