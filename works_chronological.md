@@ -82,6 +82,14 @@ permalink: /works_chronological
   <p><em>Flute, clarinet, violin, viola, violoncello, and piano</em></p>
   <p>Premiered by <span style="color: green">Ensemble Linea, Jean-Philippe Wurtz</span> at the <span style="color: green">Festival aux Chandelles</span> in May, 2025 (S<font size="2">AINTE-MARIE-AUX-MINES</font>, F<font size="2">RANCE</font>).</p>
   <p>Commissioned by the <span style="color: green">Royaumont Foundation</span> with the support of Christine Jolivet Erlih.</p>
+  <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thread-2025-for-ensemble">
+  </iframe>
 </details>
 
 <span class="green-bold">2024</span>
@@ -91,6 +99,14 @@ permalink: /works_chronological
   <p>2024 <span style="color: green"> <span class="nav-dot"></span> </span> 8'</p>
   <p><em>Contrabass clarinet and electronics</em></p>
   <p>Premiered by <span style="color: green">Alain Billard</span> at the <span style="color: green">ManiFeste</span> festival at <span style="color: green">Ircam</span> in June, 2024 (P<font size="2">ARIS</font>, F<font size="2">RANCE</font>).</p>
+  <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/blur">
+  </iframe>
 </details>
 
 <details>
