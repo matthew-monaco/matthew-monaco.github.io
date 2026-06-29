@@ -189,7 +189,7 @@ permalink: /works_chronological
   <summary><strong>Duo</strong></summary>
   <p>2019 <span style="color: green"> <span class="nav-dot"></span> </span> 10'</p>
   <p><em>Flute and violoncello</em></p>
-  <p>Premiered by members of <span style="color: green">Ensemble Linea</span> at the <span style="color: green">Etchings Festival</span> in June 2019 (A<font size="2">VILLAR</font>, F<font size="2">RANCE</font>).</p>
+  <p>Premiered by members of <span style="color: green">Ensemble Linea</span> at the <span style="color: green">Etchings Festival</span> in June 2019 (A<font size="2">UVILLAR</font>, F<font size="2">RANCE</font>).</p>
 </details>
 
 <details>
