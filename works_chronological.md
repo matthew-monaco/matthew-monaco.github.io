@@ -97,14 +97,14 @@ permalink: /works_chronological
 <details>
   <summary><strong>Split</strong></summary>
   <p>2023 <span style="color: green"> <span class="nav-dot"></span> </span> 12'</p>
-  <p><em>Flute, clarinet, piano, violin, viola, violoncello, and piano</em></p>
+  <p><em>Flute, clarinet, violin, viola, violoncello, and piano</em></p>
   <p>Premiered by <span style="color: green">Ensemble l’Itinéraire, David Milnes</span> in October 2023 (B<font size="2">ERKELEY</font>, USA).</p>
 </details>
 
 <details>
   <summary><strong>Mesh</strong></summary>
   <p>2023 <span style="color: green"> <span class="nav-dot"></span> </span> 10'</p>
-  <p><em>Flute, clarinet, piano, violin, viola, violoncello, and piano</em></p>
+  <p><em>Flute, oboe, clarinet, trombone, violin, viola, and violoncello</em></p>
   <p>Premiered by <span style="color: green">Ensemble Court-circuit, Jean Deroyer</span> as part of <span style="color: green">Voix Nouvelles</span> at the Royaumont Abbey in September 2023 (A<font size="2">SNIERES-SUR-OISE</font>, F<font size="2">RANCE</font>).</p>
 </details>
 
