@@ -66,6 +66,14 @@ permalink: /works_chronological
   <p>2025 <span style="color: green"> <span class="nav-dot"></span> </span> 8'</p>
   <p><em>Accordion</em></p>
   <p>Premiered by <span style="color: green">Théo Ould</span> in November, 2025 (B<font size="2">ERKELEY</font>, USA).</p>
+  <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/bloom-2025-for-accordion">
+  </iframe>
 </details>
 
 <details>
