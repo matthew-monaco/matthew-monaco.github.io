@@ -52,6 +52,14 @@ permalink: /works_by_instrumentation
   <p><em>Flute, clarinet, violin, viola, violoncello, and piano</em></p>
   <p>Premiered by <span style="color: green">Ensemble Linea, Jean-Philippe Wurtz</span> at the <span style="color: green">Festival aux Chandelles</span> in May, 2025 (S<font size="2">AINTE-MARIE-AUX-MINES</font>, F<font size="2">RANCE</font>).</p>
   <p>Commissioned by the <span style="color: green">Royaumont Foundation</span> with the support of Christine Jolivet Erlih.</p>
+  <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thread-2025-for-ensemble">
+  </iframe>
 </details>
 
 <details>
@@ -59,6 +67,14 @@ permalink: /works_by_instrumentation
   <p>2023 <span style="color: green"> <span class="nav-dot"></span> </span> 12'</p>
   <p><em>Flute, clarinet, violin, viola, violoncello, and piano</em></p>
   <p>Premiered by <span style="color: green">Ensemble l’Itinéraire, David Milnes</span> in October 2023 (B<font size="2">ERKELEY</font>, USA).</p>
+  <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/split-2023-for-ensemble">
+  </iframe>
 </details>
 
 <details>
@@ -66,6 +82,14 @@ permalink: /works_by_instrumentation
   <p>2023 <span style="color: green"> <span class="nav-dot"></span> </span> 10'</p>
   <p><em>Flute, oboe, clarinet, trombone, violin, viola, and violoncello</em></p>
   <p>Premiered by <span style="color: green">Ensemble Court-circuit, Jean Deroyer</span> as part of <span style="color: green">Voix Nouvelles</span> at the Royaumont Abbey in September 2023 (A<font size="2">SNIERES-SUR-OISE</font>, F<font size="2">RANCE</font>).</p>
+  <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/mesh-2023-for-ensemble">
+  </iframe>
 </details>
 
 <details>
@@ -73,6 +97,14 @@ permalink: /works_by_instrumentation
   <p>2021 <span style="color: green"> <span class="nav-dot"></span> </span> 10'</p>
   <p><em>Contrabass clarinet, 2 percussionists, harp, piano, accordion, 2 violins, 2 violas, violoncello, and double bass</em></p>
   <p>Premiered by <span style="color: green">Ensemble intercontemporain, Léo Margue</span> in November 2021 (P<font size="2">ARIS</font>, F<font size="2">RANCE</font>).</p>
+  <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/spirals-orbits-and-circular-paths-2021-for-ensemble">
+  </iframe>
 </details>
 
 <details>
@@ -80,6 +112,14 @@ permalink: /works_by_instrumentation
   <p>2020 <span style="color: green"> <span class="nav-dot"></span> </span> 13'</p>
   <p><em>Flute, bass clarinet, alto saxophone, french horn, trombone, percussion, 2 violins, viola, violoncello, and double bass</em></p>
   <p>Premiered by <span style="color: green">Ensemble intercontemporain, Léo Margue</span> in January 2021 (P<font size="2">ARIS</font>, F<font size="2">RANCE</font>).</p>
+  <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/scaling-2020-ensemble">
+  </iframe>
 </details>
 
 <details>
@@ -93,6 +133,14 @@ permalink: /works_by_instrumentation
   <p>2019 <span style="color: green"> <span class="nav-dot"></span> </span> 23'</p>
   <p><em>Flute, clarinet, percussion, piano, violin, violoncello, double bass, and baritone solo</em></p>
   <p>Premiered by <span style="color: green">Alinéa, Ty Bouque, Tristan Rais-Sherman</span> in January 2020 (B<font size="2">OSTON</font>, USA).</p>
+  <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/flux-2019-for-baritone-and-ensemble">
+  </iframe>
 </details>
 
 <span class="green-bold">Chamber</span>
@@ -102,6 +150,7 @@ permalink: /works_by_instrumentation
   <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 7'</p>
   <p><em>Flute, violin, and piano</em></p>
   <p>Premiered by Hana Žvagen, Bohdan Doroshenko, and Francesco Campora as part of <span style="color: green">Bled Contemporary Music Week</span> in June, 2026 (B<font size="2">LED</font>, S<font size="2">LOVENIA</font>).</p>
+  <p>Recording coming soon.</p>
 </details>
 
 <details>
@@ -110,6 +159,7 @@ permalink: /works_by_instrumentation
   <p><em>Bass clarinet, drumset, and double bass</em></p>
   <p>Premiered by the <span style="color: green">Patsiaoura Ensemble</span> at the <span style="color: green">Reaching the Limits</span> festival in March, 2026 (L<font size="2">ARNACA</font>, C<font size="2">YPRUS</font>).</p>
   <p>Commissioned by the <span style="color: green">Reaching the Limits</span> festival and <span style="color: green">CultureTones</span>.</p>
+  <p>Recording coming soon.</p>
 </details>
 
 <details>
@@ -117,6 +167,14 @@ permalink: /works_by_instrumentation
   <p>2024 <span style="color: green"> <span class="nav-dot"></span> </span> 9'</p>
   <p><em>String quartet</em></p>
   <p>Premiered by the <span style="color: green">Del Sol Quartet</span> in April, 2024 (B<font size="2">ERKELEY</font>, USA).</p>
+  <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/fits_and_starts">
+  </iframe>
 </details>
 
 <details>
@@ -124,6 +182,14 @@ permalink: /works_by_instrumentation
   <p>2019 <span style="color: green"> <span class="nav-dot"></span> </span> 8'</p>
   <p><em>Clarinet, violin, viola, and double bass</em></p>
   <p>Premiered by the <span style="color: green">Callithumpian Consort, Stephen Drury</span> in November 2019 (B<font size="2">OSTON</font>, USA).</p>
+  <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/quartet-2019-for-clarinet-violin-viola-and-double-bass">
+  </iframe>
 </details>
 
 <details>
@@ -131,6 +197,14 @@ permalink: /works_by_instrumentation
   <p>2019 <span style="color: green"> <span class="nav-dot"></span> </span> 10'</p>
   <p><em>Violin, violoncello, and piano</em></p>
   <p>Premiered by the <span style="color: green">Brouwer Trio</span> at the <span style="color: green">VIPA Festival</span> in July 2019 (V<font size="2">ALENCIA</font>, S<font size="2">PAIN</font>).</p>
+  <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/piano-trio-2020">
+  </iframe>
 </details>
 
 <details>
@@ -138,6 +212,14 @@ permalink: /works_by_instrumentation
   <p>2019 <span style="color: green"> <span class="nav-dot"></span> </span> 10'</p>
   <p><em>Flute and violoncello</em></p>
   <p>Premiered by members of <span style="color: green">Ensemble Linea</span> at the <span style="color: green">Etchings Festival</span> in June 2019 (A<font size="2">UVILLAR</font>, F<font size="2">RANCE</font>).</p>
+  <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/duo-2019-for-flute-and-cello">
+  </iframe>
 </details>
 
 <span class="green-bold">Solo</span>
@@ -147,6 +229,7 @@ permalink: /works_by_instrumentation
   <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 8'</p>
   <p><em>Soprano</em></p>
   <p>Premiered by <span style="color: green">Maria Eleonora Caminada</span> in May, 2026 (M<font size="2">ILAN</font>, I<font size="2">TALY</font>).</p>
+  <p>Recording coming soon.</p>
 </details>
 
 <details>
@@ -161,6 +244,14 @@ permalink: /works_by_instrumentation
   <p>2025 <span style="color: green"> <span class="nav-dot"></span> </span> 8'</p>
   <p><em>Accordion</em></p>
   <p>Premiered by <span style="color: green">Théo Ould</span> in November, 2025 (B<font size="2">ERKELEY</font>, USA).</p>
+  <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/bloom-2025-for-accordion">
+  </iframe>
 </details>
 
 <details>
@@ -168,6 +259,14 @@ permalink: /works_by_instrumentation
   <p>2021 <span style="color: green"> <span class="nav-dot"></span> </span> 11'</p>
   <p><em>Alto saxophone</em></p>
   <p>Premiered by <span style="color: green">Iñaki Bermudez</span> in May 2021 (P<font size="2">ARIS</font>, F<font size="2">RANCE</font>).</p>
+  <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/tessellate-2021-for-alto-saxophone">
+  </iframe>
 </details>
 
 <span class="green-bold">Solo with electronics</span>
@@ -177,6 +276,14 @@ permalink: /works_by_instrumentation
   <p>2024 <span style="color: green"> <span class="nav-dot"></span> </span> 8'</p>
   <p><em>Contrabass clarinet and electronics</em></p>
   <p>Premiered by <span style="color: green">Alain Billard</span> at the <span style="color: green">ManiFeste</span> festival at <span style="color: green">Ircam</span> in June, 2024 (P<font size="2">ARIS</font>, F<font size="2">RANCE</font>).</p>
+  <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/blur">
+  </iframe>
 </details>
 
 <details>
