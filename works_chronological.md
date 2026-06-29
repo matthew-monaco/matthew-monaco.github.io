@@ -35,6 +35,7 @@ permalink: /works_chronological
   <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 7'</p>
   <p><em>Flute, violin, and piano</em></p>
   <p>Premiered by Hana Žvagen, Bohdan Doroshenko, and Francesco Campora as part of <span style="color: green">Bled Contemporary Music Week</span> in June, 2026 (B<font size="2">LED</font>, S<font size="2">LOVENIA</font>).</p>
+  <p>Recording coming soon.</p>
 </details>
 
 <details>
@@ -42,6 +43,7 @@ permalink: /works_chronological
   <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 8'</p>
   <p><em>Soprano</em></p>
   <p>Premiered by <span style="color: green">Maria Eleonora Caminada</span> in May, 2026 (M<font size="2">ILAN</font>, I<font size="2">TALY</font>).</p>
+  <p>Recording coming soon.</p>
 </details>
 
 <details>
@@ -50,6 +52,7 @@ permalink: /works_chronological
   <p><em>Bass clarinet, drumset, and double bass</em></p>
   <p>Premiered by the <span style="color: green">Patsiaoura Ensemble</span> at the <span style="color: green">Reaching the Limits</span> festival in March, 2026 (L<font size="2">ARNACA</font>, C<font size="2">YPRUS</font>).</p>
   <p>Commissioned by the <span style="color: green">Reaching the Limits</span> festival and <span style="color: green">CultureTones</span>.</p>
+  <p>Recording coming soon.</p>
 </details>
 
 <span class="green-bold">2025</span>
