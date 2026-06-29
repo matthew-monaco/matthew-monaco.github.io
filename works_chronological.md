@@ -65,7 +65,7 @@ permalink: /works_chronological
   <summary><strong>Bloom</strong></summary>
   <p>2025 <span style="color: green"> <span class="nav-dot"></span> </span> 8'</p>
   <p><em>Accordion</em></p>
-  <p>Premiered by <span style="color: green">Théo Ould</span> in November, 2025 (B<font size="2">ERKELEY</font>, USA.</p>
+  <p>Premiered by <span style="color: green">Théo Ould</span> in November, 2025 (B<font size="2">ERKELEY</font>, USA).</p>
 </details>
 
 <details>
@@ -89,7 +89,7 @@ permalink: /works_chronological
   <summary><strong>Fits and Starts</strong></summary>
   <p>2024 <span style="color: green"> <span class="nav-dot"></span> </span> 9'</p>
   <p><em>String quartet</em></p>
-  <p>Premiered by the <span style="color: green">Del Sol Quartet</span> in April, 2024 (B<font size="2">ERKELEY</font>, USA.</p>
+  <p>Premiered by the <span style="color: green">Del Sol Quartet</span> in April, 2024 (B<font size="2">ERKELEY</font>, USA).</p>
 </details>
 
 <span class="green-bold">2023</span>
@@ -98,7 +98,7 @@ permalink: /works_chronological
   <summary><strong>Split</strong></summary>
   <p>2023 <span style="color: green"> <span class="nav-dot"></span> </span> 12'</p>
   <p><em>Flute, clarinet, piano, violin, viola, violoncello, and piano</em></p>
-  <p>Premiered by <span style="color: green">Ensemble l’Itinéraire, David Milnes</span> in October 2023 (B<font size="2">ERKELEY</font>, USA.</p>
+  <p>Premiered by <span style="color: green">Ensemble l’Itinéraire, David Milnes</span> in October 2023 (B<font size="2">ERKELEY</font>, USA).</p>
 </details>
 
 <details>
@@ -112,7 +112,7 @@ permalink: /works_chronological
   <summary><strong>A ritual, maybe</strong></summary>
   <p>2023 <span style="color: green"> <span class="nav-dot"></span> </span> 8'</p>
   <p><em>Double bass and electronics</em></p>
-  <p>Premiered by <span style="color: green">Richard Worn</span> in April 2023 (B<font size="2">ERKELEY</font>, USA.</p>
+  <p>Premiered by <span style="color: green">Richard Worn</span> in April 2023 (B<font size="2">ERKELEY</font>, USA).</p>
 </details>
 
 <span class="green-bold">2022</span>
@@ -166,7 +166,7 @@ permalink: /works_chronological
   <summary><strong>Flux</strong></summary>
   <p>2019 <span style="color: green"> <span class="nav-dot"></span> </span> 23'</p>
   <p><em>Flute, clarinet, percussion, piano, violin, violoncello, double bass, and baritone solo</em></p>
-  <p>Premiered by <span style="color: green">Alinéa, Ty Bouque, Tristan Rais-Sherman</span> in January 2020 (B<font size="2">OSTON</font>, USA.</p>
+  <p>Premiered by <span style="color: green">Alinéa, Ty Bouque, Tristan Rais-Sherman</span> in January 2020 (B<font size="2">OSTON</font>, USA).</p>
 </details>
 
 <span class="green-bold">2019</span>
@@ -175,7 +175,7 @@ permalink: /works_chronological
   <summary><strong>Quartet</strong></summary>
   <p>2019 <span style="color: green"> <span class="nav-dot"></span> </span> 8'</p>
   <p><em>Clarinet, violin, viola, and double bass</em></p>
-  <p>Premiered by the <span style="color: green">Callithumpian Consort, Stephen Drury</span> in November 2019 (B<font size="2">OSTON</font>, USA.</p>
+  <p>Premiered by the <span style="color: green">Callithumpian Consort, Stephen Drury</span> in November 2019 (B<font size="2">OSTON</font>, USA).</p>
 </details>
 
 <details>
@@ -196,5 +196,5 @@ permalink: /works_chronological
   <summary><strong>Sunbreak</strong></summary>
   <p>2019, rev. 2026 <span style="color: green"> <span class="nav-dot"></span> </span> 12'</p>
   <p><em>Orchestra (2.2.2.2 / 2.2.2 / timp+1 / pno / strings)</em></p>
-  <p>Premiered by the <span style="color: green">NEC Philharmonic, David Loebel</span> in May 2019 (B<font size="2">OSTON</font>, USA.</p>
+  <p>Premiered by the <span style="color: green">NEC Philharmonic, David Loebel</span> in May 2019 (B<font size="2">OSTON</font>, USA).</p>
 </details>
