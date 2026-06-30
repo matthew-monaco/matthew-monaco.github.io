@@ -21,13 +21,6 @@ permalink: /works_by_instrumentation
   <p>Song cycle. Details coming soon.</p>
 </details>
 
-<details>
-  <summary><strong><em>New work</em> for violoncello</strong></summary>
-  <p>2027 <span style="color: green"> <span class="nav-dot"></span> </span> 7</p>
-  <p><em>Violoncello</em></p>
-  <p>Details coming soon.</p>
-</details>
-
 <span class="green-bold">Orchestra and large ensemble</span>
 
 <details>
