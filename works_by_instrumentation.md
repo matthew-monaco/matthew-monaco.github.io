@@ -11,7 +11,7 @@ permalink: /works_by_instrumentation
   <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 7'</p>
   <p><em>Ensemble</em></p>
   <p>More details coming soon.</p>
-  <p>To be premiered by the <span style="color: green">United Instruments of Lucillin</span> at the <span style="color: green">Rainy Days</span> festival in Luxembourg.</p>
+  <p>To be premiered by the <span style="color: green">United Instruments of Lucilin</span> at the <span style="color: green">Rainy Days</span> festival in Luxembourg.</p>
 </details>
 
 <details>
