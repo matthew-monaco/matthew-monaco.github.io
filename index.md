@@ -14,7 +14,7 @@ I am a Paris-based composer and pianist, originally from New Jersey. Feel free t
 
 <p>19 Sep. -  Premiere of <strong>Zagzig</strong> by Ninon Hannecart-Ségal at the Elisabeth Chojnacka Festival (R<font size="2">YBNA</font>, P<font size="2">OLAND</font>)</p>
 <p>Sep. - Performance of <strong>I've Heard That Song Before</strong> by Maria Eleonara Caminada (I<font size="2">TALY</font>)</p>
-<p>Nov. - Premiere of a new work by the United Instruments of Lucillin at the Rainy Days festival (I<font size="2">TALY</font>)</p>
+<p>Nov. - Premiere of a <strong>new work</strong> by the United Instruments of Lucilin at the Rainy Days festival (I<font size="2">TALY</font>)</p>
 
 <br>
 <span class="green-bold">Past events (2026)</span>
