@@ -7,6 +7,14 @@ permalink: /works_chronological
 <span class="green-bold">Coming soon</span>
 
 <details>
+  <summary><strong>New Work</strong></summary>
+  <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 7'</p>
+  <p><em>Ensemble</em></p>
+  <p>More details coming soon.</p>
+  <p>To be premiered by the <span style="color: green">United Instruments of Lucillin</span> at the <span style="color: green">Rainy Days</span> festival in Luxembourg.</p>
+</details>
+
+<details>
   <summary><strong>Ping-Pong</strong></summary>
   <p>2027 <span style="color: green"> <span class="nav-dot"></span> </span> 12'</p>
   <p><em>Flute, oboe, clarinet, bassoon, French horn, trumpet, trombone, 2 percussionists, harp, 2 violins, viola, violoncello, and double bass</em></p>
@@ -15,7 +23,7 @@ permalink: /works_chronological
 </details>
 
 <details>
-  <summary><strong><em>New work</em> for baritone and piano</strong></summary>
+  <summary><strong>New work for baritone and piano</strong></summary>
   <p>2028 <span style="color: green"> <span class="nav-dot"></span> </span> 10'</p>
   <p><em>Baritone and piano</em></p>
   <p>Song cycle. Details coming soon.</p>
