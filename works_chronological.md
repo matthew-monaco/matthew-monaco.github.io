@@ -9,7 +9,7 @@ permalink: /works_chronological
 <details>
   <summary><strong>New Work</strong></summary>
   <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 7'</p>
-  <p><em>Ensemble</em></p>
+  <p><em>Mezzo-soprano, flute, violoncello, and piano</em></p>
   <p>More details coming soon.</p>
   <p>To be premiered by the <span style="color: green">United Instruments of Lucilin</span> at the <span style="color: green">Rainy Days</span> festival in Luxembourg.</p>
 </details>
