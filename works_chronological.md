@@ -19,7 +19,7 @@ permalink: /works_chronological
   <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 8'</p>
   <p><em>Violoncello</em></p>
   <p>More details coming soon.</p>
-  <p>To be premiered in November, 2026 (G<font size="2">RAZ</font>, A<font size="2">USTRIA</font>).
+  <p>To be premiered in November, 2026 (G<font size="2">RAZ</font>, A<font size="2">USTRIA</font>).</p>
 </details>
 
 <details>
