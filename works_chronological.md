@@ -15,6 +15,14 @@ permalink: /works_chronological
 </details>
 
 <details>
+  <summary><strong>New Work for violoncello</strong></summary>
+  <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 8'</p>
+  <p><em>Violoncello</em></p>
+  <p>More details coming soon.</p>
+  <p>To be premiered in November, 2026 (G<font size="2">RAZ</font>, A<font size="2">USTRIA</font>).
+</details>
+
+<details>
   <summary><strong>Ping-Pong</strong></summary>
   <p>2027 <span style="color: green"> <span class="nav-dot"></span> </span> 12'</p>
   <p><em>Flute, oboe, clarinet, bassoon, French horn, trumpet, trombone, 2 percussionists, harp, 2 violins, viola, violoncello, and double bass</em></p>
