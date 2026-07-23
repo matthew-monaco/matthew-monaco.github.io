@@ -7,7 +7,7 @@ permalink: /works_chronological
 <span class="green-bold">Coming soon</span>
 
 <details>
-  <summary><strong>New Work</strong></summary>
+  <summary><strong>New Work for mezzo-soprano and trio</strong></summary>
   <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 7'</p>
   <p><em>Mezzo-soprano, flute, violoncello, and piano</em></p>
   <p>More details coming soon.</p>
