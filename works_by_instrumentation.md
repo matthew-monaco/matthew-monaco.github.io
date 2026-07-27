@@ -24,7 +24,7 @@ permalink: /works_by_instrumentation
 
 <details>
   <summary><strong>Ping-Pong</strong></summary>
-  <p>2027 <span style="color: green"> <span class="nav-dot"></span> </span> 12'</p>
+  <p>2027 <span style="color: green"> <span class="nav-dot"></span> </span> 11'</p>
   <p><em>Flute, oboe, clarinet, bassoon, French horn, trumpet, trombone, 2 percussionists, harp, 2 violins, viola, violoncello, and double bass</em></p>
   <p>More details coming soon.</p>
   <p>Commissioned by the <span style="color: green">ARTZenter Institute</span> for the <span style="color: green">San Francisco Contemporary Music Players</span>.</p>
