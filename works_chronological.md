@@ -8,7 +8,7 @@ permalink: /works_chronological
 
 <details>
   <summary><strong>New Work for mezzo-soprano and trio</strong></summary>
-  <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 6'</p>
+  <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 7'</p>
   <p><em>Mezzo-soprano, flute, violoncello, and piano</em></p>
   <p>More details coming soon.</p>
   <p>To be premiered by the <span style="color: green">United Instruments of Lucilin</span> at the <span style="color: green">Rainy Days</span> festival in Luxembourg.</p>
@@ -16,7 +16,7 @@ permalink: /works_chronological
 
 <details>
   <summary><strong>New Work for violoncello</strong></summary>
-  <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 8'</p>
+  <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 6'</p>
   <p><em>Violoncello</em></p>
   <p>More details coming soon.</p>
   <p>To be premiered in November, 2026 (G<font size="2">RAZ</font>, A<font size="2">USTRIA</font>).</p>
@@ -24,7 +24,7 @@ permalink: /works_chronological
 
 <details>
   <summary><strong>Ping-Pong</strong></summary>
-  <p>2027 <span style="color: green"> <span class="nav-dot"></span> </span> 12'</p>
+  <p>2027 <span style="color: green"> <span class="nav-dot"></span> </span> 11'</p>
   <p><em>Flute, oboe, clarinet, bassoon, French horn, trumpet, trombone, 2 percussionists, harp, 2 violins, viola, violoncello, and double bass</em></p>
   <p>More details coming soon.</p>
   <p>Commissioned by the <span style="color: green">ARTZenter Institute</span> for the <span style="color: green">San Francisco Contemporary Music Players</span>.</p>
