@@ -15,7 +15,7 @@ permalink: /works_chronological
 </details>
 
 <details>
-  <summary><strong>New Work for violoncello</strong></summary>
+  <summary><strong>Schmear</strong></summary>
   <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 6'</p>
   <p><em>Violoncello</em></p>
   <p>More details coming soon.</p>
