@@ -15,6 +15,7 @@ I am a Paris-based composer and pianist, originally from New Jersey. Feel free t
 <p>8 Sep. - Performance of <strong>I've Heard That Song Before</strong> by Maria Eleonora Caminada at the Festival Milano in Ascolto (M<font size="2">ILAN</font>, I<font size="2">TALY</font>)</p>
 <p>13 Sep. - Performance of <strong>I've Heard That Song Before</strong> by Maria Eleonora Caminada (F<font size="2">UBINE</font> M<font size="2">ONFERRATO</font>, I<font size="2">TALY</font>)</p>
 <p>19 Sep. -  Premiere of <strong>Zagzig</strong> by Ninon Hannecart-Ségal at the Elisabeth Chojnacka Festival (R<font size="2">YBNA</font>, P<font size="2">OLAND</font>)</p>
+<p>20 Sep. - Performance of <strong>I've Heard That Song Before</strong> by Maria Eleonora Caminada (R<font size="2">OZZANO</font>, I<font size="2">TALY</font>)</p>
 <p>20 Nov. - Premiere of a <strong>new work</strong> by the United Instruments of Lucilin at the Rainy Days festival (L<font size="2">UXEMBOURG</font>)</p>
 <p>25 Nov. - Premiere of <strong>Schmear</strong> for violoncello (G<font size="2">RAZ</font>, A<font size="2">USTRIA</font>)</p>
 
