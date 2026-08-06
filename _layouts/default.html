@@ -28,33 +28,6 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 </script>
-
-<div id="bottom-gradient"></div>
-
-<script>
-const gradient = document.getElementById("bottom-gradient");
-
-function updateGradient() {
-    const doc = document.documentElement;
-    const maxScroll = doc.scrollHeight - window.innerHeight;
-
-    if (maxScroll <= 0) {
-        gradient.style.opacity = 0;
-        return;
-    }
-
-    const progress = window.scrollY / maxScroll;
-
-    // Fade in during the last 20% of the page
-    const opacity = Math.min(1, Math.max(0, (progress - 0.8) / 0.2));
-
-    gradient.style.opacity = opacity;
-}
-
-window.addEventListener("scroll", updateGradient, { passive: true });
-window.addEventListener("resize", updateGradient);
-window.addEventListener("load", updateGradient);
-</script>
   
 <body>
 
