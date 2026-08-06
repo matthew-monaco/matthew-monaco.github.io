@@ -4,7 +4,7 @@ title: Home | Matthew Monaco
 permalink: /
 ---
 
-I am a Paris-based composer and pianist, originally from New Jersey. Feel free to contact me at <a style="color: green">matthew.t.monaco</a>[at]<a style="color: green">gmail</a>[dot]<a style="color: green">com</a>.
+I am a Paris-based composer and pianist, originally from New Jersey. Feel free to contact me at <span style="color: green">matthew.t.monaco</span>[at]<span style="color: green">gmail</span>[dot]<span style="color: green">com</span>.
 
 <br>
 
