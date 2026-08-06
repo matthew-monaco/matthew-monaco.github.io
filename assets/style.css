@@ -330,3 +330,24 @@ details[open] > *:not(summary) {
     transform: translateY(0);
   }
 }
+
+#bottom-gradient {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    height: min(22vh, 180px);
+
+    pointer-events: none;
+    z-index: 9999;
+
+    opacity: 0;
+    transition: opacity 0.25s ease;
+
+    background: linear-gradient(
+        to top,
+        rgba(0, 0, 0, 0.65) 0%,
+        rgba(0, 0, 0, 0) 100%
+    );
+}
