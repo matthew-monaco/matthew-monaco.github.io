@@ -25,7 +25,7 @@ permalink: /about
 <div style="text-align: justify">&nbsp; &nbsp; Monaco lives in Paris as a recipient of the George Ladd Prix de Paris.</div>  
 <br>
 <details>
-<summary><a style="color: green"><strong>Bio en français</strong></a></summary>
+<summary><span style="color: green"><strong>Bio en français</strong></span></summary>
 <br>
 <p>Matthew Monaco (né en 1997 à Teaneck, New Jersey) est bercé dès son plus jeune âge par le jazz américain qu’écoute son entourage familial. Il commence des études de piano et d’improvisation dans ce style qui lui est familier et se passionne, après sa rencontre avec l`oeuvre de J.S. Bach et Stravinsky, pour la musique écrite. Il entame alors sa formation et sa carrière de compositeur de musique acoustique et électroacoustique au New England Conservatory à Boston dans la classe de Stratis Minakakis. De 2018 à 2020, Monaco organise une série de concerts mensuels pour la musique contemporaine en programmant les créations des compositeurs du NEC après avoir été stagiaire au New York Philharmonic en tant qu’assistant de cours pour les jeunes compositeurs et d’autres programmes éducatifs.</p>
 <p>Suite à l’obtention de son Bachelor, il déménage à Paris et bénéficie des cours de Stefano Gervasoni pour deux années de Master au Conservatoire National Supérieur de Musique et de Danse de Paris (CNSMDP). Ses rencontres l’amènent à collaborer avec l'Ensemble intercontemporain, l'Ensemble Itinéraire, l'Ensemble Court-circuit, l'Ensemble Linea, le Callithumpian Consort, le Del Sol Quartet, le Brouwer Trio, l'Orchestre des lauréats du Conservatoire (CNSMDP), etc. Il travaille dans ces cadres avec Hugh Wolff, Jean Deroyer, Jean-Philippe Wurtz, Stephen Drury, et Léo Margue, et des solistes tel que Alain Billard, Théo Ould, et Maria Eleonora Caminada.</p>
@@ -37,7 +37,7 @@ permalink: /about
 </details>
 
 <details>
-<summary><a style="color: green"><strong>Education</strong></a></summary>
+<summary><span style="color: green"><strong>Education</strong></span></summary>
 <br>
 <div style="text-indent: -40px; padding-left: 40px;">
 <strong>PhD Candidate in Composition</strong> (ABD: graduation May 2027)
@@ -63,7 +63,7 @@ permalink: /about
 
 
 <details>
-<summary><a style="color: green"><strong>Selected Awards and Achievements</strong></a></summary>
+<summary><span style="color: green"><strong>Selected Awards and Achievements</strong></span></summary>
 <br>
   <div style="text-indent: -40px; padding-left: 40px;">
 <font size="2"><strong>2026</strong></font> Selected for the “Unanimes!” National Mentorship Program with l’Association Française des Orchestres <font size="2">(Paris, France)</font>     
