@@ -22,7 +22,7 @@ I am a Paris-based composer and pianist, originally from New Jersey. Feel free t
 <br>
 <span class="green-bold">Past events (2026)</span>
 
-<p>25 Jun. - Premiere of <strong>Rock Paper Scissors</strong> at <em>Bled Contemporary Music Week (B<font size="2">LED</font>, S<font size="2">LOVENIA</font>)</p>
+<p>25 Jun. - Premiere of <strong>Rock Paper Scissors</strong> at <em>Bled Contemporary Music Week</em> (B<font size="2">LED</font>, S<font size="2">LOVENIA</font>)</p>
 <p>20 May - Premiere of <strong>I've Heard That Song Before</strong> by Maria Eleonora Caminada (M<font size="2">ILAN</font>, I<font size="2">TALY</font>)</p>
 <p>15 Mar. - Performance of <strong>Scuffle</strong> by the Patsiaoura Ensemble <em>Reaching the Limits</em> festival (N<font size="2">ICOSIA</font>, C<font size="2">YPRUS</font>)</p>
 <p>14 Mar. - Premiere of <strong>Scuffle</strong> by the Patsiaoura Ensemble at the <em>Reaching the Limits</em> festival (L<font size="2">ARNACA</font>, C<font size="2">YPRUS</font>)</p>
