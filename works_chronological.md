@@ -11,7 +11,7 @@ permalink: /works_chronological
   <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 7'</p>
   <p><em>Mezzo-soprano, flute, violoncello, and piano</em></p>
   <p>More details coming soon.</p>
-  <p>To be premiered by the <span style="color: green">United Instruments of Lucilin</span> at the <span style="color: green">Rainy Days</span> festival in Luxembourg.</p>
+  <p>To be premiered by the <span style="color: green">United Instruments of Lucilin</span> in November 2026 at the <span style="color: green">Rainy Days</span> festival in Luxembourg.</p>
 </details>
 
 <details>
@@ -19,7 +19,7 @@ permalink: /works_chronological
   <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 6'</p>
   <p><em>Violoncello</em></p>
   <p>More details coming soon.</p>
-  <p>To be premiered in November, 2026 (G<font size="2">RAZ</font>, A<font size="2">USTRIA</font>).</p>
+  <p>To be premiered by <span style="color: green">Anna Grenzner</span> in November 2026 as part of <span style="color: green">Coincidence im Gespräch Vol.2</span> (G<font size="2">RAZ</font>, A<font size="2">USTRIA</font>).</p>
 </details>
 
 <details>
@@ -70,7 +70,7 @@ permalink: /works_chronological
   <summary><strong>Zagzig</strong></summary>
   <p>2025 <span style="color: green"> <span class="nav-dot"></span> </span> 4'</p>
   <p><em>Modern harpsichord</em></p>
-  <p>To be premiered by <span style="color: green">Ninon Hannecart-Ségal</span> in September 2026 (R<font size="2">YBNA</font>, P<font size="2">OLAND</font>).</p>
+  <p>To be premiered by <span style="color: green">Ninon Hannecart-Ségal</span> in September 2026 at the <span style="color: green">Elisabeth Chojnacka Festival</span> (R<font size="2">YBNA</font>, P<font size="2">OLAND</font>).</p>
 </details>
 
 <details>
