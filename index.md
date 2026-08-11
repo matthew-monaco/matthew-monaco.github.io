@@ -26,4 +26,4 @@ I am a Paris-based composer and pianist, originally from New Jersey. Feel free t
 <p>20 May - Premiere of <strong>I've Heard That Song Before</strong> by Maria Eleonora Caminada (M<font size="2">ILAN</font>, I<font size="2">TALY</font>)</p>
 <p>15 Mar. - Performance of <strong>Scuffle</strong> by the Patsiaoura Ensemble <em>Reaching the Limits</em> festival (N<font size="2">ICOSIA</font>, C<font size="2">YPRUS</font>)</p>
 <p>14 Mar. - Premiere of <strong>Scuffle</strong> by the Patsiaoura Ensemble at the <em>Reaching the Limits</em> festival (L<font size="2">ARNACA</font>, C<font size="2">YPRUS</font>)</p>
-<p>7 Feb. - Duo performance with Myra Melford (B<font size="2">ERKELEY</font>, USA)</p>
+<p>7 Feb. - Duo performance with Myra Melford as part of the <em>CalPerformances</em> series (B<font size="2">ERKELEY</font>, USA)</p>
