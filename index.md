@@ -6,38 +6,85 @@ permalink: /
 
 <p>I am a Paris-based composer and pianist, working across <u><a href="https://soundcloud.com/matthewtmonaco/thread-2025-for-ensemble" style="color: black">notated music</a></u>, <u><a href="https://soundcloud.com/matthewtmonaco/thrum" style="color: black">improvisation</a></u>, and <u><a href="https://soundcloud.com/matthewtmonaco/rock-paper-scissors" style="color: black">games pieces</a></u>.</p>
 
+<style>
+.popup {
+  display: inline-block;
+  position: relative;
+}
+
+.popup input {
+  display: none;
+}
+
+.popup label {
+  cursor: pointer;
+}
+
+.popup-content {
+  display: none;
+  position: absolute;
+  z-index: 100;
+  left: 0;
+  top: 1.5em;
+  width: 400px;
+  padding: 10px;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+}
+
+.popup input:checked + label + .popup-content {
+  display: block;
+}
+</style>
+
 <p>
-I am a Paris-based composer and pianist, working across <details style="display:inline-block;">
-  <summary><strong>notated composition</strong></summary>
-  <iframe
-    width="100%"
-    height="166"
-    scrolling="no"
-    frameborder="no"
-    allow="autoplay"
-    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thread-2025-for-ensemble">
-  </iframe>
-</details>, <details style="display:inline-block;">
-  <summary><strong>improvisation</strong></summary>
-   <iframe
-    width="100%"
-    height="166"
-    scrolling="no"
-    frameborder="no"
-    allow="autoplay"
-    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thrum">
-  </iframe>
-</details>, and <details style="display:inline-block;">
-  <summary><strong>game pieces</strong></summary>
-  <iframe
-    width="100%"
-    height="166"
-    scrolling="no"
-    frameborder="no"
-    allow="autoplay"
-    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/rock-paper-scissors">
-  </iframe>
-</details>.</p>
+I am a Paris-based composer and pianist, working across
+<span class="popup">
+  <input type="checkbox" id="composition">
+  <label for="composition"><strong>notated composition</strong></label>
+  <span class="popup-content">
+    <iframe
+      width="100%"
+      height="166"
+      scrolling="no"
+      frameborder="no"
+      allow="autoplay"
+      src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thread-2025-for-ensemble">
+    </iframe>
+  </span>
+</span>,
+<span class="popup">
+  <input type="checkbox" id="improvisation">
+  <label for="improvisation"><strong>improvisation</strong></label>
+  <span class="popup-content">
+    <iframe
+      width="100%"
+      height="166"
+      scrolling="no"
+      frameborder="no"
+      allow="autoplay"
+      src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thrum">
+    </iframe>
+  </span>
+</span>,
+and
+<span class="popup">
+  <input type="checkbox" id="gamepieces">
+  <label for="gamepieces"><strong>game pieces</strong></label>
+  <span class="popup-content">
+    <iframe
+      width="100%"
+      height="166"
+      scrolling="no"
+      frameborder="no"
+      allow="autoplay"
+      src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/rock-paper-scissors">
+    </iframe>
+  </span>
+</span>.
+</p>
 
 <p>Feel free to contact me at <span style="color: green">matthew.t.monaco</span>[at]<span style="color: green">gmail</span>[dot]<span style="color: green">com</span>.</p>
 
