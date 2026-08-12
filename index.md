@@ -6,8 +6,7 @@ permalink: /
 
 <style>
 .popup {
-  display: inline-block;
-  position: relative;
+  display: inline;
 }
 
 .popup input {
@@ -20,78 +19,39 @@ permalink: /
 
 .popup-content {
   display: none;
-  position: absolute;
-  z-index: 100;
-  top: 1.5em;
-
-  /* Center the popup under the clickable text */
+  position: fixed;
+  z-index: 1000;
   left: 50%;
-  transform: translateX(-50%);
-
-  width: 400px;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: min(600px, 90vw);
   padding: 10px;
   background: white;
   border: 1px solid #ccc;
   border-radius: 6px;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+  box-shadow: 0 5px 25px rgba(0,0,0,0.25);
 }
 
-/* Show the popup when selected */
 .popup input:checked + label + .popup-content {
   display: block;
 }
 </style>
 
-<p>
-I am a Paris-based composer and pianist, working across
+<p>I am a Paris-based composer and pianist, working across <span class="popup"><input type="checkbox" id="composition"><label for="composition"><strong>notated composition</strong></label><span class="popup-content"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thread-2025-for-ensemble"></iframe></span></span>, <span class="popup"><input type="checkbox" id="improvisation"><label for="improvisation"><strong>improvisation</strong></label><span class="popup-content"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thrum"></iframe></span></span>, and <span class="popup"><input type="checkbox" id="gamepieces"><label for="gamepieces"><strong>game pieces</strong></label><span class="popup-content"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/rock-paper-scissors"></iframe></span></span>.</p>
 
-<span class="popup">
-  <input type="radio" name="soundcloud" id="composition">
-  <label for="composition"><strong>notated compositions</strong></label>
-  <span class="popup-content">
-    <iframe
-      width="100%"
-      height="166"
-      scrolling="no"
-      frameborder="no"
-      allow="autoplay"
-      src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thread-2025-for-ensemble">
-    </iframe>
-  </span>
-</span>,
+<script>
+const popups = document.querySelectorAll('.popup input');
 
-<span class="popup">
-  <input type="radio" name="soundcloud" id="improvisation">
-  <label for="improvisation"><strong>improvisation</strong></label>
-  <span class="popup-content">
-    <iframe
-      width="100%"
-      height="166"
-      scrolling="no"
-      frameborder="no"
-      allow="autoplay"
-      src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thrum">
-    </iframe>
-  </span>
-</span>,
-
-and
-
-<span class="popup">
-  <input type="radio" name="soundcloud" id="gamepieces">
-  <label for="gamepieces"><strong>game pieces</strong></label>
-  <span class="popup-content">
-    <iframe
-      width="100%"
-      height="166"
-      scrolling="no"
-      frameborder="no"
-      allow="autoplay"
-      src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/rock-paper-scissors">
-    </iframe>
-  </span>
-</span>.
-</p>
+popups.forEach(input => {
+  input.addEventListener('change', () => {
+    popups.forEach(other => {
+      if (other !== input) {
+        other.checked = false;
+      }
+    });
+  });
+});
+</script>
 
 <p>Feel free to contact me at <span style="color: green">matthew.t.monaco</span>[at]<span style="color: green">gmail</span>[dot]<span style="color: green">com</span>.</p>
 
