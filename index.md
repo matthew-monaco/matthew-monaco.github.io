@@ -4,8 +4,6 @@ title: Home | Matthew Monaco
 permalink: /
 ---
 
-<p>I am a Paris-based composer and pianist, working across <u><a href="https://soundcloud.com/matthewtmonaco/thread-2025-for-ensemble" style="color: black">notated music</a></u>, <u><a href="https://soundcloud.com/matthewtmonaco/thrum" style="color: black">improvisation</a></u>, and <u><a href="https://soundcloud.com/matthewtmonaco/rock-paper-scissors" style="color: black">games pieces</a></u>.</p>
-
 <style>
 .popup {
   display: inline-block;
@@ -43,7 +41,7 @@ permalink: /
 I am a Paris-based composer and pianist, working across
 <span class="popup">
   <input type="checkbox" id="composition">
-  <label for="composition"><strong>notated composition</strong></label>
+  <label for="composition"><span class="green-bold">notated compositions</span></label>
   <span class="popup-content">
     <iframe
       width="100%"
@@ -57,7 +55,7 @@ I am a Paris-based composer and pianist, working across
 </span>,
 <span class="popup">
   <input type="checkbox" id="improvisation">
-  <label for="improvisation"><strong>improvisation</strong></label>
+  <label for="improvisation"><span class="green-bold">improvisation</span></label>
   <span class="popup-content">
     <iframe
       width="100%"
@@ -72,7 +70,7 @@ I am a Paris-based composer and pianist, working across
 and
 <span class="popup">
   <input type="checkbox" id="gamepieces">
-  <label for="gamepieces"><strong>game pieces</strong></label>
+  <label for="gamepieces"><span class="green-bold">game pieces</span></label>
   <span class="popup-content">
     <iframe
       width="100%"
