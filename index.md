@@ -93,8 +93,8 @@ positionPopups();
 <br>
 <span class="green-bold"><em>Past events (2026)</em></span>
 
-<p>25 Jun. - Premiere of <strong>Rock Paper Scissors</strong> at <em>Bled Contemporary Music Week</em> (B<small>LED</small>, S<small>LOVENIA</small>)</p> 
+<small><p>25 Jun. - Premiere of <strong>Rock Paper Scissors</strong> at <em>Bled Contemporary Music Week</em> (B<small>LED</small>, S<small>LOVENIA</small>)</p> 
 <p>20 May - Premiere of <strong>I've Heard That Song Before</strong> by Maria Eleonora Caminada (M<small>ILAN</small>, I<small>TALY</small>)</p>
 <p>15 Mar. - Performance of <strong>Scuffle</strong> by the Patsiaoura Ensemble <em>Reaching the Limits</em> festival (N<small>ICOSIA</small>, C<small>YPRUS</small>)</p>
 <p>14 Mar. - Premiere of <strong>Scuffle</strong> by the Patsiaoura Ensemble at the <em>Reaching the Limits</em> festival (L<small>ARNACA</small>, C<small>YPRUS</small>)</p>
-<p>7 Feb. - Duo performance with Myra Melford as part of the <em>CalPerformances</em> series (B<small>ERKELEY</small>, USA)</p>
+<p>7 Feb. - Duo performance with Myra Melford as part of the <em>CalPerformances</em> series (B<small>ERKELEY</small>, USA)</p></small>
