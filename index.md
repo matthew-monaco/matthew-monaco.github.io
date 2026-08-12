@@ -6,6 +6,50 @@ permalink: /
 
 <p>I am a Paris-based composer and pianist, working across <u><a href="https://soundcloud.com/matthewtmonaco/thread-2025-for-ensemble" style="color: black">notated music</a></u>, <u><a href="https://soundcloud.com/matthewtmonaco/thrum" style="color: black">improvisation</a></u>, and <u><a href="https://soundcloud.com/matthewtmonaco/rock-paper-scissors" style="color: black">games pieces</a></u>.</p>
 
+<p>I am a Paris-based composer and pianist, working across
+
+<details>
+  <summary><strong>notated compositions</strong></summary>
+    <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thread-2025-for-ensemble">
+  </iframe>
+</details>
+
+,
+
+<details>
+  <summary><strong>improvisation</strong></summary>
+    <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thrum">
+  </iframe>
+</details>
+
+, and
+  
+<details>
+  <summary><strong>game pieces</strong></summary>
+    <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/rock-paper-scissors">
+  </iframe>
+</details>
+
+</p>
+
 <p>Feel free to contact me at <span style="color: green">matthew.t.monaco</span>[at]<span style="color: green">gmail</span>[dot]<span style="color: green">com</span>.</p>
 
 <br>
