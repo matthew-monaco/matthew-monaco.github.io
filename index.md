@@ -19,15 +19,12 @@ permalink: /
 
 .popup-content {
   display: none;
-  position: fixed;
+  position: absolute;
   z-index: 1000;
 
-  /* Center horizontally */
+  /* Center horizontally on the page */
   left: 50%;
   transform: translateX(-50%);
-
-  /* Position vertically below the text */
-  top: 3em;
 
   width: min(600px, 90vw);
   padding: 10px;
@@ -43,12 +40,22 @@ permalink: /
 }
 </style>
 
-<p>
+<p id="bio-text">
 I am a Paris-based composer and pianist, working across <span class="popup"><input type="checkbox" id="composition"><label for="composition"><strong>notated composition</strong></label><span class="popup-content"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thread-2025-for-ensemble"></iframe></span></span>, <span class="popup"><input type="checkbox" id="improvisation"><label for="improvisation"><strong>improvisation</strong></label><span class="popup-content"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thrum"></iframe></span></span>, and <span class="popup"><input type="checkbox" id="gamepieces"><label for="gamepieces"><strong>game pieces</strong></label><span class="popup-content"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/rock-paper-scissors"></iframe></span></span>.
 </p>
 
 <script>
+const bio = document.getElementById('bio-text');
 const popups = document.querySelectorAll('.popup input');
+
+function positionPopups() {
+  const rect = bio.getBoundingClientRect();
+  const top = rect.bottom + window.scrollY + 10;
+
+  document.querySelectorAll('.popup-content').forEach(popup => {
+    popup.style.top = top + 'px';
+  });
+}
 
 popups.forEach(input => {
   input.addEventListener('change', () => {
@@ -57,8 +64,15 @@ popups.forEach(input => {
         other.checked = false;
       }
     });
+
+    positionPopups();
   });
 });
+
+window.addEventListener('resize', positionPopups);
+window.addEventListener('scroll', positionPopups);
+
+positionPopups();
 </script>
 
 <p>Feel free to contact me at <span style="color: green">matthew.t.monaco</span>[at]<span style="color: green">gmail</span>[dot]<span style="color: green">com</span>.</p>
