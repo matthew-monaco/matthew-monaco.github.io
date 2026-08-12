@@ -4,7 +4,7 @@ title: Home | Matthew Monaco
 permalink: /
 ---
 
-<p>I am a Paris-based composer and pianist, working across <a href="https://soundcloud.com/matthewtmonaco/thread-2025-for-ensemble" style="color: black">notated music</a>, <a href="https://soundcloud.com/matthewtmonaco/thrum" style="color: black">improvisation</a>, and <a href="https://soundcloud.com/matthewtmonaco/rock-paper-scissors" style="color: black">games pieces</a>.</p>
+<p>I am a Paris-based composer and pianist, working across <u><a href="https://soundcloud.com/matthewtmonaco/thread-2025-for-ensemble" style="color: black">notated music</a></u>, <u><a href="https://soundcloud.com/matthewtmonaco/thrum" style="color: black">improvisation</a></u>, and <u><a href="https://soundcloud.com/matthewtmonaco/rock-paper-scissors" style="color: black">games pieces</a></u>.</p>
 
 <p>Feel free to contact me at <span style="color: green">matthew.t.monaco</span>[at]<span style="color: green">gmail</span>[dot]<span style="color: green">com</span>.</p>
 
