@@ -6,10 +6,8 @@ permalink: /
 
 <p>I am a Paris-based composer and pianist, working across <u><a href="https://soundcloud.com/matthewtmonaco/thread-2025-for-ensemble" style="color: black">notated music</a></u>, <u><a href="https://soundcloud.com/matthewtmonaco/thrum" style="color: black">improvisation</a></u>, and <u><a href="https://soundcloud.com/matthewtmonaco/rock-paper-scissors" style="color: black">games pieces</a></u>.</p>
 
-<p>I am a Paris-based composer and pianist, working across
-
-<details>
-  <summary><strong>notated compositions</strong></summary>
+<p>I am a Paris-based composer and pianist, working across <details>
+  <summary><strong>notated composition</strong></summary>
     <iframe
     width="100%"
     height="166"
@@ -18,11 +16,7 @@ permalink: /
     allow="autoplay"
     src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thread-2025-for-ensemble">
   </iframe>
-</details>
-
-,
-
-<details>
+</details>, <details>
   <summary><strong>improvisation</strong></summary>
     <iframe
     width="100%"
@@ -32,11 +26,7 @@ permalink: /
     allow="autoplay"
     src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thrum">
   </iframe>
-</details>
-
-, and
-  
-<details>
+</details>, and <details>
   <summary><strong>game pieces</strong></summary>
     <iframe
     width="100%"
