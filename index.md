@@ -21,11 +21,17 @@ permalink: /
   display: none;
   position: fixed;
   z-index: 1000;
+
+  /* Center horizontally */
   left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
+  transform: translateX(-50%);
+
+  /* Position vertically below the text */
+  top: 3em;
+
   width: min(600px, 90vw);
   padding: 10px;
+
   background: white;
   border: 1px solid #ccc;
   border-radius: 6px;
@@ -37,7 +43,9 @@ permalink: /
 }
 </style>
 
-<p>I am a Paris-based composer and pianist, working across <span class="popup"><input type="checkbox" id="composition"><label for="composition"><strong>notated composition</strong></label><span class="popup-content"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thread-2025-for-ensemble"></iframe></span></span>, <span class="popup"><input type="checkbox" id="improvisation"><label for="improvisation"><strong>improvisation</strong></label><span class="popup-content"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thrum"></iframe></span></span>, and <span class="popup"><input type="checkbox" id="gamepieces"><label for="gamepieces"><strong>game pieces</strong></label><span class="popup-content"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/rock-paper-scissors"></iframe></span></span>.</p>
+<p>
+I am a Paris-based composer and pianist, working across <span class="popup"><input type="checkbox" id="composition"><label for="composition"><strong>notated composition</strong></label><span class="popup-content"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thread-2025-for-ensemble"></iframe></span></span>, <span class="popup"><input type="checkbox" id="improvisation"><label for="improvisation"><strong>improvisation</strong></label><span class="popup-content"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/thrum"></iframe></span></span>, and <span class="popup"><input type="checkbox" id="gamepieces"><label for="gamepieces"><strong>game pieces</strong></label><span class="popup-content"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/rock-paper-scissors"></iframe></span></span>.
+</p>
 
 <script>
 const popups = document.querySelectorAll('.popup input');
