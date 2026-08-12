@@ -43,7 +43,7 @@ permalink: /works_chronological
   <summary><strong>Rock Paper Scissors</strong></summary>
   <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 7'</p>
   <p><em>Flute, violin, and piano</em></p>
-  <p>Premiered by Hana Žvagen, Bohdan Doroshenko, and Francesco Campora as part of <span style="color: green">Bled Contemporary Music Week</span> in June, 2026 (B<small>LED</small>, S<small>LOVENIA</small>).</p>
+  <p>Premiered by <span style="color: green">Hana Žvagen</span>, <span style="color: green">Bohdan Doroshenko</span>, and <span style="color: green">Francesco Campora</span> as part of <span style="color: green">Bled Contemporary Music Week</span> in June, 2026 (B<small>LED</small>, S<small>LOVENIA</small>).</p>
   <p>Recording coming soon.</p>
 </details>
 
