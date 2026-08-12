@@ -91,7 +91,7 @@ positionPopups();
 <p>25 Nov. - Premiere of <strong>Schmear</strong> for violoncello by Anna Grenzner as part of <em>Coincidence im Gespräch Vol.2</em> (G<small>RAZ</small>, A<small>USTRIA</small>)</p>
 
 <br>
-<span class="green-bold">Past events (2026)</span>
+<span class="green-bold"><em>Past events (2026)</em></span>
 
 <p>25 Jun. - Premiere of <strong>Rock Paper Scissors</strong> at <em>Bled Contemporary Music Week</em> (B<small>LED</small>, S<small>LOVENIA</small>)</p> 
 <p>20 May - Premiere of <strong>I've Heard That Song Before</strong> by Maria Eleonora Caminada (M<small>ILAN</small>, I<small>TALY</small>)</p>
