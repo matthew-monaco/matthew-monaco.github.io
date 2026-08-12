@@ -199,13 +199,6 @@ details > *:not(summary) {
 .site-footer {
   margin-top: 30px;
   padding-bottom: 25px;
-  background: linear-gradient(
-    to bottom,
-    #f2f2f2 0%,
-    #eeeeee 40%,
-    #e5e5e5 75%,
-    #d8d8d8 100%
-  );
 }
 
 .socials {
