@@ -4,7 +4,7 @@ title: Home | Matthew Monaco
 permalink: /
 ---
 
-<p>I am a Paris-based composer and improviser, working across notated music, improvisation, and game pieces.</p>
+<p>I am a Paris-based composer and pianist, working across notated music, improvisation, and game pieces.</p>
 <p>Feel free to contact me at <span style="color: green">matthew.t.monaco</span>[at]<span style="color: green">gmail</span>[dot]<span style="color: green">com</span>.</p>
 
 <br>
