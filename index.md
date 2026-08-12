@@ -22,8 +22,12 @@ permalink: /
   display: none;
   position: absolute;
   z-index: 100;
-  left: 0;
   top: 1.5em;
+
+  /* Center the popup under the clickable text */
+  left: 50%;
+  transform: translateX(-50%);
+
   width: 400px;
   padding: 10px;
   background: white;
@@ -32,6 +36,7 @@ permalink: /
   box-shadow: 0 4px 15px rgba(0,0,0,0.15);
 }
 
+/* Show the popup when selected */
 .popup input:checked + label + .popup-content {
   display: block;
 }
@@ -39,9 +44,10 @@ permalink: /
 
 <p>
 I am a Paris-based composer and pianist, working across
+
 <span class="popup">
-  <input type="checkbox" id="composition">
-  <label for="composition"><span class="green-bold">notated compositions</span></label>
+  <input type="radio" name="soundcloud" id="composition">
+  <label for="composition"><strong>notated compositions</strong></label>
   <span class="popup-content">
     <iframe
       width="100%"
@@ -53,9 +59,10 @@ I am a Paris-based composer and pianist, working across
     </iframe>
   </span>
 </span>,
+
 <span class="popup">
-  <input type="checkbox" id="improvisation">
-  <label for="improvisation"><span class="green-bold">improvisation</span></label>
+  <input type="radio" name="soundcloud" id="improvisation">
+  <label for="improvisation"><strong>improvisation</strong></label>
   <span class="popup-content">
     <iframe
       width="100%"
@@ -67,10 +74,12 @@ I am a Paris-based composer and pianist, working across
     </iframe>
   </span>
 </span>,
+
 and
+
 <span class="popup">
-  <input type="checkbox" id="gamepieces">
-  <label for="gamepieces"><span class="green-bold">game pieces</span></label>
+  <input type="radio" name="soundcloud" id="gamepieces">
+  <label for="gamepieces"><strong>game pieces</strong></label>
   <span class="popup-content">
     <iframe
       width="100%"
