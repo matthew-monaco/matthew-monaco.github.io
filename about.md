@@ -16,7 +16,7 @@ permalink: /about
 <div style="text-align: justify">&nbsp; &nbsp; While Monaco's music explores a complex terrain in between the worlds of notation, improvisation, and game pieces, his research focuses on intersections of phenomenology and music theory, creating a space for work-specific methods in contemporary music analysis. Two current (separate) research projects focus on musico-grammatical paradigms in the solo performances of Cecil Taylor and rhythmic processes in Beat Furrer's <em>Konzert</em>. </div>  
 
 
-<div style="text-align: justify">&nbsp; &nbsp; He recently worked with Ensemble Linea to premiere <em>Thread</em> (commissioned by the Royaumont Foundation) at the Festival aux Chandelles. 2026 will see premieres in Cyprus (Larnaca), Italy (Milan), Slovenia (Bled), and Poland (Rybna).</div>
+<div style="text-align: justify">&nbsp; &nbsp; He recently worked with Ensemble Linea to premiere <em>Thread</em> (commissioned by the Royaumont Foundation) at the Festival aux Chandelles. 2026 will see premieres in Austria, Italy, Luxembourg, Poland, Slovenia, and Cyprus.</div>
 
 
 <div style="text-align: justify">&nbsp; &nbsp; Through his travels and his desire to meet the composers who inspire him, Monaco has frequently participated in international academies (ManiFeste, Voix Nouvelles, VIPA etc.), and benefited from the advice (and ears) of Kaija Saariaho, Tristan Murail, Toshio Hosokawa, Philippe Leroux, Philippe Manoury, Diana Soh, Francesco Filidei, Francesca Verunelli, and Du Yun, among others.</div>  
