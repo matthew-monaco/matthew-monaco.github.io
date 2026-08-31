@@ -66,7 +66,7 @@ permalink: /about
 <summary><span style="color: green"><strong>Selected Awards and Achievements</strong></span></summary>
 <br>
   <div style="text-indent: -40px; padding-left: 40px;">
-<font size="2"><strong>2026</strong></font> Special Prize awarded by the 6th Ise-Shima International Composition Competition <font size="2">(Tokyo, Japan)</font>     
+<font size="2"><strong>2026</strong></font> Special Prize awarded by the 6<sup>th</sup> Ise-Shima International Composition Competition <font size="2">(Tokyo, Japan)</font>     
 </div> 
   <div style="text-indent: -40px; padding-left: 40px;">
 <font size="2"><strong>2026</strong></font> Selected for the “Unanimes!” National Mentorship Program with l’Association Française des Orchestres <font size="2">(Paris, France)</font>     
