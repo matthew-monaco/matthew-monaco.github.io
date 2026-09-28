@@ -77,7 +77,7 @@ permalink: /works_chronological
   <summary><strong>Zagzig</strong></summary>
   <p>2025, rev. 2026 <span style="color: green"> <span class="nav-dot"></span> </span> 4'</p>
   <p><em>Modern harpsichord</em></p>
-  <p>To be premiered by <span style="color: green">Ninon Hannecart-Ségal</span> in September 2026 at the <span style="color: green">Elisabeth Chojnacka Festival</span> (R<small>YBNA</small>, P<small>OLAND</small>).</p>
+  <p>Premiered by <span style="color: green">Ninon Hannecart-Ségal</span> in September 2026 at the <span style="color: green">Elisabeth Chojnacka Festival</span> (R<small>YBNA</small>, P<small>OLAND</small>).</p>
 </details>
 
 <details>
