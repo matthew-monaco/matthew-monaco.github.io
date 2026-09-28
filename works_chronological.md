@@ -39,7 +39,7 @@ permalink: /works_chronological
 </details>
 
 <details>
-  <summary><strong>That Strange Flower, the Sun (Five Stevens Settings)</strong></summary>
+  <summary><strong>That Strange Flower, the Sun</strong></summary>
   <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 7'</p>
   <p><em>Mezzo-soprano, flute, violoncello, and piano</em></p>
   <p>Text from Wallace Stevens' <em>Harmonium</em> (1923).</p>
