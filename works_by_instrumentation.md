@@ -7,10 +7,10 @@ permalink: /works_by_instrumentation
 <span class="green-bold">Coming soon</span>
 
 <details>
-  <summary><strong>New Work for mezzo-soprano and trio</strong></summary>
+  <summary><strong>That Strange Flower, the Sun (Five Stevens Settings)</strong></summary>
   <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 7'</p>
   <p><em>Mezzo-soprano, flute, violoncello, and piano</em></p>
-  <p>More details coming soon.</p>
+  <p>Text from Wallace Stevens' <em>Harmonium</em> (1923).</p>
   <p>To be premiered by the <span style="color: green">United Instruments of Lucilin</span> in November 2026 at the <span style="color: green">Rainy Days</span> festival (L<small>UXEMBOURG</small> C<small>ITY</small>, L<small>UXEMBOURG</small>).</p>
 </details>
 
@@ -252,7 +252,7 @@ permalink: /works_by_instrumentation
   <summary><strong>Zagzig</strong></summary>
   <p>2025, rev. 2026 <span style="color: green"> <span class="nav-dot"></span> </span> 4'</p>
   <p><em>Modern harpsichord</em></p>
-  <p>To be premiered by <span style="color: green">Ninon Hannecart-Ségal</span> in September 2026 at the <span style="color: green">Elisabeth Chojnacka Festival</span> (R<small>YBNA</small>, P<small>OLAND</small>).</p>
+  <p>Premiered by <span style="color: green">Ninon Hannecart-Ségal</span> in September 2026 at the <span style="color: green">Elisabeth Chojnacka Festival</span> (R<small>YBNA</small>, P<small>OLAND</small>).</p>
 </details>
 
 <details>
