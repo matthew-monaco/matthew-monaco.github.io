@@ -7,22 +7,6 @@ permalink: /works_by_instrumentation
 <span class="green-bold">Coming soon</span>
 
 <details>
-  <summary><strong>That Strange Flower, the Sun (Five Stevens Settings)</strong></summary>
-  <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 7'</p>
-  <p><em>Mezzo-soprano, flute, violoncello, and piano</em></p>
-  <p>Text from Wallace Stevens' <em>Harmonium</em> (1923).</p>
-  <p>To be premiered by the <span style="color: green">United Instruments of Lucilin</span> in November 2026 at the <span style="color: green">Rainy Days</span> festival (L<small>UXEMBOURG</small> C<small>ITY</small>, L<small>UXEMBOURG</small>).</p>
-</details>
-
-<details>
-  <summary><strong>Schmear</strong></summary>
-  <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 6'</p>
-  <p><em>Violoncello</em></p>
-  <p>More details coming soon.</p>
-  <p>To be premiered by <span style="color: green">Anna Grenzner</span> in November 2026 as part of <span style="color: green">Coincidence im Gespräch Vol.2</span> (G<small>RAZ</small>, A<small>USTRIA</small>).</p>
-</details>
-
-<details>
   <summary><strong>Ping-Pong</strong></summary>
   <p>2027 <span style="color: green"> <span class="nav-dot"></span> </span> 11'</p>
   <p><em>Flute, oboe, clarinet, bassoon, French horn, trumpet, trombone, 2 percussionists, harp, 2 violins, viola, violoncello, and double bass</em></p>
@@ -245,7 +229,15 @@ permalink: /works_by_instrumentation
   </iframe>
 </details>
 
-<span class="green-bold">Solo</span>
+<span class="green-bold">With voice</span>
+
+<details>
+  <summary><strong>That Strange Flower, the Sun (Five Stevens Settings)</strong></summary>
+  <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 7'</p>
+  <p><em>Mezzo-soprano, flute, violoncello, and piano</em></p>
+  <p>Text from Wallace Stevens' <em>Harmonium</em> (1923).</p>
+  <p>To be premiered by the <span style="color: green">United Instruments of Lucilin</span> in November 2026 at the <span style="color: green">Rainy Days</span> festival (L<small>UXEMBOURG</small> C<small>ITY</small>, L<small>UXEMBOURG</small>).</p>
+</details>
 
 <details>
   <summary><strong>I've Heard That Song Before</strong></summary>
@@ -253,6 +245,16 @@ permalink: /works_by_instrumentation
   <p><em>Soprano</em></p>
   <p>Premiered by <span style="color: green">Maria Eleonora Caminada</span> in May, 2026 (M<small>ILAN</small>, I<small>TALY</small>).</p>
   <p>Recording coming soon.</p>
+</details>
+
+<span class="green-bold">Solo</span>
+
+<details>
+  <summary><strong>Schmear</strong></summary>
+  <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 6'</p>
+  <p><em>Violoncello</em></p>
+  <p>More details coming soon.</p>
+  <p>To be premiered by <span style="color: green">Anna Grenzner</span> in November 2026 as part of <span style="color: green">Coincidence im Gespräch Vol.2</span> (G<small>RAZ</small>, A<small>USTRIA</small>).</p>
 </details>
 
 <details>
