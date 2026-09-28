@@ -31,6 +31,13 @@ permalink: /works_chronological
 </details>
 
 <details>
+  <summary><strong>New work for choir</strong></summary>
+  <p>2027 <span style="color: green"> <span class="nav-dot"></span> </span> 5'</p>
+  <p><em>SATB choir</em></p>
+  <p>Details coming soon.</p>
+</details>
+
+<details>
   <summary><strong>New work for baritone and piano</strong></summary>
   <p>2028 <span style="color: green"> <span class="nav-dot"></span> </span> 10'</p>
   <p><em>Baritone and piano</em></p>
