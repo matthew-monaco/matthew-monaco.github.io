@@ -7,22 +7,6 @@ permalink: /works_chronological
 <span class="green-bold">Coming soon</span>
 
 <details>
-  <summary><strong>That Strange Flower, the Sun (Five Stevens Settings)</strong></summary>
-  <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 7'</p>
-  <p><em>Mezzo-soprano, flute, violoncello, and piano</em></p>
-  <p>Text from Wallace Stevens' <em>Harmonium</em> (1923).</p>
-  <p>To be premiered by the <span style="color: green">United Instruments of Lucilin</span> in November 2026 at the <span style="color: green">Rainy Days</span> festival (L<small>UXEMBOURG</small> C<small>ITY</small>, L<small>UXEMBOURG</small>).</p>
-</details>
-
-<details>
-  <summary><strong>Schmear</strong></summary>
-  <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 6'</p>
-  <p><em>Violoncello</em></p>
-  <p>More details coming soon.</p>
-  <p>To be premiered by <span style="color: green">Anna Grenzner</span> in November 2026 as part of <span style="color: green">Coincidence im Gespräch Vol.2</span> (G<small>RAZ</small>, A<small>USTRIA</small>).</p>
-</details>
-
-<details>
   <summary><strong>Ping-Pong</strong></summary>
   <p>2027 <span style="color: green"> <span class="nav-dot"></span> </span> 11'</p>
   <p><em>Flute, oboe, clarinet, bassoon, French horn, trumpet, trombone, 2 percussionists, harp, 2 violins, viola, violoncello, and double bass</em></p>
@@ -45,6 +29,22 @@ permalink: /works_chronological
 </details>
 
 <span class="green-bold">2026</span>
+
+<details>
+  <summary><strong>Schmear</strong></summary>
+  <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 6'</p>
+  <p><em>Violoncello</em></p>
+  <p>More details coming soon.</p>
+  <p>To be premiered by <span style="color: green">Anna Grenzner</span> in November 2026 as part of <span style="color: green">Coincidence im Gespräch Vol.2</span> (G<small>RAZ</small>, A<small>USTRIA</small>).</p>
+</details>
+
+<details>
+  <summary><strong>That Strange Flower, the Sun (Five Stevens Settings)</strong></summary>
+  <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 7'</p>
+  <p><em>Mezzo-soprano, flute, violoncello, and piano</em></p>
+  <p>Text from Wallace Stevens' <em>Harmonium</em> (1923).</p>
+  <p>To be premiered by the <span style="color: green">United Instruments of Lucilin</span> in November 2026 at the <span style="color: green">Rainy Days</span> festival (L<small>UXEMBOURG</small> C<small>ITY</small>, L<small>UXEMBOURG</small>).</p>
+</details>
 
 <details>
   <summary><strong>Rock Paper Scissors</strong></summary>
