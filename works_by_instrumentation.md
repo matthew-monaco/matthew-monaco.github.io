@@ -235,7 +235,7 @@ permalink: /works_by_instrumentation
   <summary><strong>That Strange Flower, the Sun</strong></summary>
   <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 7'</p>
   <p><em>Mezzo-soprano, flute, violoncello, and piano</em></p>
-  <p>In five movements, settings of Wallace Stevens' <em>Harmonium</em> (1923): Tea, From the Misery of Don Joost, Valley Candle, Gubbinal, and Tattoo.</p>
+  <p>Wallace Stevens settings, from <em>Harmonium</em> (1923): Tea, From the Misery of Don Joost, Valley Candle, Gubbinal, and Tattoo.</p>
   <p>To be premiered by the <span style="color: green">United Instruments of Lucilin</span> in November 2026 at the <span style="color: green">Rainy Days</span> festival (L<small>UXEMBOURG</small> C<small>ITY</small>, L<small>UXEMBOURG</small>).</p>
 </details>
 
