@@ -5,16 +5,13 @@ permalink: /about
 ---
 
 <div style="text-align: justify"><span style="color: green">M<font size="2">ATTHEW</font> M<font size="2">ONACO</font></span> (b. 1997, New Jersey) is a Paris-based composer working across notated composition, improvisation, and game pieces. Rooted in both jazz and contemporary classical traditions, his music unites the subtlety and immediacy of improvisation with the complex structures afforded by notated composition.</div> 
-
+<br>
 <div style="text-align: justify">Monaco began his training and career as a composer at the New England Conservatory in Boston, in the class of Stratis Minakakis. After obtaining his Bachelor's degree in 2020, Monaco moved to Paris, studying with Stefano Gervasoni for two years at the Conservatoire National Supérieur de Musique et de Danse de Paris (CNSMDP), earning his Master’s in 2022. While at the Paris Conservatory, Monaco deepened his knowledge of electronic music through courses with Yan Maresz, Luis Naon, and Grégoire Lorieux. In order to satiate his growing interest in electroacoustic music and revisit his roots in improvised traditions, Monaco entered the doctorate program in composition (PhD) at the University of California, Berkeley. While there, he worked with Carmine-Emanuele Cella and Edmund Campion at the Center for New Music and Audio Technologies (CNMAT), and with Myra Melford, with whom he expanded and refined his improvisational skills, following in the heritage of American free jazz, a source from which much of his musical language draws inspiration.</div> 
-
-
+<br>
 <div style="text-align: justify">Monaco’s compositions have been heard in the United States, France, Italy, Spain, Poland, Slovenia, and Cyprus. He has worked with ensembles including Ensemble intercontemporain, Ensemble Itinéraire, Ensemble Court-circuit, Ensemble Linea, the Callithumpian Consort, the Del Sol Quartet, the Brouwer Trio, Patsiaoura Ensemble, Orchestre des lauréats du Conservatoire (CNSMDP), conductors such as Hugh Wolff, Jean Deroyer, Jean-Philippe Wurtz, Stephen Drury, David Loebel, and Léo Margue, as well as soloists including Alain Billard, Théo Ould, and Maria Eleonora Caminada. Monaco’s electroacoustic music has been premiered and performed at venues including Ircam, Stanford University’s CCRMA, and UC Berkeley’s CNMAT.</div> 
-
-
+<br>
 <div style="text-align: justify">Highlights of the 2026-2027 season include premieres in Graz, Luxembourg City, San Francisco, and Paris, as well as the Italian premiere of “Thread” by Divertimento Ensemble. Throughout 2026-2027 Monaco is participating in AVEC (Ateliers voix et composition) with the Cris de Paris, the “Unanimes !” orchestral mentorship program helmed by the Association Française des Orchestres, and finishing his doctoral thesis on musical grammars in the solo improvisations of Cecil Taylor.</div> 
-
-
+<br>
 <div style="text-align: justify">Monaco lives in Paris as the recipient of the George Ladd Prix de Paris.</div> 
 <br>
 <details>
