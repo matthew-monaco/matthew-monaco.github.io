@@ -110,7 +110,7 @@ permalink: /works_by_instrumentation
 <details>
   <summary><strong>Scaling</strong></summary>
   <p>2020 <span style="color: green"> <span class="nav-dot"></span> </span> 13'</p>
-  <p><em>Flute, bass clarinet, alto saxophone, french horn, trombone, percussion, 2 violins, viola, violoncello, and double bass</em></p>
+  <p><em>Flute, bass clarinet, alto saxophone, French horn, trombone, percussion, 2 violins, viola, violoncello, and double bass</em></p>
   <p>Premiered by <span style="color: green">Ensemble intercontemporain, Léo Margue</span> in January 2021 (P<small>ARIS</small>, F<small>RANCE</small>).</p>
   <iframe
     width="100%"
