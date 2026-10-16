@@ -122,27 +122,6 @@ permalink: /works_by_instrumentation
   </iframe>
 </details>
 
-<details>
-  <summary><strong>Ebb/Flow</strong></summary>
-  <p>2020 <span style="color: green"> <span class="nav-dot"></span> </span> 24'</p>
-  <p><em>8 trombones, percussion, and 4 double basses</em></p>
-</details>
-
-<details>
-  <summary><strong>Flux</strong></summary>
-  <p>2019 <span style="color: green"> <span class="nav-dot"></span> </span> 23'</p>
-  <p><em>Flute, clarinet, percussion, piano, violin, violoncello, double bass, and baritone solo</em></p>
-  <p>Premiered by <span style="color: green">Alinéa, Ty Bouque, Tristan Rais-Sherman</span> in January 2020 (B<small>OSTON</small>, USA).</p>
-  <iframe
-    width="100%"
-    height="166"
-    scrolling="no"
-    frameborder="no"
-    allow="autoplay"
-    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/flux-2019-for-baritone-and-ensemble">
-  </iframe>
-</details>
-
 <span class="green-bold">Chamber</span>
 
 <details>
@@ -245,6 +224,21 @@ permalink: /works_by_instrumentation
   <p><em>Soprano</em></p>
   <p>Premiered by <span style="color: green">Maria Eleonora Caminada</span> in May, 2026 (M<small>ILAN</small>, I<small>TALY</small>).</p>
   <p>Recording coming soon.</p>
+</details>
+
+<details>
+  <summary><strong>Flux</strong></summary>
+  <p>2019 <span style="color: green"> <span class="nav-dot"></span> </span> 23'</p>
+  <p><em>Flute, clarinet, percussion, piano, violin, violoncello, double bass, and baritone solo</em></p>
+  <p>Premiered by <span style="color: green">Alinéa, Ty Bouque, Tristan Rais-Sherman</span> in January 2020 (B<small>OSTON</small>, USA).</p>
+  <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/flux-2019-for-baritone-and-ensemble">
+  </iframe>
 </details>
 
 <span class="green-bold">Solo</span>
