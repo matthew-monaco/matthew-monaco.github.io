@@ -7,14 +7,6 @@ permalink: /works_chronological
 <span class="green-bold">Coming soon</span>
 
 <details>
-  <summary><strong>Ping-Pong</strong></summary>
-  <p>2027 <span style="color: green"> <span class="nav-dot"></span> </span> 11'</p>
-  <p><em>Flute, oboe, clarinet, bassoon, French horn, trumpet, trombone, 2 percussionists, harp, 2 violins, viola, violoncello, and double bass</em></p>
-  <p>More details coming soon.</p>
-  <p>Commissioned by the <span style="color: green">ARTZenter Institute</span> for the <span style="color: green">San Francisco Contemporary Music Players</span>.</p>
-</details>
-
-<details>
   <summary><strong>New work for choir</strong></summary>
   <p>2027 <span style="color: green"> <span class="nav-dot"></span> </span> 5'</p>
   <p><em>SATB choir</em></p>
@@ -44,6 +36,14 @@ permalink: /works_chronological
   <p><em>Mezzo-soprano, flute, violoncello, and piano</em></p>
   <p>Wallace Stevens settings, from <em>Harmonium</em> (1923): Tea, From the Misery of Don Joost, Valley Candle, Gubbinal, and Tattoo.</p>
   <p>To be premiered by the <span style="color: green">United Instruments of Lucilin</span> in November 2026 at the <span style="color: green">Rainy Days</span> festival (L<small>UXEMBOURG</small> C<small>ITY</small>, L<small>UXEMBOURG</small>).</p>
+</details>
+
+<details>
+  <summary><strong>Ping-Pong</strong></summary>
+  <p>2027 <span style="color: green"> <span class="nav-dot"></span> </span> 11'</p>
+  <p><em>Flute, oboe, clarinet, bassoon, French horn, trumpet, trombone, 2 percussionists, harp, 2 violins, viola, violoncello, and double bass</em></p>
+  <p>More details coming soon.</p>
+  <p>Commissioned by the <span style="color: green">ARTZenter Institute</span> for the <span style="color: green">San Francisco Contemporary Music Players</span>.</p>
 </details>
 
 <details>
