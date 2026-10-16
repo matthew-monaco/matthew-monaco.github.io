@@ -20,7 +20,7 @@ permalink: /works_by_instrumentation
   <p>Song cycle. Details coming soon.</p>
 </details>
 
-<span class="green-bold">Orchestra and large ensemble</span>
+<span class="green-bold">Orchestra and large ensemble (10 or more musicians)</span>
 
 <details>
   <summary><strong>Ping-Pong</strong></summary>
@@ -35,6 +35,36 @@ permalink: /works_by_instrumentation
   <p>2022 <span style="color: green"> <span class="nav-dot"></span> </span> 23'</p>
   <p><em>20 musicians</em></p>
   <p>Premiered by <span style="color: green">l'Orchestre des lauréats du Conservatoire (CNSMDP), Jean Deroyer</span> in September 2022 (P<small>ARIS</small>, F<small>RANCE</small>).</p>
+</details>
+
+<details>
+  <summary><strong>Spirals, Orbits, and Circular Paths</strong></summary>
+  <p>2021 <span style="color: green"> <span class="nav-dot"></span> </span> 10'</p>
+  <p><em>Contrabass clarinet, 2 percussionists, harp, piano, accordion, 2 violins, 2 violas, violoncello, and double bass</em></p>
+  <p>Premiered by <span style="color: green">Ensemble intercontemporain, Léo Margue</span> in November 2021 (P<small>ARIS</small>, F<small>RANCE</small>).</p>
+  <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/spirals-orbits-and-circular-paths-2021-for-ensemble">
+  </iframe>
+</details>
+
+<details>
+  <summary><strong>Scaling</strong></summary>
+  <p>2020 <span style="color: green"> <span class="nav-dot"></span> </span> 13'</p>
+  <p><em>Flute, bass clarinet, alto saxophone, French horn, trombone, percussion, 2 violins, viola, violoncello, and double bass</em></p>
+  <p>Premiered by <span style="color: green">Ensemble intercontemporain, Léo Margue</span> in January 2021 (P<small>ARIS</small>, F<small>RANCE</small>).</p>
+  <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/scaling-2020-ensemble">
+  </iframe>
 </details>
 
 <details>
@@ -89,36 +119,6 @@ permalink: /works_by_instrumentation
     frameborder="no"
     allow="autoplay"
     src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/mesh-2023-for-ensemble">
-  </iframe>
-</details>
-
-<details>
-  <summary><strong>Spirals, Orbits, and Circular Paths</strong></summary>
-  <p>2021 <span style="color: green"> <span class="nav-dot"></span> </span> 10'</p>
-  <p><em>Contrabass clarinet, 2 percussionists, harp, piano, accordion, 2 violins, 2 violas, violoncello, and double bass</em></p>
-  <p>Premiered by <span style="color: green">Ensemble intercontemporain, Léo Margue</span> in November 2021 (P<small>ARIS</small>, F<small>RANCE</small>).</p>
-  <iframe
-    width="100%"
-    height="166"
-    scrolling="no"
-    frameborder="no"
-    allow="autoplay"
-    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/spirals-orbits-and-circular-paths-2021-for-ensemble">
-  </iframe>
-</details>
-
-<details>
-  <summary><strong>Scaling</strong></summary>
-  <p>2020 <span style="color: green"> <span class="nav-dot"></span> </span> 13'</p>
-  <p><em>Flute, bass clarinet, alto saxophone, French horn, trombone, percussion, 2 violins, viola, violoncello, and double bass</em></p>
-  <p>Premiered by <span style="color: green">Ensemble intercontemporain, Léo Margue</span> in January 2021 (P<small>ARIS</small>, F<small>RANCE</small>).</p>
-  <iframe
-    width="100%"
-    height="166"
-    scrolling="no"
-    frameborder="no"
-    allow="autoplay"
-    src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/matthewtmonaco/scaling-2020-ensemble">
   </iframe>
 </details>
 
