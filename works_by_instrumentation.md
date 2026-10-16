@@ -10,7 +10,7 @@ permalink: /works_by_instrumentation
   <summary><strong>New work for choir</strong></summary>
   <p>2027 <span style="color: green"> <span class="nav-dot"></span> </span> 5'</p>
   <p><em>SATB choir</em></p>
-  <p>Commissioned by <span style="color: green">Les Cris de Paris</span> as part of their AVEC (Ateliers voix et composition) program. More details coming soon.</p>
+  <p>Commissioned by <span style="color: green">Les Cris de Paris</span> as part of their program AVEC (Ateliers voix et composition). More details coming soon.</p>
 </details>
 
 <details>
