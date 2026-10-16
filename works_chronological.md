@@ -255,12 +255,6 @@ permalink: /works_chronological
 </details>
 
 <details>
-  <summary><strong>Ebb/Flow</strong></summary>
-  <p>2020 <span style="color: green"> <span class="nav-dot"></span> </span> 24'</p>
-  <p><em>8 trombones, percussion, and 4 double basses</em></p>
-</details>
-
-<details>
   <summary><strong>Flux</strong></summary>
   <p>2019 <span style="color: green"> <span class="nav-dot"></span> </span> 23'</p>
   <p><em>Flute, clarinet, percussion, piano, violin, violoncello, double bass, and baritone solo</em></p>
