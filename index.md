@@ -86,6 +86,10 @@ positionPopups();
 <p>20 Nov. - Premiere of <strong>That Strange Flower, the Sun</strong> by the United Instruments of Lucilin at the <em>Rainy Days</em> festival (L<small>UXEMBOURG</small> C<small>ITY</small>, L<small>UXEMBOURG</small>)</p>
 <p>25 Nov. - Premiere of <strong>Schmear</strong> for violoncello by Anna Grenzner as part of <em>Coincidence im Gespräch Vol.2</em> (G<small>RAZ</small>, A<small>USTRIA</small>)</p>
 
+<p>2027</p>
+
+<p> 5 Jan. - Premiere of <strong>Ping-Pong</strong> for large ensemble by the San Francisco Contemporary Music Player (S<small>AN</small> F<small>RANCISCO</small>, USA)</p>
+
 <br>
 <span class="green-bold">Past events (2026)</span>
 
