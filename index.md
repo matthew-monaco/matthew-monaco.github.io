@@ -96,6 +96,7 @@ positionPopups();
 
 <p>June - Premiere of a <strong>New Work</strong> for Les Pages et Les Chantres du Centre du Musique Baroque de Versailles (V<small>ERSAILLES</small>, F<small>RANCE</small>)</p>
 
+<p>Date TBD - Italian premiere of <strong>Thread</strong> by Divertimento Ensemble (M<small>ILAN</small>, I<small>TALY</small>)</p>
 
 <br>
 <span class="green-bold">Past events (2026)</span>
