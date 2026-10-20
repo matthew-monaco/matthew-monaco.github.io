@@ -88,7 +88,7 @@ positionPopups();
 
 <p>2027</p>
 
-<p> 5 Jan. - Premiere of <strong>Ping-Pong</strong> for large ensemble by the San Francisco Contemporary Music Player (S<small>AN</small> F<small>RANCISCO</small>, USA)</p>
+<p> 5 Jan. - Premiere of <strong>Ping-Pong</strong> for large ensemble by the San Francisco Contemporary Music Players (S<small>AN</small> F<small>RANCISCO</small>, USA)</p>
 
 <br>
 <span class="green-bold">Past events (2026)</span>
