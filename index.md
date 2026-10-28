@@ -80,7 +80,9 @@ positionPopups();
 <br>
 
 <img src="Headshot_MONACO_Trevon1.jpg" alt="Headshot" width="300">
-<p>Photo: Trevon Colbert (@Trev_png)</p>
+<div align="center">
+<p><small>Photo: Trevon Colbert (@Trev_png)</small></p>
+</div>
 
 <span class="green-bold">Upcoming events</span>
 
