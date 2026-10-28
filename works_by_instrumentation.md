@@ -26,7 +26,6 @@ permalink: /works_by_instrumentation
   <summary><strong>Ping-Pong</strong></summary>
   <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 11'</p>
   <p><em>Flute, oboe, clarinet, bassoon, French horn, trumpet, trombone, 2 percussionists, harp, 2 violins, viola, violoncello, and double bass</em></p>
-  <p>More details coming soon.</p>
   <p>Commissioned by the <span style="color: green">ARTZenter Institute</span> for the <span style="color: green">San Francisco Contemporary Music Players</span>.</p>
 </details>
 
@@ -247,7 +246,6 @@ permalink: /works_by_instrumentation
   <summary><strong>Schmear</strong></summary>
   <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 6'</p>
   <p><em>Violoncello</em></p>
-  <p>More details coming soon.</p>
   <p>To be premiered by <span style="color: green">Anna Grenzner</span> in November 2026 as part of <span style="color: green">Coincidence im Gespräch Vol.2</span> (G<small>RAZ</small>, A<small>USTRIA</small>).</p>
 </details>
 
