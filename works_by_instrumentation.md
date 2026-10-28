@@ -26,7 +26,8 @@ permalink: /works_by_instrumentation
   <summary><strong>Ping-Pong</strong></summary>
   <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 11'</p>
   <p><em>Flute, oboe, clarinet, bassoon, French horn, trumpet, trombone, 2 percussionists, harp, 2 violins, viola, violoncello, and double bass</em></p>
-  <p>Commissioned by the <span style="color: green">ARTZenter Institute</span> for the <span style="color: green">San Francisco Contemporary Music Players</span>.</p>
+  <p>To be premiered by the <span style="color: green">San Francisco Contemporary Music Players</span> in January 2027 in San Francisco.</p>
+  <p>Commissioned by the <span style="color: green">ARTZenter Institute</span>.</p>
 </details>
 
 <details>
