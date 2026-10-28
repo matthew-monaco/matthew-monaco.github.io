@@ -107,5 +107,7 @@ permalink: /about
 
 <br>
 
-<img src="tahoe-standing.jpg" alt="Tahoe" width="300">
-
+<img src="Headshot_MONACO_Trevon1.jpg" alt="Headshot" width="300">
+<div align="center">
+<p><small>Photo: Trevon Colbert (@Trev_png)</small></p>
+</div>
