@@ -95,9 +95,9 @@ positionPopups();
 
 <p>22 May - Premiere of a <strong>New Work</strong> for the Maîtrise de Caen (C<small>AEN</small>, F<small>RANCE</small>)</p>
 
-<p>27 June - French premiere of <strong>Zagzig</strong> by Ninon Hannecart-Ségal at the Sainte-Chapelle of Paris (P<small>ARIS</small>, F<small>RANCE</small>)</p>
+<p>3 June - Premiere of a <strong>New Work</strong> for Les Pages et Les Chantres du Centre de Musique Baroque de Versailles (V<small>ERSAILLES</small>, F<small>RANCE</small>)</p>
 
-<p>June - Premiere of a <strong>New Work</strong> for Les Pages et Les Chantres du Centre de Musique Baroque de Versailles (V<small>ERSAILLES</small>, F<small>RANCE</small>)</p>
+<p>27 June - French premiere of <strong>Zagzig</strong> by Ninon Hannecart-Ségal at the Sainte-Chapelle of Paris (P<small>ARIS</small>, F<small>RANCE</small>)</p>
 
 <p>Date TBD - Italian premiere of <strong>Thread</strong> by Divertimento Ensemble (M<small>ILAN</small>, I<small>TALY</small>)</p>
 
