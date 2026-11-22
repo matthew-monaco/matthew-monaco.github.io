@@ -86,7 +86,6 @@ positionPopups();
 
 <span class="green-bold">Upcoming events</span>
 
-<p>20 Nov. - Premiere of <strong>That Strange Flower, the Sun</strong> by the United Instruments of Lucilin at the <em>Rainy Days</em> festival (L<small>UXEMBOURG</small> C<small>ITY</small>, L<small>UXEMBOURG</small>)</p>
 <p>25 Nov. - Premiere of <strong>Schmear</strong> for violoncello by Anna Grenzner as part of <em>Coincidence im Gespräch Vol.2</em> (G<small>RAZ</small>, A<small>USTRIA</small>)</p>
 
 <p>2027</p>
@@ -104,6 +103,7 @@ positionPopups();
 <br>
 <span class="green-bold">Past events (2026)</span>
 
+<p>20 Nov. - Premiere of <strong>That Strange Flower, the Sun</strong> by the United Instruments of Lucilin at the <em>Rainy Days</em> festival (L<small>UXEMBOURG</small> C<small>ITY</small>, L<small>UXEMBOURG</small>)</p>
 <p>20 Sep. - Performance of <strong>I've Heard That Song Before</strong> by Maria Eleonora Caminada (R<small>OZZANO</small>, I<small>TALY</small>)</p>
 <p>20 Sep. -  Premiere of <strong>Zagzig</strong> by Ninon Hannecart-Ségal at the <em>Elisabeth Chojnacka Festival</em> (R<small>YBNA</small>, P<small>OLAND</small>)</p>
 <p>13 Sep. - Performance of <strong>I've Heard That Song Before</strong> by Maria Eleonora Caminada (F<small>UBINE</small> M<small>ONFERRATO</small>, I<small>TALY</small>)</p>
