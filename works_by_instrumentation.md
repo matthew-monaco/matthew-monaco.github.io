@@ -247,7 +247,8 @@ permalink: /works_by_instrumentation
   <summary><strong>Schmear</strong></summary>
   <p>2026 <span style="color: green"> <span class="nav-dot"></span> </span> 6'</p>
   <p><em>Violoncello</em></p>
-  <p>To be premiered by <span style="color: green">Anna Grenzner</span> in November 2026 as part of <span style="color: green">Coincidence im Gespräch Vol.2</span> (G<small>RAZ</small>, A<small>USTRIA</small>).</p>
+  <p>Premiered by <span style="color: green">Anna Grenzner</span> in November 2026 as part of <span style="color: green">Coincidence im Gespräch Vol.2</span> (G<small>RAZ</small>, A<small>USTRIA</small>).</p>
+  <p>Recording coming soon.</p>
 </details>
 
 <details>
